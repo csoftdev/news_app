@@ -1,0 +1,20 @@
+{
+  plo_home: {
+    post_list: "$.feeds",
+    post: {
+      id: "posid",
+      title: "title",
+      desc: "description",
+      source: "url",
+	  thumbSmall: "image",
+	  thumbMedium: "image",
+	  thumbBig: "image",
+	  dateFormat: "MM/dd/yyyy hh:mm:ss a",
+	  dateRegex: "",
+	  dateTimeZone: "GMT+7",
+	  createdDate: "time",
+	  updatedDate: ""
+    },
+	detail: "$.content[0].body"
+  }
+}
