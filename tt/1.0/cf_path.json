@@ -16,7 +16,11 @@
 	  createdDate: "time_published",
 	  updatedDate: "time_updated"
     },
-	detail: "$.object_content"
+	detail: "$.object_content",
+	in_video_content:{
+		div: "data-src",
+		iframe: "src"
+	}
   },
   tt_cat: {
     post_list: "$",
@@ -34,6 +38,10 @@
 	  createdDate: "time_published",
 	  updatedDate: "time_updated"
     },
-	detail: "$.object_content"
+	detail: "$.object_content",
+	in_video_content:{
+		div: "data-src",
+		iframe: "src"
+	}
   }
 }
