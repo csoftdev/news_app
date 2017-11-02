@@ -1,0 +1,211 @@
+{
+  nav_items: [
+    {
+      name: "Video hot",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_video",
+      provider_cf: [
+        {
+		  pid:"n24_home",
+		  group_id:"trang_chu",
+          url: "https://api.appbongda24h.vn/v3/android/topic/57?tab=0&app_version=1.0.14&",
+		  param_funcs: {
+            device_id: "getAndroidId"
+          },
+          page_var: "conditions",
+		  page_type: "custom",
+		  cus_page_func: "ebase64",
+		  detail_url: "https://api.appbongda24h.vn/v3/android/article/{post.id}?app_version=1.0.14&get_part=-1",
+		  detail_params: {
+            device_id: "getAndroidId"
+          }
+        }
+      ]
+    },
+	{
+      name: "Tình huống",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_cau_thu",
+      provider_cf: [
+        {
+		  pid:"n24_home",
+		  group_id:"tinh_huong",
+          url: "https://api.appbongda24h.vn/v3/android/topic/56?tab=0&app_version=1.0.14&",
+		  param_funcs: {
+            device_id: "getAndroidId"
+          },
+          page_var: "conditions",
+		  page_type: "custom",
+		  cus_page_func: "ebase64",
+		  detail_url: "https://api.appbongda24h.vn/v3/android/article/{post.id}?app_version=1.0.14&get_part=-1",
+		  detail_params: {
+            device_id: "getAndroidId"
+          }
+        }
+      ]
+    },
+	{
+      name: "Tin tức",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_thoi_su",
+      provider_cf: [
+        {
+		  pid:"n24_home",
+		  group_id:"tin_tuc",
+          url: "https://api.appbongda24h.vn/v3/android/topic/79?tab=0&app_version=1.0.14&",
+		  param_funcs: {
+            device_id: "getAndroidId"
+          },
+          page_var: "conditions",
+		  page_type: "custom",
+		  cus_page_func: "ebase64",
+		  detail_url: "https://api.appbongda24h.vn/v3/android/article/{post.id}?app_version=1.0.14&get_part=-1",
+		  detail_params: {
+            device_id: "getAndroidId"
+          }
+        }
+      ]
+    },
+	{
+      name: "Nhận định",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_tam_su",
+      provider_cf: [
+        {
+		  pid:"n24_home",
+		  group_id:"nhan_dinh",
+          url: "https://api.appbongda24h.vn/v3/android/topic/62?tab=0&app_version=1.0.14&",
+		  param_funcs: {
+            device_id: "getAndroidId"
+          },
+          page_var: "conditions",
+		  page_type: "custom",
+		  cus_page_func: "ebase64",
+		  detail_url: "https://api.appbongda24h.vn/v3/android/article/{post.id}?app_version=1.0.14&get_part=-1",
+		  detail_params: {
+            device_id: "getAndroidId"
+          }
+        }
+      ]
+    },
+	{
+      name: "Chuyển nhượng",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_chuyen_nhuong",
+      provider_cf: [
+        {
+		  pid:"n24_home",
+		  group_id:"chuyen_nhuong",
+          url: "https://api.appbongda24h.vn/v2/android/leagues/news/61?app_version=1.0.14&",
+		  param_funcs: {
+            device_id: "getAndroidId"
+          },
+          page_var: "conditions",
+		  page_type: "custom",
+		  cus_page_func: "ebase64",
+		  detail_url: "https://api.appbongda24h.vn/v3/android/article/{post.id}?app_version=1.0.14&get_part=-1",
+		  detail_params: {
+            device_id: "getAndroidId"
+          }
+        }
+      ]
+    },
+	{
+      name: "World Cup 2018",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_cup",
+      provider_cf: [
+        {
+		  pid:"n24_home",
+		  group_id:"wc_2018",
+          url: "https://api.appbongda24h.vn/v3/android/topic/46?tab=0&app_version=1.0.14&",
+		  param_funcs: {
+            device_id: "getAndroidId"
+          },
+          page_var: "conditions",
+		  page_type: "custom",
+		  cus_page_func: "ebase64",
+		  detail_url: "https://api.appbongda24h.vn/v3/android/article/{post.id}?app_version=1.0.14&get_part=-1",
+		  detail_params: {
+            device_id: "getAndroidId"
+          }
+        }
+      ]
+    },
+	{
+      name: "Bên lề",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_phong_su",
+      provider_cf: [
+        {
+		  pid:"n24_home",
+		  group_id:"ben_le",
+          url: "https://api.appbongda24h.vn/v2/android/leagues/news/63?app_version=1.0.14&",
+		  param_funcs: {
+            device_id: "getAndroidId"
+          },
+          page_var: "conditions",
+		  page_type: "custom",
+		  cus_page_func: "ebase64",
+		  detail_url: "https://api.appbongda24h.vn/v3/android/article/{post.id}?app_version=1.0.14&get_part=-1",
+		  detail_params: {
+            device_id: "getAndroidId"
+          }
+        }
+      ]
+    },
+	{
+      name: "Người đẹp",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_women",
+      provider_cf: [
+        {
+		  pid:"n24_home",
+		  group_id:"nguoi_dep",
+          url: "https://api.appbongda24h.vn/v2/android/leagues/news/53?app_version=1.0.14&",
+		  param_funcs: {
+            device_id: "getAndroidId"
+          },
+          page_var: "conditions",
+		  page_type: "custom",
+		  cus_page_func: "ebase64",
+		  detail_url: "https://api.appbongda24h.vn/v3/android/article/{post.id}?app_version=1.0.14&get_part=-1",
+		  detail_params: {
+            device_id: "getAndroidId"
+          }
+        }
+      ]
+    },
+	{
+      name: "Thể thao",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_the_thao",
+      provider_cf: [
+        {
+		  pid:"n24_home",
+		  group_id:"the_thao",
+          url: "https://api.appbongda24h.vn/v2/android/leagues/news/75?app_version=1.0.14&",
+		  param_funcs: {
+            device_id: "getAndroidId"
+          },
+          page_var: "conditions",
+		  page_type: "custom",
+		  cus_page_func: "ebase64",
+		  detail_url: "https://api.appbongda24h.vn/v3/android/article/{post.id}?app_version=1.0.14&get_part=-1",
+		  detail_params: {
+            device_id: "getAndroidId"
+          }
+        }
+      ]
+    }
+  ]
+}

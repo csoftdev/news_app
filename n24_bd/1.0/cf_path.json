@@ -1,0 +1,33 @@
+{
+  n24_home: {
+    post_list: "data[0].data",
+    post_group_list: "$.data",
+    group_path: "group",
+    group_value: "topic_news",
+    post: {
+      id: "id",
+      title: "title",
+      desc: "sapo",
+      source: "",
+	  thumbSmall: "summary_image_url",
+	  thumbMedium: "summary_image_url",
+	  thumbBig: "summary_image_url",
+	  dateFormat: "L10",
+	  createdDate: "published_date",
+	  updatedDate: ""
+    },
+	next_page="$..group_view_more.data",
+	detail: "$.data[0].data[0].data[0].body",
+	resolve_detail_data:"jExtractBody,jRemoveTags_script_div",
+	resolve_post:{
+		source: "$.data[0].data[0].data[0].share_link"
+	},
+	detail_video_list:"$.data[0].data[0].data[0].video.mobileHD[0]",
+	detail_video: {
+		id: "",
+		url:"link",
+		thumb:"",
+		desc:""
+	}
+  }
+}
