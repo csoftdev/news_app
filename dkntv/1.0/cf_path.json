@@ -4,7 +4,6 @@
     post: {
       id: "id",
       title: "title_plain",
-      desc: "desc_plain",
       source: "link",
 	  thumbSmall: "thumbnail_images.thumbnail.url",
 	  thumbMedium: "thumbnail_images.medium.url",
