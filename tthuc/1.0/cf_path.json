@@ -1,0 +1,27 @@
+{
+  tthuc_home: {
+    post_list: "$.posts",
+    post: {
+      id: "id",
+      title: "title",
+      source: "link",
+	  thumbSmall: "thumbnail_images.thumbnail.url",
+	  thumbMedium: "thumbnail_images.medium.url",
+	  thumbBig: "thumbnail_images.large.url",
+	  dateFormat: "yyyy-MM-dd HH:mm:ss",
+	  dateTimeZone: "GMT+7",
+	  createdDate: "date",
+	  updatedDate: "date"
+    },
+	next_page="",
+	detail: "$.post.content",
+	resolve_detail_data:"jRemoveTags_script",
+	detail_video_list:"$.post.custom_fields",
+	detail_video: {
+		id: "",
+		url:"tie_video_self",
+		thumb:"",
+		desc:""
+	}
+  }
+}

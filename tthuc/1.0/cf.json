@@ -1,0 +1,213 @@
+{
+  nav_items: [
+    {
+      name: "Trang chủ",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_home",
+      provider_cf: [
+        {
+		  pid:"tthuc_home",
+		  group_id:"trang_chu",
+          url: "http://trithucvn.net/api/get_recent_posts/?count=24&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Video",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_video",
+      provider_cf: [
+        {
+		  pid:"tthuc_home",
+		  group_id:"video",
+          url: "http://trithucvn.net/api/get_category_posts/?category_id=14&count=24&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Thế giới",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_the_gioi",
+      provider_cf: [
+        {
+		  pid:"tthuc_home",
+		  group_id:"the_gioi",
+          url: "http://trithucvn.net/api/get_category_posts/?category_id=10&count=24&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Chính trị - Xã hội",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_chinh_tri",
+      provider_cf: [
+        {
+		  pid:"tthuc_home",
+		  group_id:"ct_xh",
+          url: "http://trithucvn.net/api/get_category_posts/?category_id=2&count=24&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Văn hóa",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_giai_tri",
+      provider_cf: [
+        {
+		  pid:"tthuc_home",
+		  group_id:"van_hoa",
+          url: "http://trithucvn.net/api/get_category_posts/?category_id=10&count=24&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Chuyên đề",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_can_biet",
+      provider_cf: [
+        {
+		  pid:"tthuc_home",
+		  group_id:"chuyen_de",
+          url: "http://trithucvn.net/api/get_category_posts/?category_id=5&count=24&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Du lịch",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_du_lich",
+      provider_cf: [
+        {
+		  pid:"tthuc_home",
+		  group_id:"du_lich",
+          url: "http://trithucvn.net/api/get_category_posts/?category_id=41&count=24&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Kinh tế",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_kinh_doanh",
+      provider_cf: [
+        {
+		  pid:"tthuc_home",
+		  group_id:"kinh_te",
+          url: "http://trithucvn.net/api/get_category_posts/?category_id=1&count=24&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Đời sống",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_gia_dinh",
+      provider_cf: [
+        {
+		  pid:"tthuc_home",
+		  group_id:"doi_song",
+          url: "http://trithucvn.net/api/get_category_posts/?category_id=40&count=24&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Khoa học",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_khoa_hoc",
+      provider_cf: [
+        {
+		  pid:"tthuc_home",
+		  group_id:"kh_cn",
+          url: "http://trithucvn.net/api/get_category_posts/?category_id=5888&count=24&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Blog",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_tam_su",
+      provider_cf: [
+        {
+		  pid:"tthuc_home",
+		  group_id:"blog",
+          url: "http://trithucvn.net/api/get_category_posts/?category_id=6&count=24&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    }
+  ]
+}
