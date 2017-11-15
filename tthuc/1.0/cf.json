@@ -58,7 +58,7 @@
       ]
     },
 	{
-      name: "Chính trị - Xã hội",
+      name: "Chính trị",
       type: 0,
       use_char_icon: true,
 	  res_icon_name: "cat_chinh_tri",
@@ -85,7 +85,7 @@
         {
 		  pid:"tthuc_home",
 		  group_id:"van_hoa",
-          url: "http://trithucvn.net/api/get_category_posts/?category_id=10&count=24&",
+          url: "http://trithucvn.net/api/get_category_posts/?category_id=4&count=24&",
           page_var: "paged",
 		  page_type: "normal,1",		  
 		  detail_url: "http://trithucvn.net/api/get_post/?",
