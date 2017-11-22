@@ -1,0 +1,154 @@
+{
+  nav_items: [
+    {
+      name: "Trang chủ",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_home",
+      provider_cf: [
+        {
+		  pid:"y_home",
+		  group_id:"trang_chu",
+          url: "http://apinews.yan.vn/api6/List",
+		  url_method:"post",
+		  param_funcs: {
+			isNewer: "0",
+			cats="1,8,9,11,7,2,6,4"
+          },
+          page_var: "id",
+		  page_type: "custom,0",		  
+		  detail_url: "http://apinews.yan.vn/api6/GetcontentDetailV6",
+		  detail_url_method:"post",
+		  detail_params: {
+            contentId: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Nổi bật",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_thoi_su",
+      provider_cf: [
+        {
+		  pid:"y_home",
+		  group_id:"noi_bat",
+          url: "http://apinews.yan.vn/api6/ListNoiBat",
+		  url_method:"post",
+		  param_funcs: {
+			isNewer: "0",
+			cats="2,4,6,7,1,8,9,11"
+          },
+          page_var: "id",
+		  page_type: "custom,0",		  
+		  detail_url: "http://apinews.yan.vn/api6/GetcontentDetailV6",
+		  detail_url_method:"post",
+		  detail_params: {
+            contentId: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Video",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_video",
+      provider_cf: [
+        {
+		  pid:"y_home",
+		  group_id:"trang_chu",
+          url: "http://apinews.yan.vn/api6/List",
+		  url_method:"post",
+		  param_funcs: {
+			isNewer: "0",
+			cats="4"
+          },
+          page_var: "id",
+		  page_type: "custom,0",		  
+		  detail_url: "http://apinews.yan.vn/api6/GetcontentDetailV6",
+		  detail_url_method:"post",
+		  detail_params: {
+            contentId: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Ngôi sao",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_women",
+      provider_cf: [
+        {
+		  pid:"y_home",
+		  group_id:"ngoi_sao",
+          url: "http://apinews.yan.vn/api6/List",
+		  url_method:"post",
+		  param_funcs: {
+			isNewer: "0",
+			cats="2"
+          },
+          page_var: "id",
+		  page_type: "custom,0",		  
+		  detail_url: "http://apinews.yan.vn/api6/GetcontentDetailV6",
+		  detail_url_method:"post",
+		  detail_params: {
+            contentId: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Giới trẻ",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_cong_dong",
+      provider_cf: [
+        {
+		  pid:"y_home",
+		  group_id:"gioi_tre",
+          url: "http://apinews.yan.vn/api6/List",
+		  url_method:"post",
+		  param_funcs: {
+			isNewer: "0",
+			cats="7"
+          },
+          page_var: "id",
+		  page_type: "custom,0",		  
+		  detail_url: "http://apinews.yan.vn/api6/GetcontentDetailV6",
+		  detail_url_method:"post",
+		  detail_params: {
+            contentId: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Đời sống",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_gia_dinh",
+      provider_cf: [
+        {
+		  pid:"y_home",
+		  group_id:"gioi_tre",
+          url: "http://apinews.yan.vn/api6/List",
+		  url_method:"post",
+		  param_funcs: {
+			isNewer: "0",
+			cats="6"
+          },
+          page_var: "id",
+		  page_type: "custom,0",		  
+		  detail_url: "http://apinews.yan.vn/api6/GetcontentDetailV6",
+		  detail_url_method:"post",
+		  detail_params: {
+            contentId: "post.id"
+          }
+        }
+      ]
+    }
+  ]
+}

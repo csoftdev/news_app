@@ -1,0 +1,20 @@
+{
+  y_home: {
+    post_list: "$.Data",
+    post: {
+      id: "Id",
+      title: "Title",
+      source: "Link",
+	  thumbSmall: "Avatar",
+	  thumbMedium: "Avatar",
+	  thumbBig: "Avatar",
+	  dateFormat: "yyyy-MM-dd HH:mm:ss",
+	  dateTimeZone: "GMT+7",
+	  createdDate: "DisDate",
+	  updatedDate: "DisDate"
+    },
+	next_page="$.Data[-1:].Id",
+	detail: "$.Data.ContentArray",
+	detail_video_list:"$.Data.VideoUrl"
+  }
+}
