@@ -9,8 +9,8 @@
         {
 		  pid:"tt_home",
 		  group_id:"trang_chu",
-          url: "http://api.tuoitre.vn/appdev/homepage?token=dee03981",
-		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+          url: "https://api.tuoitre.vn/appdev/homepage?token=dee03981",
+		  detail_url: "https://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
 		  detail_params: {
             id: "post.id"
           }
@@ -26,10 +26,10 @@
         {
 		  pid:"tt_cat",
 		  group_id:"thoi_su",
-          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=3&limit=10&prior=0&",
+          url: "https://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=3&limit=10&prior=0&",
 		  page_var: "page",
 		  page_type: "normal,1",
-		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_url: "https://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
 		  detail_params: {
             id: "post.id"
           }
@@ -45,10 +45,10 @@
         {
 		  pid:"tt_cat",
 		  group_id:"the_gioi",
-          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=2&limit=10&prior=0&",
+          url: "https://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=2&limit=10&prior=0&",
 		  page_var: "page",
 		  page_type: "normal,1",
-		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_url: "https://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
 		  detail_params: {
             id: "post.id"
           }
@@ -64,10 +64,10 @@
         {
 		  pid:"tt_cat",
 		  group_id:"phap_luat",
-          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=6&limit=10&prior=0&",
+          url: "https://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=6&limit=10&prior=0&",
 		  page_var: "page",
 		  page_type: "normal,1",
-		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_url: "https://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
 		  detail_params: {
             id: "post.id"
           }
@@ -83,10 +83,10 @@
         {
 		  pid:"tt_cat",
 		  group_id:"kinh_doanh",
-          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=11&limit=10&prior=0&",
+          url: "https://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=11&limit=10&prior=0&",
 		  page_var: "page",
 		  page_type: "normal,1",
-		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_url: "https://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
 		  detail_params: {
             id: "post.id"
           }
@@ -102,10 +102,10 @@
         {
 		  pid:"tt_cat",
 		  group_id:"cong_nghe",
-          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=16&limit=10&prior=0&",
+          url: "https://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=16&limit=10&prior=0&",
 		  page_var: "page",
 		  page_type: "normal,1",
-		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_url: "https://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
 		  detail_params: {
             id: "post.id"
           }
@@ -121,10 +121,10 @@
         {
 		  pid:"tt_cat",
 		  group_id:"du_lich",
-          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=100&limit=10&prior=0&",
+          url: "https://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=100&limit=10&prior=0&",
 		  page_var: "page",
 		  page_type: "normal,1",
-		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_url: "https://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
 		  detail_params: {
             id: "post.id"
           }
@@ -140,10 +140,10 @@
         {
 		  pid:"tt_cat",
 		  group_id:"song_tre",
-          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=7&limit=10&prior=0&",
+          url: "https://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=7&limit=10&prior=0&",
 		  page_var: "page",
 		  page_type: "normal,1",
-		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_url: "https://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
 		  detail_params: {
             id: "post.id"
           }
@@ -159,10 +159,10 @@
         {
 		  pid:"tt_cat",
 		  group_id:"van_hoa",
-          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=10&limit=10&prior=0&",
+          url: "https://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=10&limit=10&prior=0&",
 		  page_var: "page",
 		  page_type: "normal,1",
-		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_url: "https://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
 		  detail_params: {
             id: "post.id"
           }
@@ -178,10 +178,10 @@
         {
 		  pid:"tt_cat",
 		  group_id:"the_thao",
-          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=1209&limit=10&prior=0&",
+          url: "https://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=1209&limit=10&prior=0&",
 		  page_var: "page",
 		  page_type: "normal,1",
-		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_url: "https://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
 		  detail_params: {
             id: "post.id"
           }
@@ -197,10 +197,10 @@
         {
 		  pid:"tt_cat",
 		  group_id:"giao_duc",
-          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=13&limit=10&prior=0&",
+          url: "https://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=13&limit=10&prior=0&",
 		  page_var: "page",
 		  page_type: "normal,1",
-		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_url: "https://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
 		  detail_params: {
             id: "post.id"
           }
@@ -216,10 +216,10 @@
         {
 		  pid:"tt_cat",
 		  group_id:"suc_khoe",
-          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=12&limit=10&prior=0&",
+          url: "https://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=12&limit=10&prior=0&",
 		  page_var: "page",
 		  page_type: "normal,1",
-		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_url: "https://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
 		  detail_params: {
             id: "post.id"
           }
@@ -235,10 +235,10 @@
         {
 		  pid:"tt_cat",
 		  group_id:"ban_doc",
-          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=118&limit=10&prior=0&",
+          url: "https://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=118&limit=10&prior=0&",
 		  page_var: "page",
 		  page_type: "normal,1",
-		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_url: "https://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
 		  detail_params: {
             id: "post.id"
           }
@@ -254,10 +254,10 @@
         {
 		  pid:"tt_cat",
 		  group_id:"can_biet",
-          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=334&limit=10&prior=0&",
+          url: "https://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=334&limit=10&prior=0&",
 		  page_var: "page",
 		  page_type: "normal,1",
-		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_url: "https://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
 		  detail_params: {
             id: "post.id"
           }
