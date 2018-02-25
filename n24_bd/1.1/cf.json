@@ -30,7 +30,7 @@
       provider_cf: [
         {
 		  pid:"n24_home_24h",
-		  group_id:"tinh_huong",
+		  group_id:"video",
           url: "https://api.appbongda24h.vn/v3/android/topic/56?tab=0&app_version=1.0.14&",
 		  param_funcs: {
             device_id: "getAndroidId"
@@ -53,7 +53,7 @@
       provider_cf: [
         {
 		  pid:"n24_home",
-		  group_id:"tinh_huong",
+		  group_id:"chau_au",
           url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/184,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
 		  param_funcs: {
             
@@ -75,7 +75,7 @@
       provider_cf: [
         {
 		  pid:"n24_home",
-		  group_id:"tin_tuc",
+		  group_id:"anh",
           url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/172,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
 		  param_funcs: {
             
@@ -97,7 +97,7 @@
       provider_cf: [
         {
 		  pid:"n24_home",
-		  group_id:"nhan_dinh",
+		  group_id:"tbn",
           url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/180,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
 		  param_funcs: {
             
@@ -119,7 +119,7 @@
       provider_cf: [
         {
 		  pid:"n24_home",
-		  group_id:"chuyen_nhuong",
+		  group_id:"duc",
           url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/193,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
 		  param_funcs: {
             
@@ -141,7 +141,7 @@
       provider_cf: [
         {
 		  pid:"n24_home",
-		  group_id:"wc_2018",
+		  group_id:"phap",
           url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/197,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
 		  param_funcs: {
             
@@ -163,7 +163,7 @@
       provider_cf: [
         {
 		  pid:"n24_home",
-		  group_id:"ben_le",
+		  group_id:"vietnam",
           url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/168,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
 		  param_funcs: {
             
@@ -185,7 +185,7 @@
       provider_cf: [
         {
 		  pid:"n24_home",
-		  group_id:"nguoi_dep",
+		  group_id:"italia",
           url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/176,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
 		  param_funcs: {
             
@@ -207,7 +207,7 @@
       provider_cf: [
         {
 		  pid:"n24_home",
-		  group_id:"the_thao",
+		  group_id:"hau_truong",
           url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/188,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
 		  param_funcs: {
             
