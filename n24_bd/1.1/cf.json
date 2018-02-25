@@ -1,0 +1,225 @@
+{
+  nav_items: [
+    {
+      name: "Trang chủ",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_home",
+      provider_cf: [
+        {
+		  pid:"n24_home",
+		  group_id:"trang_chu",
+          url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/279,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
+		  param_funcs: {
+            
+          },
+          page_var: "page",
+		  page_type: "normal,1",
+		  detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
+		  detail_params: {
+            
+          }
+        }
+      ]
+    },
+	{
+      name: "Video",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_video",
+      provider_cf: [
+        {
+		  pid:"n24_home_24h",
+		  group_id:"tinh_huong",
+          url: "https://api.appbongda24h.vn/v3/android/topic/56?tab=0&app_version=1.0.14&",
+		  param_funcs: {
+            device_id: "getAndroidId"
+          },
+          page_var: "conditions",
+		  page_type: "custom",
+		  cus_page_func: "ebase64",
+		  detail_url: "https://api.appbongda24h.vn/v3/android/article/{post.id}?app_version=1.0.14&get_part=-1",
+		  detail_params: {
+            device_id: "getAndroidId"
+          }
+        }
+      ]
+    },
+	{
+      name: "Châu Âu",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "",
+      provider_cf: [
+        {
+		  pid:"n24_home",
+		  group_id:"tinh_huong",
+          url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/184,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
+		  param_funcs: {
+            
+          },
+          page_var: "page",
+		  page_type: "normal,1",
+		  detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
+		  detail_params: {
+            
+          }
+        }
+      ]
+    },
+	{
+      name: "Anh",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "",
+      provider_cf: [
+        {
+		  pid:"n24_home",
+		  group_id:"tin_tuc",
+          url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/172,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
+		  param_funcs: {
+            
+          },
+          page_var: "page",
+		  page_type: "normal,1",
+		  detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
+		  detail_params: {
+            
+          }
+        }
+      ]
+    },
+	{
+      name: "TBN",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "",
+      provider_cf: [
+        {
+		  pid:"n24_home",
+		  group_id:"nhan_dinh",
+          url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/180,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
+		  param_funcs: {
+            
+          },
+          page_var: "page",
+		  page_type: "normal,1",
+		  detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
+		  detail_params: {
+            
+          }
+        }
+      ]
+    },
+	{
+      name: "Đức",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "",
+      provider_cf: [
+        {
+		  pid:"n24_home",
+		  group_id:"chuyen_nhuong",
+          url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/193,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
+		  param_funcs: {
+            
+          },
+          page_var: "page",
+		  page_type: "normal,1",
+		  detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
+		  detail_params: {
+            
+          }
+        }
+      ]
+    },
+	{
+      name: "Pháp",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "",
+      provider_cf: [
+        {
+		  pid:"n24_home",
+		  group_id:"wc_2018",
+          url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/197,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
+		  param_funcs: {
+            
+          },
+          page_var: "page",
+		  page_type: "normal,1",
+		  detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
+		  detail_params: {
+            
+          }
+        }
+      ]
+    },
+	{
+      name: "Việt Nam",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "",
+      provider_cf: [
+        {
+		  pid:"n24_home",
+		  group_id:"ben_le",
+          url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/168,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
+		  param_funcs: {
+            
+          },
+          page_var: "page",
+		  page_type: "normal,1",
+		  detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
+		  detail_params: {
+            
+          }
+        }
+      ]
+    },
+	{
+      name: "Italia",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "",
+      provider_cf: [
+        {
+		  pid:"n24_home",
+		  group_id:"nguoi_dep",
+          url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/176,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
+		  param_funcs: {
+            
+          },
+          page_var: "page",
+		  page_type: "normal,1",
+		  detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
+		  detail_params: {
+            
+          }
+        }
+      ]
+    },
+	{
+      name: "Hậu Trường",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_the_thao",
+      provider_cf: [
+        {
+		  pid:"n24_home",
+		  group_id:"the_thao",
+          url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/188,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
+		  param_funcs: {
+            
+          },
+          page_var: "page",
+		  page_type: "normal,1",
+		  detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
+		  detail_params: {
+            
+          }
+        }
+      ]
+    }
+  ]
+}
