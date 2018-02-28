@@ -1,7 +1,7 @@
 {
   nav_items: [
     {
-      name: "Trang chủ 2",
+      name: "Trang chủ",
       type: 0,
       use_char_icon: true,
 	  res_icon_name: "cat_home",
