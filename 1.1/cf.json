@@ -1,0 +1,268 @@
+{
+  nav_items: [
+    {
+      name: "Trang chủ",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_home",
+      provider_cf: [
+        {
+		  pid:"tt_home",
+		  group_id:"trang_chu",
+          url: "http://api.tuoitre.vn/appdev/homepage?token=dee03981",
+		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_params: {
+            id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Thời sự",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_thoi_su",
+      provider_cf: [
+        {
+		  pid:"tt_cat",
+		  group_id:"thoi_su",
+          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=3&limit=10&prior=0&",
+		  page_var: "page",
+		  page_type: "normal,1",
+		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_params: {
+            id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Thế giới",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_the_gioi",
+      provider_cf: [
+        {
+		  pid:"tt_cat",
+		  group_id:"the_gioi",
+          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=2&limit=10&prior=0&",
+		  page_var: "page",
+		  page_type: "normal,1",
+		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_params: {
+            id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Pháp luật",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_phap_luat",
+      provider_cf: [
+        {
+		  pid:"tt_cat",
+		  group_id:"phap_luat",
+          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=6&limit=10&prior=0&",
+		  page_var: "page",
+		  page_type: "normal,1",
+		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_params: {
+            id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Kinh doanh",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_kinh_doanh",
+      provider_cf: [
+        {
+		  pid:"tt_cat",
+		  group_id:"kinh_doanh",
+          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=11&limit=10&prior=0&",
+		  page_var: "page",
+		  page_type: "normal,1",
+		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_params: {
+            id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Công nghệ",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_so_hoa",
+      provider_cf: [
+        {
+		  pid:"tt_cat",
+		  group_id:"cong_nghe",
+          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=16&limit=10&prior=0&",
+		  page_var: "page",
+		  page_type: "normal,1",
+		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_params: {
+            id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Du lịch",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_du_lich",
+      provider_cf: [
+        {
+		  pid:"tt_cat",
+		  group_id:"du_lich",
+          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=100&limit=10&prior=0&",
+		  page_var: "page",
+		  page_type: "normal,1",
+		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_params: {
+            id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Nhịp sống trẻ",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_tam_su",
+      provider_cf: [
+        {
+		  pid:"tt_cat",
+		  group_id:"song_tre",
+          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=7&limit=10&prior=0&",
+		  page_var: "page",
+		  page_type: "normal,1",
+		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_params: {
+            id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Văn hóa",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_giai_tri",
+      provider_cf: [
+        {
+		  pid:"tt_cat",
+		  group_id:"van_hoa",
+          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=10&limit=10&prior=0&",
+		  page_var: "page",
+		  page_type: "normal,1",
+		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_params: {
+            id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Thể thao",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_the_thao",
+      provider_cf: [
+        {
+		  pid:"tt_cat",
+		  group_id:"the_thao",
+          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=1209&limit=10&prior=0&",
+		  page_var: "page",
+		  page_type: "normal,1",
+		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_params: {
+            id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Giáo dục",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_giao_duc",
+      provider_cf: [
+        {
+		  pid:"tt_cat",
+		  group_id:"giao_duc",
+          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=13&limit=10&prior=0&",
+		  page_var: "page",
+		  page_type: "normal,1",
+		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_params: {
+            id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Sức khỏe",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_suc_khoe",
+      provider_cf: [
+        {
+		  pid:"tt_cat",
+		  group_id:"suc_khoe",
+          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=12&limit=10&prior=0&",
+		  page_var: "page",
+		  page_type: "normal,1",
+		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_params: {
+            id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Bạn đọc",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_cong_dong",
+      provider_cf: [
+        {
+		  pid:"tt_cat",
+		  group_id:"ban_doc",
+          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=118&limit=10&prior=0&",
+		  page_var: "page",
+		  page_type: "normal,1",
+		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_params: {
+            id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Cần biết",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_can_biet",
+      provider_cf: [
+        {
+		  pid:"tt_cat",
+		  group_id:"can_biet",
+          url: "http://api.tuoitre.vn/appdev/catpage?token=dee03981&cid=334&limit=10&prior=0&",
+		  page_var: "page",
+		  page_type: "normal,1",
+		  detail_url: "http://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
+		  detail_params: {
+            id: "post.id"
+          }
+        }
+      ]
+    }
+  ]
+}
