@@ -1,0 +1,12 @@
+{
+	local_ads:[{
+		title:"Báo Điện Tử - Tuổi Trẻ Mobile",
+		desc:"Cập nhật tin tức mới nhất, chính xác và khách quan từ Báo Tuổi Trẻ Online, các sự kiện đang diễn ra về: kinh tế, chính trị, xã hội, thế giới, giáo dục, thể thao, văn hóa, giải trí, công nghệ...",
+		url: "https://goo.gl/45Qvda",
+		icon:"https://1.bp.blogspot.com/-mMZ-91gx07w/WqCuzVq5zOI/AAAAAAAAJEA/iu6QLNg387cyi2zuDdQYnfFCAxV4cTMsACLcBGAs/s320/logo_content.png",
+		weight: 100,
+		pkg_name:"vn.tuoitre.mobile",
+		action_name:"Cài đặt"
+	}
+	]
+}
