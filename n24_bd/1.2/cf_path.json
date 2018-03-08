@@ -40,7 +40,7 @@
 	  createdDate: "published_date",
 	  updatedDate: ""
     },
-	next_page="$..group_view_more.data",
+	next_page:"$..group_view_more.data",
 	detail: "$.data[0].data[0].data[0].body",
 	resolve_detail_data:"jExtractBody,jRemoveTags_script_div",
 	resolve_post:{
