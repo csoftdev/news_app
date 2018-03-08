@@ -1,0 +1,304 @@
+{
+  nav_items: [
+    {
+      name: "Mới nhất",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_home",
+      provider_cf: [
+        {
+		  provider_id:"trang_chu",
+		  pid:"dkntv_home",
+		  group_id:"trang_chu",
+          url: "http://app.dkn.tv/api/get_recent_posts?count=10&cat_in=8959,8691,8949,8955,8960,8956,8961,8962,8963,8964,9024,8965,8966,8967&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://app.dkn.tv/api/get_post?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Trong nước",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_thoi_su",
+      provider_cf: [
+        {
+		  provider_id:"trong_nuoc",
+		  pid:"dkntv_home",
+		  group_id:"trong_nuoc",
+          url: "http://app.dkn.tv/api/get_category_posts?category_id=8959&count=10&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://app.dkn.tv/api/get_post?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Thế giới",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_the_gioi",
+      provider_cf: [
+        {
+		  provider_id:"the_gioi",
+		  pid:"dkntv_home",
+		  group_id:"the_gioi",
+          url: "http://app.dkn.tv/api/get_category_posts?category_id=8691&count=10&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://app.dkn.tv/api/get_post?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Video",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_video",
+      provider_cf: [
+        {
+		  provider_id:"video",
+		  pid:"dkntv_home",
+		  group_id:"video",
+          url: "http://app.dkn.tv/api/get_category_posts?category_id=8949&count=10&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://app.dkn.tv/api/get_post?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Văn hóa",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_giai_tri",
+      provider_cf: [
+        {
+		  provider_id:"van_hoa",
+		  pid:"dkntv_home",
+		  group_id:"van_hoa",
+          url: "http://app.dkn.tv/api/get_category_posts?category_id=8955&count=10&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://app.dkn.tv/api/get_post?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Đời sống",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_gia_dinh",
+      provider_cf: [
+        {
+		  provider_id:"doi_song",
+		  pid:"dkntv_home",
+		  group_id:"doi_song",
+          url: "http://app.dkn.tv/api/get_category_posts?category_id=8960&count=10&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://app.dkn.tv/api/get_post?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Nghệ thuật",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_nghe_thuat",
+      provider_cf: [
+        {
+		  provider_id:"nghe_thuat",
+		  pid:"dkntv_home",
+		  group_id:"nghe_thuat",
+          url: "http://app.dkn.tv/api/get_category_posts?category_id=8956&count=10&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://app.dkn.tv/api/get_post?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Sức khỏe",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_suc_khoe",
+      provider_cf: [
+        {
+		  provider_id:"suc_khoe",
+		  pid:"dkntv_home",
+		  group_id:"suc_khoe",
+          url: "http://app.dkn.tv/api/get_category_posts?category_id=8961&count=10&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://app.dkn.tv/api/get_post?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Kinh tế",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_kinh_doanh",
+      provider_cf: [
+        {
+		  provider_id:"kinh_doanh",
+		  pid:"dkntv_home",
+		  group_id:"kinh_doanh",
+          url: "http://app.dkn.tv/api/get_category_posts?category_id=8962&count=10&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://app.dkn.tv/api/get_post?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Khoa học",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_khoa_hoc",
+      provider_cf: [
+        {
+		  provider_id:"khoa_hoc",
+		  pid:"dkntv_home",
+		  group_id:"khoa_hoc",
+          url: "http://app.dkn.tv/api/get_category_posts?category_id=8963&count=10&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://app.dkn.tv/api/get_post?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Công nghệ",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_so_hoa",
+      provider_cf: [
+        {
+		  provider_id:"cong_nghe",
+		  pid:"dkntv_home",
+		  group_id:"cong_nghe",
+          url: "http://app.dkn.tv/api/get_category_posts?category_id=8964&count=10&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://app.dkn.tv/api/get_post?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Inspired",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_can_biet",
+      provider_cf: [
+        {
+		  provider_id:"inspired",
+		  pid:"dkntv_home",
+		  group_id:"inspired",
+          url: "http://app.dkn.tv/api/get_category_posts?category_id=9024&count=10&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://app.dkn.tv/api/get_post?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Giải trí",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_cuoi",
+      provider_cf: [
+        {
+		  provider_id:"giai_tri",
+		  pid:"dkntv_home",
+		  group_id:"giai_tri",
+          url: "http://app.dkn.tv/api/get_category_posts?category_id=8965&count=10&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://app.dkn.tv/api/get_post?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Ảnh đẹp",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_anh",
+      provider_cf: [
+        {
+		  provider_id:"anh_dep",
+		  pid:"dkntv_home",
+		  group_id:"anh_dep",
+          url: "http://app.dkn.tv/api/get_category_posts?category_id=8966&count=10&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://app.dkn.tv/api/get_post?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Học tiếng anh",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_giao_duc",
+      provider_cf: [
+        {
+		  provider_id:"hoc_en",
+		  pid:"dkntv_home",
+		  group_id:"hoc_en",
+          url: "http://app.dkn.tv/api/get_category_posts?category_id=9019&count=10&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://app.dkn.tv/api/get_post?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  dkntv_home: {
+    post_list: "$.posts",
+    post: {
+      id: "id",
+      title: "title_plain",
+      desc: "",
+      source: "link",
+	  thumbSmall: "thumbnail_images.thumbnail.url",
+	  thumbMedium: "thumbnail_images.medium.url",
+	  thumbBig: "thumbnail_images.large.url",
+	  dateFormat: "yyyy-MM-dd HH:mm:ss",
+	  dateTimeZone: "GMT+7",
+	  createdDate: "date",
+	  updatedDate: "date"
+    },
+	next_page="",
+	detail: "$.post.content",
+	video_obj:"$.post.custom_fields",
+	detail_video: {
+		id: "",
+		url:"tie_video_self",
+		thumb:"",
+		desc:""
+	},
+	related_post_list: "$.related_posts",
+    related_post: {
+      id: "id",
+      title: "title",
+      desc: "",
+      source: "link",
+	  thumbSmall: "thumbnail",
+	  thumbMedium: "thumbnail",
+	  thumbBig: "thumbnail",
+	  dateFormat: "yyyy-MM-dd HH:mm:ss",
+	  dateTimeZone: "GMT+7",
+	  createdDate: "date",
+	  updatedDate: "date"
+	}
+  }
+}
