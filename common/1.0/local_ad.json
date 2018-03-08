@@ -7,6 +7,15 @@
 		weight: 100,
 		pkg_name:"vn.tuoitre.mobile",
 		action_name:"Cài đặt"
+	},
+	{
+		title:"Báo Điện Tử - Tin Tức 24h",
+		desc:"Báo Điện Tử - nơi tổng hợp các tin tức mới nhất và chính xác nhất.",
+		url: "https://goo.gl/MTtmk9",
+		icon:"https://4.bp.blogspot.com/-vTQ-fhBITJ4/WqDAXnHQqgI/AAAAAAAAJEQ/82SSefPJR-EGfrIU3wPSai0uRv0TaX3pgCLcBGAs/s320/logo_content_small.png",
+		weight: 200,
+		pkg_name:"bao.dientu.android",
+		action_name:"Cài đặt"
 	}
 	]
 }
