@@ -1,6 +1,45 @@
 {
   nav_items: [
-    
+    {
+      name: "Trang chủ",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_home",
+      provider_cf: [
+        {
+		  provider_id:"trang_chu",
+		  pid:"tthuc_home",
+		  group_id:"trang_chu",
+          url: "http://trithucvn.net/api/get_recent_posts/?count=24&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+	{
+      name: "Video",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_video",
+      provider_cf: [
+        {
+		  provider_id:"video",
+		  pid:"tthuc_home",
+		  group_id:"video",
+          url: "http://trithucvn.net/api/get_category_posts/?category_id=14&count=24&",
+          page_var: "paged",
+		  page_type: "normal,1",		  
+		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
 	{
       name: "Thế giới",
       type: 0,
