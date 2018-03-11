@@ -53,6 +53,16 @@
       weight: 100,
       pkg_name: "vn.dkn.tv.app",
       action_name: "Cài đặt"
+    },
+    {
+      title: "Đàn ông Trung Quốc bị 'cắm sừng' nhiều nhất thế giới - VnExpress",
+      desc: "Cứ 7,5 phụ nữ nước này thì có một người đang lừa dối chồng, tỷ lệ này được xem là cao nhất thế giới. Xem thêm từ VnExpress",
+      url: "https://goo.gl/EKp87v",
+      icon: "https://1.bp.blogspot.com/-fkaFhnL9XKY/WqTuAUnE9fI/AAAAAAAAJHM/XwE3jYaScy4yQq0_t_YFuz4rcbOr2vmQwCLcBGAs/s320/logo_content.png",
+      icon_big: "https://3.bp.blogspot.com/-fvDsMvRJQ_o/WqTuP9dSdsI/AAAAAAAAJHQ/C2ZJIWmbtLAlG5BgPgJyxrNsrYueKd7twCLcBGAs/s400/4A020E5100000578-5477849-image-3506-5927-1520690193.jpg",
+      weight: 100,
+      pkg_name: "tinnhanh.vne.news",
+      action_name: "Cài đặt"
     }
   ]
 }
