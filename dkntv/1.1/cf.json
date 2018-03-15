@@ -264,7 +264,7 @@
       name: "Du Lịch",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_du-lich",
+	  res_icon_name: "cat_du_lich",
       provider_cf: [
         {
 		  provider_id:"du_lich",
