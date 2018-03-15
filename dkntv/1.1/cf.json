@@ -290,7 +290,7 @@
 		  provider_id:"hoc_en",
 		  pid:"dkntv_home",
 		  group_id:"hoc_en",
-          url: "http://app.dkn.tv/api/get_category_posts?category_id=9019&count=10&",
+          url: "http://app.dkn.tv/api/get_category_posts?category_id=8967&count=10&",
           page_var: "paged",
 		  page_type: "normal,1",		  
 		  detail_url: "http://app.dkn.tv/api/get_post?",
