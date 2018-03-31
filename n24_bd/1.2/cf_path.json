@@ -9,6 +9,7 @@
 	  thumbSmall: "IconUrl",
 	  thumbMedium: "IconUrl",
 	  thumbBig: "IconUrl",
+	  thumbResolve: "jReplace_http://_https://",
 	  dateFormat: "HH:mm dd/MM{year}",
 	  dateTimeZone: "GMT+7",
 	  createdDate: "PDate",
