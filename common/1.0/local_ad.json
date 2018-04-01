@@ -5,7 +5,7 @@
       desc: "Cập nhật tin tức mới nhất, chính xác và khách quan từ Báo Tuổi Trẻ Online, các sự kiện đang diễn ra về: kinh tế, chính trị, xã hội, thế giới, giáo dục, thể thao, văn hóa, giải trí, công nghệ...",
       url: "https://goo.gl/45Qvda",
       icon: "https://1.bp.blogspot.com/-mMZ-91gx07w/WqCuzVq5zOI/AAAAAAAAJEA/iu6QLNg387cyi2zuDdQYnfFCAxV4cTMsACLcBGAs/s320/logo_content.png",
-      weight: 100,
+      weight: 150,
       pkg_name: "vn.tuoitre.mobile",
       action_name: "Cài đặt"
     },
@@ -23,7 +23,7 @@
       desc: "Ứng dụng Đọc tin tức Báo Pháp Luật Tp.Hồ Chí Minh, chuyên cung cấp các thông tin nóng nhất, mới nhất về các vấn đề thời sự - xã hội Pháp Luật, các vấn đề liên quan đến An ninh trật tự ở Việt Nam, thông tin tư pháp, pháp đình, các bộ luật hình sự, dân sự, video clip hình sự antv,...",
       url: "https://goo.gl/ABWoSJ",
       icon: "https://2.bp.blogspot.com/-XYUfzq3AOx8/WqDan1xLAXI/AAAAAAAAJEg/ZXZdfqLJqfs2NrsRSoOjCPp8IdHNw5t1ACLcBGAs/s320/logo_content.png",
-      weight: 200,
+      weight: 100,
       pkg_name: "vn.baophapluat.mobile",
       action_name: "Cài đặt"
     },
@@ -32,7 +32,7 @@
       desc: "Bóng Đá 24H cung cấp thông tin bóng đá, thể thao cũng như tổng hợp video clip chất lượng cao, được thiết kế để tối ưu trải nghiệm trên điện thoại của bạn",
       url: "https://goo.gl/5Q3ynD",
       icon: "https://3.bp.blogspot.com/-gaMpEf6bP84/WqDcwIEYnoI/AAAAAAAAJEs/Z4Nq4ktoE9IKBdofeCaOM3fudB3OiBOMwCLcBGAs/s320/logo_content.png",
-      weight: 100,
+      weight: 200,
       pkg_name: "vn.news24h.bongda.android",
       action_name: "Cài đặt"
     },
@@ -60,7 +60,17 @@
       url: "https://goo.gl/EKp87v",
       icon: "https://1.bp.blogspot.com/-fkaFhnL9XKY/WqTuAUnE9fI/AAAAAAAAJHM/XwE3jYaScy4yQq0_t_YFuz4rcbOr2vmQwCLcBGAs/s320/logo_content.png",
       icon_big: "https://3.bp.blogspot.com/-fvDsMvRJQ_o/WqTuP9dSdsI/AAAAAAAAJHQ/C2ZJIWmbtLAlG5BgPgJyxrNsrYueKd7twCLcBGAs/s400/4A020E5100000578-5477849-image-3506-5927-1520690193.jpg",
-      weight: 100,
+      weight: 50,
+      pkg_name: "tinnhanh.vne.news",
+      action_name: "Cài đặt"
+    },
+    {
+      title: "Ra mắt ứng dụng tin tức dành riêng cho FAN Ngoại Hạng Anh",
+      desc: "Tin Ngoại Hạng Anh mang đến trải nghiệm đọc tin Ngoại Hạng hoàn toàn mới. Nguồn tin đa dạng từ nhiều...",
+      url: "https://f46s2.app.goo.gl/mVFa",
+      icon: "https://4.bp.blogspot.com/-6RpLmV8LP3I/WsEMU4zq4uI/AAAAAAAAJME/SzDNggBEmLs6NUuNAidhu4xlTBDeLmlHQCLcBGAs/s320/logo_not_clipped.jpg",
+      icon_big: "https://1.bp.blogspot.com/-Qma3bepaljA/WsENfgaCLPI/AAAAAAAAJMM/d5EfaIdKnfURy7sJ7zi7XmRteqdvyLt1gCLcBGAs/s400/Screenshot_20180401-234730.png",
+      weight: 150,
       pkg_name: "tinnhanh.vne.news",
       action_name: "Cài đặt"
     }
