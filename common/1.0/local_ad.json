@@ -73,6 +73,16 @@
       weight: 150,
       pkg_name: "bao.ngoaihanganh.android",
       action_name: "Cài đặt"
+    },
+    {
+      title: "Dùng thử báo Thanh Niên phiên bản mới",
+      desc: "Tin tức thời sự nhanh 24h, tin nóng Việt Nam, pháp luật, xã hội, đời sống, chính trị, kinh doanh, kinh tế, công nghệ thông tin, game, giới trẻ, văn hóa, giáo dục, thể thao...",
+      url: "https://f46s2.app.goo.gl/PeSx",
+      icon: "https://4.bp.blogspot.com/-xokL4QaSqN0/WsMwO3wvnUI/AAAAAAAAJNM/fsxMkR0NM1osl5kP4QLPfDKF5djPuywSgCLcBGAs/s320/logo-fill.jpg",
+      icon_big: "https://3.bp.blogspot.com/-vMU5a6RQ7y8/WsMunBoVUVI/AAAAAAAAJNA/29qnjIdtbNE1hxahS5QlOCaXQv9KGwjhgCLcBGAs/s400/thanhnien_big.jpg",
+      weight: 150,
+      pkg_name: "thanhnien.tintuc.android",
+      action_name: "Cài đặt"
     }
   ]
 }
