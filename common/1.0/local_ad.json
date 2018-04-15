@@ -83,6 +83,16 @@
       weight: 150,
       pkg_name: "thanhnien.tintuc.android",
       action_name: "Cài đặt"
+    },
+    {
+      title: "Đọc báo VietNamNet, tin tức trong ngày",
+      desc: "Tin tức trong ngày được báo VietNamNet cập nhật nhanh nhất, mới nhất. Đọc báo tin tức online về thời sự, pháp luật, kinh doanh, giải trí,…hay nhất 24h qua",
+      url: "https://f46s2.app.goo.gl/adcj",
+      icon: "https://3.bp.blogspot.com/-ICWjv8od7kQ/WtMsJi_8qwI/AAAAAAAAJRc/nPT_5bhBwh8UdWi_Lx8zdzXi11_lJPvbwCLcBGAs/s320/logo_fill.jpg",
+      icon_big: "https://2.bp.blogspot.com/-lIP2lTL7ok0/WtMs3-nklQI/AAAAAAAAJRk/W-t2OXo6sWEaIVU2jQ3760cp0AnpZXAXACLcBGAs/s400/img_feature.jpg",
+      weight: 200,
+      pkg_name: "bao.vietnamnet.android",
+      action_name: "Cài đặt"
     }
   ]
 }
