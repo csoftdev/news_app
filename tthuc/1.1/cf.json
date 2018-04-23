@@ -81,16 +81,16 @@
       ]
     },
     {
-      name: "Việt Nam",
+      name: "Văn Hóa",
       type: 0,
       use_char_icon: true,
-      res_icon_name: "",
+      res_icon_name: "cat_van_hoa",
       provider_cf: [
         {
-          provider_id: "vietnam",
+          provider_id: "van_hoa",
           pid: "tthuc_home",
-          group_id: "vietnam",
-          url: "https://trithucvn.net/api/get_category_posts/?category_id=2&count=24&",
+          group_id: "van_hoa",
+          url: "https://trithucvn.net/api/get_category_posts/?category_id=4&count=24&",
           page_var: "paged",
           page_type: "normal,1",
           detail_url: "https://trithucvn.net/api/get_post/?",
