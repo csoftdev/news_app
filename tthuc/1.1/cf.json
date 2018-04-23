@@ -84,7 +84,7 @@
       name: "Văn Hóa",
       type: 0,
       use_char_icon: true,
-      res_icon_name: "cat_van_hoa",
+      res_icon_name: "cat_giai_tri",
       provider_cf: [
         {
           provider_id: "van_hoa",
