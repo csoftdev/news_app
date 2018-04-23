@@ -10,10 +10,10 @@
 		  provider_id:"trang_chu",
 		  pid:"tthuc_home",
 		  group_id:"trang_chu",
-          url: "http://trithucvn.net/api/get_recent_posts/?count=24&",
+          url: "https://trithucvn.net/api/get_recent_posts/?count=24&",
           page_var: "paged",
 		  page_type: "normal,1",		  
-		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_url: "https://trithucvn.net/api/get_post/?",
 		  detail_params: {
             post_id: "post.id"
           }
@@ -30,10 +30,10 @@
 		  provider_id:"video",
 		  pid:"tthuc_home",
 		  group_id:"video",
-          url: "http://trithucvn.net/api/get_category_posts/?category_id=14&count=24&",
+          url: "https://trithucvn.net/api/get_category_posts/?category_id=14&count=24&",
           page_var: "paged",
 		  page_type: "normal,1",		  
-		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_url: "https://trithucvn.net/api/get_post/?",
 		  detail_params: {
             post_id: "post.id"
           }
@@ -50,10 +50,10 @@
 		  provider_id:"the_gioi",
 		  pid:"tthuc_home",
 		  group_id:"the_gioi",
-          url: "http://trithucvn.net/api/get_category_posts/?category_id=10&count=24&",
+          url: "https://trithucvn.net/api/get_category_posts/?category_id=10&count=24&",
           page_var: "paged",
 		  page_type: "normal,1",		  
-		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_url: "https://trithucvn.net/api/get_post/?",
 		  detail_params: {
             post_id: "post.id"
           }
@@ -70,10 +70,10 @@
 		  provider_id:"ct_xh",
 		  pid:"tthuc_home",
 		  group_id:"ct_xh",
-          url: "http://trithucvn.net/api/get_category_posts/?category_id=2&count=24&",
+          url: "https://trithucvn.net/api/get_category_posts/?category_id=2&count=24&",
           page_var: "paged",
 		  page_type: "normal,1",		  
-		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_url: "https://trithucvn.net/api/get_post/?",
 		  detail_params: {
             post_id: "post.id"
           }
@@ -90,10 +90,10 @@
 		  provider_id:"van_hoa",
 		  pid:"tthuc_home",
 		  group_id:"van_hoa",
-          url: "http://trithucvn.net/api/get_category_posts/?category_id=10&count=24&",
+          url: "https://trithucvn.net/api/get_category_posts/?category_id=10&count=24&",
           page_var: "paged",
 		  page_type: "normal,1",		  
-		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_url: "https://trithucvn.net/api/get_post/?",
 		  detail_params: {
             post_id: "post.id"
           }
@@ -110,10 +110,10 @@
 		  provider_id:"chuyen_de",
 		  pid:"tthuc_home",
 		  group_id:"chuyen_de",
-          url: "http://trithucvn.net/api/get_category_posts/?category_id=5&count=24&",
+          url: "https://trithucvn.net/api/get_category_posts/?category_id=5&count=24&",
           page_var: "paged",
 		  page_type: "normal,1",		  
-		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_url: "https://trithucvn.net/api/get_post/?",
 		  detail_params: {
             post_id: "post.id"
           }
@@ -130,10 +130,10 @@
 		  provider_id:"du_lich",
 		  pid:"tthuc_home",
 		  group_id:"du_lich",
-          url: "http://trithucvn.net/api/get_category_posts/?category_id=41&count=24&",
+          url: "https://trithucvn.net/api/get_category_posts/?category_id=41&count=24&",
           page_var: "paged",
 		  page_type: "normal,1",		  
-		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_url: "https://trithucvn.net/api/get_post/?",
 		  detail_params: {
             post_id: "post.id"
           }
@@ -150,10 +150,10 @@
 		  provider_id:"kinh_te",
 		  pid:"tthuc_home",
 		  group_id:"kinh_te",
-          url: "http://trithucvn.net/api/get_category_posts/?category_id=1&count=24&",
+          url: "https://trithucvn.net/api/get_category_posts/?category_id=1&count=24&",
           page_var: "paged",
 		  page_type: "normal,1",		  
-		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_url: "https://trithucvn.net/api/get_post/?",
 		  detail_params: {
             post_id: "post.id"
           }
@@ -170,10 +170,10 @@
 		  provider_id:"doi_song",
 		  pid:"tthuc_home",
 		  group_id:"doi_song",
-          url: "http://trithucvn.net/api/get_category_posts/?category_id=40&count=24&",
+          url: "https://trithucvn.net/api/get_category_posts/?category_id=40&count=24&",
           page_var: "paged",
 		  page_type: "normal,1",		  
-		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_url: "https://trithucvn.net/api/get_post/?",
 		  detail_params: {
             post_id: "post.id"
           }
@@ -190,10 +190,10 @@
 		  provider_id:"kh_cn",
 		  pid:"tthuc_home",
 		  group_id:"kh_cn",
-          url: "http://trithucvn.net/api/get_category_posts/?category_id=5888&count=24&",
+          url: "https://trithucvn.net/api/get_category_posts/?category_id=5888&count=24&",
           page_var: "paged",
 		  page_type: "normal,1",		  
-		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_url: "https://trithucvn.net/api/get_post/?",
 		  detail_params: {
             post_id: "post.id"
           }
@@ -210,10 +210,10 @@
 		  provider_id:"blog",
 		  pid:"tthuc_home",
 		  group_id:"blog",
-          url: "http://trithucvn.net/api/get_category_posts/?category_id=6&count=24&",
+          url: "https://trithucvn.net/api/get_category_posts/?category_id=6&count=24&",
           page_var: "paged",
 		  page_type: "normal,1",		  
-		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_url: "https://trithucvn.net/api/get_post/?",
 		  detail_params: {
             post_id: "post.id"
           }
