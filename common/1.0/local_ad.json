@@ -102,6 +102,16 @@
       weight: 150,
       pkg_name: "trithucvn.news.android",
       action_name: "Cài đặt"
+    },
+    {
+      title: "Tổng hợp các dự án nhà đất hấp dẫn - Tin Bất Động Sản",
+      desc: "Xem nhanh tin tức về bất động sản, các dự án động sản hấp dẫn, thông tin nhà đất, tài chính chứng khoán. Ngoài ra, còn có các bài viết về phong thủy trong kinh doanh bất động sản",
+      url: "https://f46s2.app.goo.gl/P9dn",
+      icon: "https://4.bp.blogspot.com/-GNy3OhAzOW0/WunaDrAqlsI/AAAAAAAAJaU/f6ftYzqbhE04KgpZo0pn4X6odCFd8CzigCLcBGAs/s320/logo_fill.jpg",
+      icon_big: "https://3.bp.blogspot.com/-60V9oMFJtSA/WunZA9Og6wI/AAAAAAAAJaM/2bEH28UJhGsUSHcBEVE-MQPlUTBaeob5gCLcBGAs/s400/img_feature.jpg",
+      weight: 150,
+      pkg_name: "batdongsan.tintuc.android",
+      action_name: "Cài đặt"
     }
   ]
 }
