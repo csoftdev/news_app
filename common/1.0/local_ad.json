@@ -28,7 +28,7 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Bóng Đá 24H - Tin Tức Thể Thao, Video Bàn Thắng Chọn Lọc",
+      title: "Chuyên trang Thể Thao, Video Bàn Thắng Chọn Lọc - Bóng Đá 24H",
       desc: "Bóng Đá 24H cung cấp thông tin bóng đá, thể thao cũng như tổng hợp video clip chất lượng cao, được thiết kế để tối ưu trải nghiệm trên điện thoại của bạn",
       url: "https://goo.gl/5Q3ynD",
       icon: "https://3.bp.blogspot.com/-gaMpEf6bP84/WqDcwIEYnoI/AAAAAAAAJEs/Z4Nq4ktoE9IKBdofeCaOM3fudB3OiBOMwCLcBGAs/s320/logo_content.png",
@@ -41,7 +41,7 @@
       desc: "Ứng dụng Đọc Báo Trí Thức VN - Tin Tức 24H là một trong số ít các ứng dụng đọc báo cung cấp nguồn tin tức online chân thật, đáng tin cậy, khách quan với nhiều bài phân tích sâu sắc từ nhiều chủ đề đa dạng ở Việt Nam. ",
       url: "https://goo.gl/T9WJo7",
       icon: "https://4.bp.blogspot.com/-bjvEswMG_sg/WqDdlWcwv_I/AAAAAAAAJE4/eyt6w_N9FlIdeNwG4o5H6FShIA2FFtXBgCLcBGAs/s320/logo_fill.jpg",
-      weight: 100,
+      weight: 150,
       pkg_name: "trithucvn.news.android",
       action_name: "Cài đặt"
     },
@@ -50,7 +50,7 @@
       desc: "Ứng dụng đọc báo DKN TV (Đại Kỷ Nguyên), mang đến thông tin nhanh & mới nhất được cập nhật hàng giờ. Tin tức Việt Nam & thế giới về xã hội, kinh doanh, pháp luật, đời sống, văn hóa, khoa học, công nghệ, sức khoẻ, video clip hot, ý nghĩa ...",
       url: "https://goo.gl/1S3sgt",
       icon: "https://4.bp.blogspot.com/-Qb38KzGmO4E/WqDejaYCjNI/AAAAAAAAJFE/6eGr1DZ3094V2Ett9Zrbgd8NQgBnFhvwQCLcBGAs/s320/logo_fill.png",
-      weight: 100,
+      weight: 150,
       pkg_name: "vn.dkn.tv.app",
       action_name: "Cài đặt"
     },
@@ -95,15 +95,6 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Báo Trí Thức VN: Ngồi lâu một chỗ có thể là nguyên nhân gây suy giảm trí nhớ",
-      desc: "Cùng với việc tuổi tác ngày càng cao, trí nhớ của nhiều ngươi cũng ngày càng giảm, đặc biệt là có rất nhiều người cao tuổi, hiện tượng suy giảm trí nhớ biểu hiện ra rất rõ. Tải báo Trí Thức VN để xem thêm",
-      url: "https://f46s2.app.goo.gl/2WGn",
-      icon: "https://4.bp.blogspot.com/-bjvEswMG_sg/WqDdlWcwv_I/AAAAAAAAJE4/eyt6w_N9FlIdeNwG4o5H6FShIA2FFtXBgCLcBGAs/s320/logo_fill.jpg",
-      weight: 150,
-      pkg_name: "trithucvn.news.android",
-      action_name: "Cài đặt"
-    },
-    {
       title: "Tổng hợp các dự án nhà đất hấp dẫn - Tin Bất Động Sản",
       desc: "Xem nhanh tin tức về bất động sản, các dự án động sản hấp dẫn, thông tin nhà đất, tài chính chứng khoán. Ngoài ra, còn có các bài viết về phong thủy trong kinh doanh bất động sản",
       url: "https://f46s2.app.goo.gl/P9dn",
@@ -111,6 +102,16 @@
       icon_big: "https://3.bp.blogspot.com/-60V9oMFJtSA/WunZA9Og6wI/AAAAAAAAJaM/2bEH28UJhGsUSHcBEVE-MQPlUTBaeob5gCLcBGAs/s400/img_feature.jpg",
       weight: 150,
       pkg_name: "batdongsan.tintuc.android",
+      action_name: "Cài đặt"
+    },
+    {
+      title: "Giải đáp các bí ẩn thú vị trong cuộc sống cùng Tin Tức Khoa Học",
+      desc: "Đọc tin tức khoa học, chuyện lạ bốn phương, cậu chuyện bí ẩn, tâm linh,... thật dễ dàng trên điện thoại Android với ứng dụng mới.",
+      url: "https://f46s2.app.goo.gl/v9fK",
+      icon: "https://3.bp.blogspot.com/-SkvwQph1oZ0/WvKqB1ydqqI/AAAAAAAAJdQ/qJrlOmoSYN0-FNg5w1Vmmxk0K-TqPpK4ACLcBGAs/s320/logo_fill.jpg",
+      icon_big: "https://3.bp.blogspot.com/-POdF6JWfHCE/WvKsShYxoXI/AAAAAAAAJdc/7b0wcpig3Sc6vgVUOnjbhFQkzpa67GOoACLcBGAs/s400/img_feature.jpg",
+      weight: 150,
+      pkg_name: "khoahoc.tintuc.android",
       action_name: "Cài đặt"
     }
   ]
