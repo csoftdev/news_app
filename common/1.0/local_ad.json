@@ -80,7 +80,7 @@
       url: "https://f46s2.app.goo.gl/PeSx",
       icon: "https://4.bp.blogspot.com/-xokL4QaSqN0/WsMwO3wvnUI/AAAAAAAAJNM/fsxMkR0NM1osl5kP4QLPfDKF5djPuywSgCLcBGAs/s320/logo-fill.jpg",
       icon_big: "https://3.bp.blogspot.com/-vMU5a6RQ7y8/WsMunBoVUVI/AAAAAAAAJNA/29qnjIdtbNE1hxahS5QlOCaXQv9KGwjhgCLcBGAs/s400/thanhnien_big.jpg",
-      weight: 150,
+      weight: 500,
       pkg_name: "thanhnien.tintuc.android",
       action_name: "Cài đặt"
     },
@@ -90,7 +90,7 @@
       url: "https://f46s2.app.goo.gl/adcj",
       icon: "https://3.bp.blogspot.com/-ICWjv8od7kQ/WtMsJi_8qwI/AAAAAAAAJRc/nPT_5bhBwh8UdWi_Lx8zdzXi11_lJPvbwCLcBGAs/s320/logo_fill.jpg",
       icon_big: "https://2.bp.blogspot.com/-lIP2lTL7ok0/WtMs3-nklQI/AAAAAAAAJRk/W-t2OXo6sWEaIVU2jQ3760cp0AnpZXAXACLcBGAs/s400/img_feature.jpg",
-      weight: 200,
+      weight: 500,
       pkg_name: "bao.vietnamnet.android",
       action_name: "Cài đặt"
     },
