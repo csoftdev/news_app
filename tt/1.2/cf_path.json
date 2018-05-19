@@ -1,0 +1,114 @@
+{
+  f_search: {
+    post_list: "$.data",
+    post: {
+      id: "object_id",
+      title: "title",
+      desc: "description",
+      source: "object_url",
+	  thumbSmall: "thumb_link",
+	  thumbMedium: "thumb_link",
+	  thumbBig: "thumb_link",
+	  dateFormat: "dd/MM/yyyy hh:mm 'GMT+7'",
+	  dateRegex: "",
+	  dateTimeZone: "GMT+7",
+	  createdDate: "time_published",
+	  updatedDate: "time_updated"
+    },
+	detail: "$.object_content",
+	in_video_content:{
+		div: "data-src",
+		iframe: "src"
+	},
+	related_post_list: "$.related_article",
+    related_post: {
+      id: "object_id",
+      title: "title",
+      desc: "description",
+      source: "object_url",
+	  thumbSmall: "thumb_link",
+	  thumbMedium: "thumb_link",
+	  thumbBig: "thumb_link",
+	  dateFormat: "dd/MM/yyyy hh:mm 'GMT+7'",
+	  dateRegex: "",
+	  dateTimeZone: "GMT+7",
+	  createdDate: "time_published",
+	  updatedDate: "time_updated"
+	}
+  },
+  tt_home: {
+    post_list: "data",
+	post_group_list: "$",
+    post: {
+      id: "object_id",
+      title: "title",
+      desc: "description",
+      source: "object_url",
+	  thumbSmall: "thumb_link",
+	  thumbMedium: "thumb_link",
+	  thumbBig: "thumb_link",
+	  dateFormat: "dd/MM/yyyy hh:mm 'GMT+7'",
+	  dateRegex: "",
+	  dateTimeZone: "GMT+7",
+	  createdDate: "time_published",
+	  updatedDate: "time_updated"
+    },
+	detail: "$.object_content",
+	in_video_content:{
+		div: "data-src",
+		iframe: "src"
+	},
+	related_post_list: "$.related_article",
+    related_post: {
+      id: "object_id",
+      title: "title",
+      desc: "description",
+      source: "object_url",
+	  thumbSmall: "thumb_link",
+	  thumbMedium: "thumb_link",
+	  thumbBig: "thumb_link",
+	  dateFormat: "dd/MM/yyyy hh:mm 'GMT+7'",
+	  dateRegex: "",
+	  dateTimeZone: "GMT+7",
+	  createdDate: "time_published",
+	  updatedDate: "time_updated"
+	}
+  },
+  tt_cat: {
+    post_list: "$",
+    post: {
+      id: "object_id",
+      title: "title",
+      desc: "description",
+      source: "object_url",
+	  thumbSmall: "thumb_link",
+	  thumbMedium: "thumb_link",
+	  thumbBig: "thumb_link",
+	  dateFormat: "dd/MM/yyyy hh:mm 'GMT+7'",
+	  dateRegex: "",
+	  dateTimeZone: "GMT+7",
+	  createdDate: "time_published",
+	  updatedDate: "time_updated"
+    },
+	detail: "$.object_content",
+	in_video_content:{
+		div: "data-src",
+		iframe: "src"
+	},
+	related_post_list: "$.related_article",
+    related_post: {
+      id: "object_id",
+      title: "title",
+      desc: "description",
+      source: "object_url",
+	  thumbSmall: "thumb_link",
+	  thumbMedium: "thumb_link",
+	  thumbBig: "thumb_link",
+	  dateFormat: "dd/MM/yyyy hh:mm 'GMT+7'",
+	  dateRegex: "",
+	  dateTimeZone: "GMT+7",
+	  createdDate: "time_published",
+	  updatedDate: "time_updated"
+	}
+  }
+}
