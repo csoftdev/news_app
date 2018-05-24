@@ -16,7 +16,7 @@
 	  updatedDate: ""
     },
 	detail: "$.Content",
-	resolve_detail_data:"jRemoveTags_head_h3_h2",
+	resolve_detail_data:"jRemoveTags_head_h3_h2_style_link",
 	resolve_post:{
 		dateFormat: "dd/MM/yyyy hh:mm a",
 		dateTimeZone: "GMT+7",
