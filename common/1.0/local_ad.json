@@ -123,6 +123,16 @@
       weight: 250,
       pkg_name: "dantri.baomoi.android",
       action_name: "Cài đặt"
+    },
+    {
+      title: "Tải ngay phiên bản VnExpress Tiếng Anh (VnExpress International)",
+      desc: "Đọc báo VnExpress thú vị hơn với phiên bản quốc tế mới",
+      url: "https://f46s2.app.goo.gl/eiHk",
+      icon: "https://4.bp.blogspot.com/-WqhRdmceLbo/WwbgkhbwHJI/AAAAAAAAJmE/zB-RIGG-ofQ7lcJJ63PYX5YNslxOTLIlQCLcBGAs/s320/logo_vne_en_fill.jpg",
+      icon_big: "https://3.bp.blogspot.com/-hko8nrjO4W4/Wwbgibh8tqI/AAAAAAAAJmA/zim9zyUYvrEgpsNrtNBcBXbIv6du894qgCLcBGAs/s400/img_feature_en.jpg",
+      weight: 250,
+      pkg_name: "tintuc.vnexpress.english",
+      action_name: "Cài đặt"
     }
   ]
 }
