@@ -133,6 +133,16 @@
       weight: 250,
       pkg_name: "tintuc.vnexpress.english",
       action_name: "Cài đặt"
+    },
+    {
+      title: "Đọc báo Zing News - Tin tức đời sống, xã hội 24h",
+      desc: "Cập nhật tin tức mới và nóng nhất về Đời sống - Xã hội, Kinh tế, Thế giới, Thể thao, Giải trí, Công nghệ và nhiều lĩnh vực khác…",
+      url: "https://f46s2.app.goo.gl/E9Hs",
+      icon: "https://1.bp.blogspot.com/-1cbtcK3uIqE/Wwu4VahNuGI/AAAAAAAAJmg/ViYOETRGKTQ8BtSR80Y_p3IlXUtyZDQhwCLcBGAs/s320/zlogo_fill.jpg",
+      icon_big: "https://1.bp.blogspot.com/-tS9gxJlAwcI/Wwu4WoTV9II/AAAAAAAAJmk/LhWjrh7mEZgD0aZ-S-cYHCJh4PIua3YrACLcBGAs/s400/img_feature.jpg",
+      weight: 250,
+      pkg_name: "tintuc.zingnews.android",
+      action_name: "Cài đặt"
     }
   ]
 }
