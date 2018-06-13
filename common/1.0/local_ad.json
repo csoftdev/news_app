@@ -33,6 +33,16 @@
       url: "https://f46s2.app.goo.gl/boMU",
       icon: "https://3.bp.blogspot.com/-gaMpEf6bP84/WqDcwIEYnoI/AAAAAAAAJEs/Z4Nq4ktoE9IKBdofeCaOM3fudB3OiBOMwCLcBGAs/s320/logo_content.png",
       icon_big:"https://4.bp.blogspot.com/-3VZ54U3ucjg/WyCNvQhmmzI/AAAAAAAAJs8/lSh3MmmUU5ArYPfam9A1bk9ZuHOXt-JUACLcBGAs/s400/wc2018.jpg",
+      weight: 250,
+      pkg_name: "vn.news24h.bongda.android",
+      action_name: "Cài đặt"
+    },
+    {
+      title: "Cập nhật Tin Tức & Video World Cup 2018 nhanh và mới nhất",
+      desc: "Bóng Đá 24H cung cấp thông tin bóng đá, thể thao cũng như tổng hợp video clip chất lượng cao, được thiết kế để tối ưu trải nghiệm trên điện thoại của bạn",
+      url: "https://f46s2.app.goo.gl/boMU",
+      icon: "https://3.bp.blogspot.com/-GtXb1c0vtnc/WyCWE1blQcI/AAAAAAAAJtU/-48LBvDmU5Yec4lMjmbh0S887aigl_RvwCLcBGAs/s320/world_cup.jpg",
+      icon_big:"https://4.bp.blogspot.com/-3VZ54U3ucjg/WyCNvQhmmzI/AAAAAAAAJs8/lSh3MmmUU5ArYPfam9A1bk9ZuHOXt-JUACLcBGAs/s400/wc2018.jpg",
       weight: 350,
       pkg_name: "vn.news24h.bongda.android",
       action_name: "Cài đặt"
