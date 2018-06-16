@@ -54,6 +54,11 @@
 		thumb:"",
 		desc:""
 	},
+	  	detail_image_list:"$.data[0].data[0].data[0].album",
+	detail_image:{
+		url:"image_url",
+		desc:"description"
+	},
 	related_post_list: "$.data[0].data[0].data[0].relative",
     related_post: {
       id: "id",
