@@ -48,6 +48,16 @@
       action_name: "Cài đặt"
     },
     {
+      title: "Mùa World Cup, Gieo Quẻ đoán Vận Mệnh & Tài Lộc",
+      desc: "Tiên đoán vận mệnh, tài lộc và gia đạo hằng ngày với thuật bói bài Tây 3 lá",
+      url: "https://f46s2.app.goo.gl/4Htp",
+      icon: "https://3.bp.blogspot.com/-SBz2UxtgzEQ/WycU4XfrY-I/AAAAAAAAJvU/089NEwDvkC4VDUKU_rZ83SjFj0dbvJT4QCLcBGAs/s320/ic_launcher-web.png",
+      icon_big:"https://3.bp.blogspot.com/-WXUuDbAO_EI/WycU6m9DblI/AAAAAAAAJvY/m7bDC0aSoUcyRglFHl8tn4LlLRede5R1wCLcBGAs/s400/img_feature.jpg",
+      weight: 250,
+      pkg_name: "com.timm.app.boibaitay",
+      action_name: "Gieo Quẻ Ngay"
+    },
+    {
       title: "Đọc Báo Trí Thức VN - Tin Tức đa chiều",
       desc: "Ứng dụng Đọc Báo Trí Thức VN - Tin Tức 24H là một trong số ít các ứng dụng đọc báo cung cấp nguồn tin tức online chân thật, đáng tin cậy, khách quan với nhiều bài phân tích sâu sắc từ nhiều chủ đề đa dạng ở Việt Nam. ",
       url: "https://goo.gl/T9WJo7",
