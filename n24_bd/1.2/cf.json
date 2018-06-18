@@ -24,6 +24,34 @@
       ]
     },
 	  {
+      name: "HighLight",
+      type: 0,
+      use_char_icon: true,
+	  res_icon_name: "cat_phim",
+      provider_cf: [
+        {
+		  provider_id:"hl",
+		  pid:"n24_home_vtv",
+		  group_id:"hl",
+          url: "http://p2.cnnd.vn/vtv-sport-api/app/video/zone/paging",
+		  url_method:"post",
+		  param_funcs: {
+            secret_key: "KaPdSgVkYp3s6v9y",
+            zone_id: "1519",
+            page_size: "20"
+          },
+          page_var: "page_index",
+		  page_type: "normal,1",
+		  detail_url: "http://p2.cnnd.vn/vtv-sport-api/app/video/detail",
+		  detail_url_method:"post",
+		  detail_params: {
+            secret_key: "KaPdSgVkYp3s6v9y",
+			id:"post.id"
+          }
+        }
+      ]
+    },
+	  {
       name: "World Cup",
       type: 0,
       use_char_icon: true,
