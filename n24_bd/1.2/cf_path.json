@@ -72,5 +72,35 @@
 	  createdDate: "published_date",
 	  updatedDate: ""
 	}
+  },n24_home_vtv: {
+    post_list: "$.Videos",
+    post: {
+      id: "Id",
+      title: "Name",
+      desc: "Description",
+      source: "",
+	  thumbSmall: "Avatar",
+	  thumbMedium: "Avatar",
+	  thumbBig: "Avatar",
+	  dateFormat: "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'",
+	  dateTimeZone: "GMT+7",
+	  createdDate: "DistributionDate",
+	  updatedDate: ""
+    },
+	video_str:"FileName",
+	related_post_list: "$.otherVideos.Videos",
+    related_post: {
+      id: "Id",
+      title: "Name",
+      desc: "Description",
+      source: "",
+	  thumbSmall: "Avatar",
+	  thumbMedium: "Avatar",
+	  thumbBig: "Avatar",
+	  dateFormat: "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'",
+	  dateTimeZone: "GMT+7",
+	  createdDate: "DistributionDate",
+	  updatedDate: ""
+	}
   }
 }
