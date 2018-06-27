@@ -1,53 +1,6 @@
 {
   local_ads: [
     {
-      title: "Báo Điện Tử - Tuổi Trẻ Mobile",
-      desc: "Cập nhật tin tức mới nhất, chính xác và khách quan từ Báo Tuổi Trẻ Online, các sự kiện đang diễn ra về: kinh tế, chính trị, xã hội, thế giới, giáo dục, thể thao, văn hóa, giải trí, công nghệ...",
-      url: "https://goo.gl/45Qvda",
-      icon: "https://1.bp.blogspot.com/-mMZ-91gx07w/WqCuzVq5zOI/AAAAAAAAJEA/iu6QLNg387cyi2zuDdQYnfFCAxV4cTMsACLcBGAs/s320/logo_content.png",
-      weight: 150,
-      pkg_name: "vn.tuoitre.mobile",
-      action_name: "Cài đặt"
-    },
-    {
-      title: "Báo Điện Tử - Tin Tức 24h",
-      desc: "Báo Điện Tử - nơi tổng hợp các tin tức mới nhất và chính xác nhất.",
-      url: "https://goo.gl/MTtmk9",
-      icon: "https://4.bp.blogspot.com/-vTQ-fhBITJ4/WqDAXnHQqgI/AAAAAAAAJEQ/82SSefPJR-EGfrIU3wPSai0uRv0TaX3pgCLcBGAs/s320/logo_content_small.png",
-      weight: 200,
-      pkg_name: "bao.dientu.android",
-      action_name: "Cài đặt"
-    },
-    {
-      title: "Báo Pháp Luật Tp. HCM, Tin Tức An Ninh, Công An",
-      desc: "Ứng dụng Đọc tin tức Báo Pháp Luật Tp.Hồ Chí Minh, chuyên cung cấp các thông tin nóng nhất, mới nhất về các vấn đề thời sự - xã hội Pháp Luật, các vấn đề liên quan đến An ninh trật tự ở Việt Nam, thông tin tư pháp, pháp đình, các bộ luật hình sự, dân sự, video clip hình sự antv,...",
-      url: "https://goo.gl/ABWoSJ",
-      icon: "https://2.bp.blogspot.com/-XYUfzq3AOx8/WqDan1xLAXI/AAAAAAAAJEg/ZXZdfqLJqfs2NrsRSoOjCPp8IdHNw5t1ACLcBGAs/s320/logo_content.png",
-      weight: 100,
-      pkg_name: "vn.baophapluat.mobile",
-      action_name: "Cài đặt"
-    },
-    {
-      title: "Bóng Đá 24H - Tin Tức World Cup 2018 nhanh và mới nhất",
-      desc: "Bóng Đá 24H cung cấp thông tin bóng đá, thể thao cũng như tổng hợp video clip chất lượng cao, được thiết kế để tối ưu trải nghiệm trên điện thoại của bạn",
-      url: "https://f46s2.app.goo.gl/boMU",
-      icon: "https://3.bp.blogspot.com/-gaMpEf6bP84/WqDcwIEYnoI/AAAAAAAAJEs/Z4Nq4ktoE9IKBdofeCaOM3fudB3OiBOMwCLcBGAs/s320/logo_content.png",
-      icon_big:"https://4.bp.blogspot.com/-3VZ54U3ucjg/WyCNvQhmmzI/AAAAAAAAJs8/lSh3MmmUU5ArYPfam9A1bk9ZuHOXt-JUACLcBGAs/s400/wc2018.jpg",
-      weight: 250,
-      pkg_name: "vn.news24h.bongda.android",
-      action_name: "Cài đặt"
-    },
-    {
-      title: "Cập nhật Tin Tức & Video World Cup 2018 nhanh và mới nhất",
-      desc: "Bóng Đá 24H cung cấp thông tin bóng đá, thể thao cũng như tổng hợp video clip chất lượng cao, được thiết kế để tối ưu trải nghiệm trên điện thoại của bạn",
-      url: "https://f46s2.app.goo.gl/boMU",
-      icon: "https://3.bp.blogspot.com/-GtXb1c0vtnc/WyCWE1blQcI/AAAAAAAAJtU/-48LBvDmU5Yec4lMjmbh0S887aigl_RvwCLcBGAs/s320/world_cup.jpg",
-      icon_big:"https://4.bp.blogspot.com/-3VZ54U3ucjg/WyCNvQhmmzI/AAAAAAAAJs8/lSh3MmmUU5ArYPfam9A1bk9ZuHOXt-JUACLcBGAs/s400/wc2018.jpg",
-      weight: 350,
-      pkg_name: "vn.news24h.bongda.android",
-      action_name: "Cài đặt"
-    },
-    {
       title: "Mùa World Cup, Gieo Quẻ đoán Vận Mệnh & Tài Lộc",
       desc: "Tiên đoán vận mệnh, tài lộc và gia đạo hằng ngày với thuật bói bài Tây 3 lá",
       url: "https://f46s2.app.goo.gl/4Htp",
@@ -56,35 +9,7 @@
       weight: 250,
       pkg_name: "com.timm.app.boibaitay",
       action_name: "Gieo Quẻ Ngay"
-    },
-    {
-      title: "Đọc Báo Trí Thức VN - Tin Tức đa chiều",
-      desc: "Ứng dụng Đọc Báo Trí Thức VN - Tin Tức 24H là một trong số ít các ứng dụng đọc báo cung cấp nguồn tin tức online chân thật, đáng tin cậy, khách quan với nhiều bài phân tích sâu sắc từ nhiều chủ đề đa dạng ở Việt Nam. ",
-      url: "https://goo.gl/T9WJo7",
-      icon: "https://4.bp.blogspot.com/-bjvEswMG_sg/WqDdlWcwv_I/AAAAAAAAJE4/eyt6w_N9FlIdeNwG4o5H6FShIA2FFtXBgCLcBGAs/s320/logo_fill.jpg",
-      weight: 150,
-      pkg_name: "trithucvn.news.android",
-      action_name: "Cài đặt"
-    },
-    {
-      title: "Video Ý Nghĩa Cuộc Sống, Đại Kỷ Nguyên TV - Tin Tức 24H",
-      desc: "Ứng dụng đọc báo DKN TV (Đại Kỷ Nguyên), mang đến thông tin nhanh & mới nhất được cập nhật hàng giờ. Tin tức Việt Nam & thế giới về xã hội, kinh doanh, pháp luật, đời sống, văn hóa, khoa học, công nghệ, sức khoẻ, video clip hot, ý nghĩa ...",
-      url: "https://goo.gl/1S3sgt",
-      icon: "https://4.bp.blogspot.com/-Qb38KzGmO4E/WqDejaYCjNI/AAAAAAAAJFE/6eGr1DZ3094V2Ett9Zrbgd8NQgBnFhvwQCLcBGAs/s320/logo_fill.png",
-      weight: 150,
-      pkg_name: "vn.dkn.tv.app",
-      action_name: "Cài đặt"
-    },
-    {
-      title: "Tin Nhanh VnExpress",
-      desc: "Ứng dụng Đọc báo VnExpress - báo tiếng Việt nhiều người xem nhất, cập nhật liên tục về các sự kiện diễn ra trong ngày, mang đến bạn đọc nhiều thông tin thú vị và thiết thực trong cuộc sống.",
-      url: "https://goo.gl/EKp87v",
-      icon: "https://1.bp.blogspot.com/-fkaFhnL9XKY/WqTuAUnE9fI/AAAAAAAAJHM/XwE3jYaScy4yQq0_t_YFuz4rcbOr2vmQwCLcBGAs/s320/logo_content.png",
-      icon_big: "https://3.bp.blogspot.com/-fvDsMvRJQ_o/WqTuP9dSdsI/AAAAAAAAJHQ/C2ZJIWmbtLAlG5BgPgJyxrNsrYueKd7twCLcBGAs/s400/4A020E5100000578-5477849-image-3506-5927-1520690193.jpg",
-      weight: 50,
-      pkg_name: "tinnhanh.vne.news",
-      action_name: "Cài đặt"
-    },
+    }, 
     {
       title: "Ra mắt ứng dụng tin tức dành riêng cho FAN Ngoại Hạng Anh",
       desc: "Tin Ngoại Hạng Anh mang đến trải nghiệm đọc tin Ngoại Hạng hoàn toàn mới. Nguồn tin đa dạng từ nhiều...",
