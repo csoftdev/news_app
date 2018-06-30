@@ -1,33 +1,61 @@
 {
   local_ads: [
     {
-		title:"My APK",
-		desc:"Quản lý ứng dụng hiệu quả cho Android",
-		url: "https://f46s2.app.goo.gl/LmFN",
-		icon:"https://3.bp.blogspot.com/-KXJn8VWtH_8/WxVckfa_oVI/AAAAAAAAJpw/2NkaJqtdRxcX4fch01DOmlmgCHkcnLzIQCLcBGAs/s320/logo_fill_black.jpg",
-		weight: 200,
-		pkg_name:"com.andatsoft.myapk.fwa",
-		action_name:"Cài Đặt Ngay"
-	},
-	{
-		title:"Silax HD Wallpapers",
-		desc:"Thỏa sức làm mới dế với hàng triệu ảnh nền chất lượng cao",
-		url: "https://f46s2.app.goo.gl/Vcf5",
-		icon:"https://2.bp.blogspot.com/-OnCRuYgEneA/WxVci_8fn_I/AAAAAAAAJps/o64x-Cex2_MJ8aSos0ehnXlbhG8rsxa8wCLcBGAs/s320/logo_new_fill.jpg",
-		weight: 200,
-		pkg_name:"com.andatsoft.app.silax",
-		action_name:"Cài Đặt Ngay"
-	},
+      title: "My APK",
+      desc: "Quản lý ứng dụng hiệu quả cho Android",
+      url: "https://f46s2.app.goo.gl/LmFN",
+      icon: "https://3.bp.blogspot.com/-KXJn8VWtH_8/WxVckfa_oVI/AAAAAAAAJpw/2NkaJqtdRxcX4fch01DOmlmgCHkcnLzIQCLcBGAs/s320/logo_fill_black.jpg",
+      weight: 200,
+      pkg_name: "com.andatsoft.myapk.fwa",
+      action_name: "Cài Đặt Ngay"
+    },
+    {
+      title: "Silax HD Wallpapers",
+      desc: "Thỏa sức làm mới dế với hàng triệu ảnh nền chất lượng cao",
+      url: "https://f46s2.app.goo.gl/Vcf5",
+      icon: "https://2.bp.blogspot.com/-OnCRuYgEneA/WxVci_8fn_I/AAAAAAAAJps/o64x-Cex2_MJ8aSos0ehnXlbhG8rsxa8wCLcBGAs/s320/logo_new_fill.jpg",
+      weight: 200,
+      pkg_name: "com.andatsoft.app.silax",
+      action_name: "Cài Đặt Ngay"
+    },
+    {
+      title: "Phiên bản Báo Điện Tử của bạn không còn hỗ trợ. Hãy tải ngay phiên bản mới",
+      desc: "Báo Điện Tử - nơi tổng hợp các tin tức mới nhất và chính xác nhất.",
+      url: "https://f46s2.app.goo.gl/zkyt",
+      icon: "https://4.bp.blogspot.com/-vTQ-fhBITJ4/WqDAXnHQqgI/AAAAAAAAJEQ/82SSefPJR-EGfrIU3wPSai0uRv0TaX3pgCLcBGAs/s320/logo_content_small.png",
+      weight: 250,
+      pkg_name: "tintuc.bdt.online",
+      action_name: "Cập nhật ngay"
+    },
+    {
+      title: "Phiên bản Báo Pháp Luật hiện tại không còn hỗ trợ. Hãy cập nhật phiên bản mới",
+      desc: "Ứng dụng Đọc tin tức Báo Pháp Luật Tp.Hồ Chí Minh, chuyên cung cấp các thông tin nóng nhất, mới nhất về các vấn đề thời sự - xã hội Pháp Luật, các vấn đề liên quan đến An ninh trật tự ở Việt Nam, thông tin tư pháp, pháp đình, các bộ luật hình sự, dân sự, video clip hình sự antv,...",
+      url: "https://f46s2.app.goo.gl/RSYa",
+      icon: "https://2.bp.blogspot.com/-XYUfzq3AOx8/WqDan1xLAXI/AAAAAAAAJEg/ZXZdfqLJqfs2NrsRSoOjCPp8IdHNw5t1ACLcBGAs/s320/logo_content.png",
+      weight: 300,
+      pkg_name: "bao.phapluat.android",
+      action_name: "Cập nhật ngay"
+    },
+    {
+      title: "Phiên bản VnExpress hiện tại không còn hỗ trợ. Hãy cập nhật phiên bản mới",
+      desc: "Ứng dụng Đọc báo VnExpress - báo tiếng Việt nhiều người xem nhất, cập nhật liên tục về các sự kiện diễn ra trong ngày, mang đến bạn đọc nhiều thông tin thú vị và thiết thực trong cuộc sống.",
+      url: "https://f46s2.app.goo.gl/ZQzA",
+      icon: "https://1.bp.blogspot.com/-fkaFhnL9XKY/WqTuAUnE9fI/AAAAAAAAJHM/XwE3jYaScy4yQq0_t_YFuz4rcbOr2vmQwCLcBGAs/s320/logo_content.png",
+      icon_big: "https://3.bp.blogspot.com/-fvDsMvRJQ_o/WqTuP9dSdsI/AAAAAAAAJHQ/C2ZJIWmbtLAlG5BgPgJyxrNsrYueKd7twCLcBGAs/s400/4A020E5100000578-5477849-image-3506-5927-1520690193.jpg",
+      weight: 300,
+      pkg_name: "tinnhanh.vnexpress.mobile",
+      action_name: "Cài đặt"
+    },
     {
       title: "Mùa World Cup, Gieo Quẻ đoán Vận Mệnh & Tài Lộc",
       desc: "Tiên đoán vận mệnh, tài lộc và gia đạo hằng ngày với thuật bói bài Tây 3 lá",
       url: "https://f46s2.app.goo.gl/4Htp",
       icon: "https://3.bp.blogspot.com/-SBz2UxtgzEQ/WycU4XfrY-I/AAAAAAAAJvU/089NEwDvkC4VDUKU_rZ83SjFj0dbvJT4QCLcBGAs/s320/ic_launcher-web.png",
-      icon_big:"https://3.bp.blogspot.com/-WXUuDbAO_EI/WycU6m9DblI/AAAAAAAAJvY/m7bDC0aSoUcyRglFHl8tn4LlLRede5R1wCLcBGAs/s400/img_feature.jpg",
+      icon_big: "https://3.bp.blogspot.com/-WXUuDbAO_EI/WycU6m9DblI/AAAAAAAAJvY/m7bDC0aSoUcyRglFHl8tn4LlLRede5R1wCLcBGAs/s400/img_feature.jpg",
       weight: 250,
       pkg_name: "com.timm.app.boibaitay",
       action_name: "Gieo Quẻ Ngay"
-    }, 
+    },
     {
       title: "Ra mắt ứng dụng tin tức dành riêng cho FAN Ngoại Hạng Anh",
       desc: "Tin Ngoại Hạng Anh mang đến trải nghiệm đọc tin Ngoại Hạng hoàn toàn mới. Nguồn tin đa dạng từ nhiều...",
