@@ -31,7 +31,7 @@
       title: "Phiên bản Báo Pháp Luật hiện tại không còn hỗ trợ. Hãy cập nhật phiên bản mới",
       desc: "Ứng dụng Đọc tin tức Báo Pháp Luật Tp.Hồ Chí Minh, chuyên cung cấp các thông tin nóng nhất, mới nhất về các vấn đề thời sự - xã hội Pháp Luật, các vấn đề liên quan đến An ninh trật tự ở Việt Nam, thông tin tư pháp, pháp đình, các bộ luật hình sự, dân sự, video clip hình sự antv,...",
       url: "https://f46s2.app.goo.gl/RSYa",
-      icon: "https://2.bp.blogspot.com/-XYUfzq3AOx8/WqDan1xLAXI/AAAAAAAAJEg/ZXZdfqLJqfs2NrsRSoOjCPp8IdHNw5t1ACLcBGAs/s320/logo_content.png",
+      icon: "https://2.bp.blogspot.com/-0YkGNu9KLn8/Wzjn4ORmR-I/AAAAAAAAJ9w/SMbn4QjK2qk27KlbcYcAjgM6ZuWuFsL8gCLcBGAs/s320/logo_final.jpg",
       weight: 1000,
       pkg_name: "bao.phapluat.android",
       action_name: "Cập nhật ngay"
@@ -40,7 +40,7 @@
       title: "Phiên bản VnExpress hiện tại không còn hỗ trợ. Hãy cập nhật phiên bản mới",
       desc: "Ứng dụng Đọc báo VnExpress - báo tiếng Việt nhiều người xem nhất, cập nhật liên tục về các sự kiện diễn ra trong ngày, mang đến bạn đọc nhiều thông tin thú vị và thiết thực trong cuộc sống.",
       url: "https://f46s2.app.goo.gl/ZQzA",
-      icon: "https://1.bp.blogspot.com/-fkaFhnL9XKY/WqTuAUnE9fI/AAAAAAAAJHM/XwE3jYaScy4yQq0_t_YFuz4rcbOr2vmQwCLcBGAs/s320/logo_content.png",
+      icon: "https://1.bp.blogspot.com/-MgWcmeiib-4/Wzjn4DuKWVI/AAAAAAAAJ90/nGJ3_FvTeJ8Rj64UKZwQXyBG9aLUN-xTgCLcBGAs/s320/logo_vne_1.jpg",
       icon_big: "https://3.bp.blogspot.com/-fvDsMvRJQ_o/WqTuP9dSdsI/AAAAAAAAJHQ/C2ZJIWmbtLAlG5BgPgJyxrNsrYueKd7twCLcBGAs/s400/4A020E5100000578-5477849-image-3506-5927-1520690193.jpg",
       weight: 1000,
       pkg_name: "tinnhanh.vnexpress.mobile",
