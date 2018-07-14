@@ -57,7 +57,7 @@
       action_name: "Gieo Quẻ Ngay"
     },
     {
-      title: "Ra mắt ứng dụng tin tức dành riêng cho FAN Ngoại Hạng Anh",
+      title: "Tin tức Ngoại Hạng Anh tổng hợp",
       desc: "Tin Ngoại Hạng Anh mang đến trải nghiệm đọc tin Ngoại Hạng hoàn toàn mới. Nguồn tin đa dạng từ nhiều...",
       url: "https://f46s2.app.goo.gl/mVFa",
       icon: "https://4.bp.blogspot.com/-6RpLmV8LP3I/WsEMU4zq4uI/AAAAAAAAJME/SzDNggBEmLs6NUuNAidhu4xlTBDeLmlHQCLcBGAs/s320/logo_not_clipped.jpg",
@@ -134,6 +134,16 @@
       icon_big: "https://1.bp.blogspot.com/-tS9gxJlAwcI/Wwu4WoTV9II/AAAAAAAAJmk/LhWjrh7mEZgD0aZ-S-cYHCJh4PIua3YrACLcBGAs/s400/img_feature.jpg",
       weight: 250,
       pkg_name: "tintuc.zingnews.android",
+      action_name: "Cài đặt"
+    },
+    {
+      title: "Cảm động Video ý nghĩa cuộc sống từ Đại Kỷ Nguyên TV",
+      desc: "Tổng hợp tin tức, video ý nghĩa cuộc sống từ DKN TV",
+      url: "https://f46s2.app.goo.gl/dCu6",
+      icon: "https://2.bp.blogspot.com/-3cV4PwmTA4M/W0l23c3ByoI/AAAAAAAAKBw/9F1XwYoXiZEc5AKErrO0QsMhE44PmEFbwCLcBGAs/s320/logo_fill.jpg",
+      icon_big: "https://2.bp.blogspot.com/-6G7W1h-NcH8/W0l4Ue84U8I/AAAAAAAAKB8/ToHSgeTb37E-Emd3M2nv-IMQcItQ4SHiACLcBGAs/s400/img_feature.jpg",
+      weight: 250,
+      pkg_name: "tintuc.dkntv.app",
       action_name: "Cài đặt"
     }
   ]
