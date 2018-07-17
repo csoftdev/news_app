@@ -145,6 +145,24 @@
       weight: 250,
       pkg_name: "tintuc.dkntv.app",
       action_name: "Cài đặt"
+    },
+    {
+      title: "Bóng Đá 24H - Tin Tức Thể Thao, Video Bàn Thắng Chọn Lọc",
+      desc: "Bóng Đá 24H cung cấp thông tin bóng đá, thể thao cũng như tổng hợp video clip chất lượng cao, được thiết kế để tối ưu trải nghiệm trên điện thoại của bạn",
+      url: "https://f46s2.app.goo.gl/HJ9K",
+      icon: "https://3.bp.blogspot.com/-L61A95bgBCw/W03sRieNlJI/AAAAAAAAKC4/kZ5gDnyfZsoouRnDV4P7SPiFFXbPCNQNgCLcBGAs/s320/logo_f.jpg",
+      weight: 700,
+      pkg_name: "app.bongda.thethao.online",
+      action_name: "Cài đặt"
+    },
+    {
+      title: "Tin tức, bản tin thời sự 19H",
+      desc: "Tin 19H cung cấp nội dung đa dạng, nhiều chủ đề với gần 20 chuyên mục bao gồm Giải trí, Xã hội, Pháp luật, An ninh,...",
+      url: "https://f46s2.app.goo.gl/9ywm",
+      icon: "https://4.bp.blogspot.com/-zbX4zr7F6R8/W03tIrhfCcI/AAAAAAAAKDA/pqOpdrJv7ZMS-DgOY0ivXDpV6KdQEZD5gCLcBGAs/s320/logo_f.jpg",
+      weight: 700,
+      pkg_name: "fb.baomoi.tin19h",
+      action_name: "Cài đặt"
     }
   ]
 }
