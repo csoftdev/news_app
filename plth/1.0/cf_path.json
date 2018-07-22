@@ -1,0 +1,153 @@
+{
+  plo_home: {
+    post_list: "$.feeds",
+    post: {
+      id: "posid",
+      title: "title",
+      desc: "description",
+      source: "url",
+	  thumbSmall: "image",
+	  thumbMedium: "image",
+	  thumbBig: "image",
+	  dateFormat: "MM/dd/yyyy hh:mm:ss a",
+	  dateRegex: "",
+	  dateTimeZone: "GMT+7",
+	  createdDate: "time",
+	  updatedDate: ""
+    },
+	detail: "$.content[0].body",
+	related_post_list: "$.content[0].relatednews",
+    related_post: {
+      id: "url",
+	  idRegex:"(\\d{6,7})",
+      title: "title",
+      source: "url",
+	  thumbSmall: "image",
+	  thumbMedium: "image",
+	  thumbBig: "image",
+	  dateFormat: "yyyy_MM_dd",
+	  dateRegex: "(\\d{4}_\\d{2}_\\d{2})",
+	  createdDate: "image",
+	  updatedDate: "image"
+	}
+  },
+  vne_cate_phap_luat: {
+    post_list: "$.data.1001007",
+    post: {
+      id: "article_id",
+      title: "title",
+      desc: "lead",
+      source: "share_url",
+	  thumbSmall: "thumbnail_url",
+	  thumbMedium: "thumbnail_url",
+	  thumbBig: "thumbnail_url",
+	  dateFormat: "L10",
+	  createdDate: "publish_time",
+	  updatedDate: "update_time"
+    },
+	detail: "$.data.content",
+	detail_image_list:"$.data.photos",
+	detail_image: {
+		id:"photo_id",
+		url:"thumbnail_url",
+		width:0,
+		height:0,
+		desc:"caption"
+	},
+	video_objs:"$.data.list_video",
+	detail_video: {
+		id: "video_id",
+		url:"url",
+		thumb:"thumbnail_url",
+		desc:"caption"
+	},
+	related_post_list: "$.data.list_reference_seemore",
+    related_post: {
+      id: "article_id",
+      title: "title",
+      desc: "lead",
+      source: "share_url",
+	  thumbSmall: "thumbnail_url",
+	  thumbMedium: "thumbnail_url",
+	  thumbBig: "thumbnail_url",
+	  dateFormat: "L10",
+	  createdDate: "publish_time",
+	  updatedDate: "update_time"
+	}
+  },
+  vnn_home: {
+    post_list: "$.articles",
+    post: {
+      id: "aid",
+      title: "title",
+      desc: "lead",
+      source: "link",
+	  thumbSmall: "image",
+	  thumbMedium: "image",
+	  thumbBig: "image",
+	  dateFormat: "dd/MM/yyyy",
+	  dateTimeZone: "GMT+7",
+	  createdDate: "publishtime",
+	  updatedDate: "publishtime",
+	  display_date: "publishtime"
+    },
+	resolve_global_data:"jRemove_retvar =",
+	resolve_detail_data:"stripHtml,jRemove_https://vnn-imgs-f.vgcloud.vn/logo.gif",
+	detail: "$.articles[0].detail"
+  },
+  n19_home: {
+    post_list: "$.source",
+    post: {
+      id: "lid",
+      title: "title",
+      desc: "desc",
+      source: "url",
+	  thumbSmall: "cover",
+	  thumbMedium: "cover",
+	  thumbBig: "cover",
+	  createdDate: "posttime",
+	  dateFormat: "L13",
+	  updatedDate: "",
+	  detail: "content",
+	  video_strs: "listMp4",
+	  video_view_type:"a"
+    },
+	next_page:"$.linfos[-1:].lid",
+	resolve_detail_data:"jRemoveTags_script,jReplaceTag_h2_span,jReplaceTag_h3_span, jReplaceTag_h1_span",
+	in_video_content:{
+		div: "data-src"
+	},
+	related_post_list: "$.linfos",
+    related_post: {
+      id: "lid",
+      title: "title",
+      desc: "desc",
+      source: "url",
+	  thumbSmall: "cover",
+	  thumbMedium: "cover",
+	  thumbBig: "cover",
+	  createdDate: "posttime",
+	  dateFormat: "L13",
+	  updatedDate: "",
+	  detail: "content",
+	  video_strs: "listMp4",
+	  video_view_type:"a"
+    }
+  },
+  dt_home: {
+    post_list: "$.data.rows",
+    post: {
+      id: "post_id",
+      title: "post_title",
+      desc: "description",
+      source: "source_url",
+	  thumbSmall: "images.thumb_images.342x270",
+	  thumbMedium: "images.thumb_images.342x270",
+	  thumbBig: "images.source_url",
+	  dateFormat: "L10",
+	  createdDate: "created_date",
+	  updatedDate: ""
+    },
+	detail: "$.data.post_content"
+  }
+}
