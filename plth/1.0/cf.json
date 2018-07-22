@@ -126,7 +126,7 @@
       name: "VnExpress",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "",
+	  res_icon_name: "char_e",
       provider_cf: [
         {
 		  provider_id:"vne_pluat",
@@ -146,7 +146,7 @@
       name: "VietNamNet",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "",
+	  res_icon_name: "char_VNN",
       provider_cf: [
         {
 		  provider_id:"phap_luat",
