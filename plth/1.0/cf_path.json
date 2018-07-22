@@ -319,7 +319,7 @@
 	  video_strs: "listMp4",
 	  video_view_type:"a"
     },
-	next_page="$.linfos[-1:].lid",
+	next_page:"$.linfos[-1:].lid",
 	resolve_detail_data:"jRemoveTags_script,jReplaceTag_h2_span,jReplaceTag_h3_span, jReplaceTag_h1_span",
 	in_video_content:{
 		div: "data-src"
