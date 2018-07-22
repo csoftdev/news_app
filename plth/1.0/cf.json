@@ -61,28 +61,7 @@
           }
         }
       ]
-    },
-	{
-      name: "Thời sự",
-      type: 0,
-      use_char_icon: true,
-	  res_icon_name: "cat_thoi_su",
-      provider_cf: [
-        {
-		  provider_id:"thoi_su",
-		  pid:"plo_home",
-		  group_id:"thoi_su",
-          url: "http://plo.vn/api/contents.json?zoneid=1&",
-		  page_var: "page",
-		  page_type: "normal,1",
-		  detail_url: "http://plo.vn/api/media.json?",
-		  detail_params: {
-            contentid: "post.id"
-          }
-        }
-      ]
-    },
-	{
+    },{
       name: "An ninh",
       type: 0,
       use_char_icon: true,
@@ -106,7 +85,7 @@
       name: "Pháp luật HCM",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_phap_luat", 
+	  res_icon_name: "char_plo", 
       provider_cf: [
         {
 		  provider_id:"phap_luat",
