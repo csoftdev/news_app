@@ -85,7 +85,7 @@
       name: "Pháp luật HCM",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "char_plo", 
+	  res_icon_name: "char_P", 
       provider_cf: [
         {
 		  provider_id:"phap_luat",
@@ -105,7 +105,7 @@
       name: "VnExpress",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "char_e",
+	  res_icon_name: "char_E",
       provider_cf: [
         {
 		  provider_id:"vne_pluat",
@@ -125,7 +125,7 @@
       name: "VietNamNet",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "char_VNN",
+	  res_icon_name: "char_V",
       provider_cf: [
         {
 		  provider_id:"phap_luat",
