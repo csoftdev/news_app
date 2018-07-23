@@ -23,7 +23,7 @@
       desc: "Báo Điện Tử - nơi tổng hợp các tin tức mới nhất và chính xác nhất.",
       url: "https://f46s2.app.goo.gl/zkyt",
       icon: "https://4.bp.blogspot.com/-vTQ-fhBITJ4/WqDAXnHQqgI/AAAAAAAAJEQ/82SSefPJR-EGfrIU3wPSai0uRv0TaX3pgCLcBGAs/s320/logo_content_small.png",
-      weight: 250,
+      weight: 700,
       pkg_name: "tintuc.bdt.online",
       action_name: "Cập nhật ngay"
     },
@@ -162,6 +162,15 @@
       icon: "https://4.bp.blogspot.com/-zbX4zr7F6R8/W03tIrhfCcI/AAAAAAAAKDA/pqOpdrJv7ZMS-DgOY0ivXDpV6KdQEZD5gCLcBGAs/s320/logo_f.jpg",
       weight: 700,
       pkg_name: "fb.baomoi.tin19h",
+      action_name: "Cài đặt"
+    },
+    {
+      title: "Tin An ninh & Hình Sự, Pháp Luật Tổng Hợp - An Ninh 24H",
+      desc: "Video clip An ninh được tổng hợp từ nhiều nguồn. Tin tức Pháp Luật & Đời Sống",
+      url: "https://f46s2.app.goo.gl/AN5w",
+      icon: "https://2.bp.blogspot.com/-02CeY6342M8/W1Xj4J0_6iI/AAAAAAAAKFw/39wawSGklBYncPjz94sM8l_SifIIlTfEQCLcBGAs/s320/logo_f.jpg",
+      weight: 1000,
+      pkg_name: "com.phapluat.anninh.online",
       action_name: "Cài đặt"
     }
   ]
