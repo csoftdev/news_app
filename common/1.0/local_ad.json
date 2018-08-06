@@ -77,11 +77,11 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Cô giáo kẹp cổ, tát liên tiếp vào mặt trẻ mầm non - Báo Thanh Niên",
-      desc: "Ngày 26.7, nhiều phụ huynh học sinh phẫn nộ trước hình ảnh học sinh mầm non bị đánh tím má được lan truyền trên mạng xã hội.",
-      url: "https://f46s2.app.goo.gl/UQrW",
-      icon: "https://image.thanhnien.vn/1600/uploaded/bichthanh/2018_07_26/tre1_kgli.jpg",
-      icon_big: "https://image.thanhnien.vn/1600/uploaded/bichthanh/2018_07_26/tre1_kgli.jpg",
+      title: "Án mạng chấn động miền quê: Nghịch tử giết cha",
+      desc: "Chỉ vì mâu thuẫn nhỏ nhặt, nghịch tử Nguyễn Khải dùng dụng cụ sóc rơm đâm cha ruột, gây ra vụ án chấn động miền quê",
+      url: "https://f46s2.app.goo.gl/Qk3t",
+      icon: "https://image.thanhnien.vn/665/uploaded/longbn/2018_08_06/khai_dxcn.jpg",
+      icon_big: "https://image.thanhnien.vn/665/uploaded/longbn/2018_08_06/khai_dxcn.jpg",
       weight: 1500,
       pkg_name: "thanhnien.tintuc.android",
       action_name: "Tải App Để Xem Tin"
