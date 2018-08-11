@@ -184,10 +184,10 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Cuồng ghen, chồng giết vợ đem xác ra nghĩa trang phi tang - An Ninh Tổng Hợp",
-      desc: "Nghi vợ ngoại tình với hàng xóm, bị cáo sau khi giết vợ đã ra nghĩa trang vứt xác phi tang...",
-      url: "https://f46s2.app.goo.gl/5Tg6",
-      icon: "http://image.plo.vn/w653/Uploaded/2018/pwivogmv/2018_08_03/sang-thucnghiem2_nmof_thumb.jpg",
+      title: "Kinh hoàng: Ông bà cùng cháu ruột bị sát hại ở Vĩnh Long",
+      desc: "Ngày 10-8, Công an tỉnh Vĩnh Long đang tạm giữ hình sự Võ Văn Tuấn (40 tuổi, ngụ xã Phú Lộc, huyện Tam Bình, tỉnh Vĩnh Long) để điều tra về hành vi giết người...",
+      url: "https://f46s2.app.goo.gl/i7uz",
+      icon: "http://image.plo.vn/w800/Uploaded/2018/qxwpwqdwp/2018_08_10/giet-cha-me-vl2_grcu.jpg",
       weight: 1000,
       pkg_name: "com.phapluat.anninh.online",
       action_name: "Tải app để đọc tin"
