@@ -24,30 +24,6 @@
       ]
     },
 	{
-      name: "World Cup",
-      type: 0,
-      use_char_icon: true,
-	  res_icon_name: "cat_cup",
-      provider_cf: [
-        {
-		  provider_id:"wc",
-		  pid:"n24_home_24h",
-		  group_id:"wc",
-          url: "https://api.appbongda24h.vn/v3/android/topic/46?tab=0&app_version=1.0.17&",
-		  param_funcs: {
-            device_id: "getAndroidId"
-          },
-          page_var: "conditions",
-		  page_type: "custom",
-		  cus_page_func: "ebase64",
-		  detail_url: "https://api.appbongda24h.vn/v3/android/article/{post.id}?app_version=1.0.17&get_part=-1",
-		  detail_params: {
-            device_id: "getAndroidId"
-          }
-        }
-      ]
-    },
-	{
       name: "HighLight",
       type: 0,
       use_char_icon: true,
