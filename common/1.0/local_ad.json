@@ -161,7 +161,7 @@
       desc: "Bóng Đá 24H cung cấp thông tin bóng đá, thể thao cũng như tổng hợp video clip chất lượng cao, được thiết kế để tối ưu trải nghiệm trên điện thoại của bạn",
       url: "https://f46s2.app.goo.gl/HJ9K",
       icon: "https://3.bp.blogspot.com/-L61A95bgBCw/W03sRieNlJI/AAAAAAAAKC4/kZ5gDnyfZsoouRnDV4P7SPiFFXbPCNQNgCLcBGAs/s320/logo_f.jpg",
-      weight: 700,
+      weight: 1500,
       pkg_name: "app.bongda.thethao.online",
       action_name: "Cài đặt"
     },
