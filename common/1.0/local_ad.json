@@ -184,10 +184,10 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Kinh hoàng: Ông bà cùng cháu ruột bị sát hại ở Vĩnh Long",
-      desc: "Ngày 10-8, Công an tỉnh Vĩnh Long đang tạm giữ hình sự Võ Văn Tuấn (40 tuổi, ngụ xã Phú Lộc, huyện Tam Bình, tỉnh Vĩnh Long) để điều tra về hành vi giết người...",
-      url: "https://f46s2.app.goo.gl/i7uz",
-      icon: "http://image.plo.vn/w800/Uploaded/2018/qxwpwqdwp/2018_08_10/giet-cha-me-vl2_grcu.jpg",
+      title: "1 nam du khách nước ngoài chết lõa thể trên sông Hương",
+      desc: "Trước đó, người dân phát hiện ba lô có giấy tờ tùy thân của du khách này ở gần đồi Vọng Cảnh...",
+      url: "https://f46s2.app.goo.gl/S1oQ",
+      icon: "http://image.plo.vn/w653/Uploaded/2018/vocgmvlw/2018_08_15/thi-the-du-khach_khis.jpg",
       weight: 1000,
       pkg_name: "com.phapluat.anninh.online",
       action_name: "Tải app để đọc tin"
