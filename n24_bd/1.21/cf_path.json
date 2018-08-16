@@ -129,6 +129,7 @@
       title: "title",
       desc: "intro",
       source: "",
+      thumbDomain:"https://media.thethao247.vn/",
       thumbSmall: "image",
       thumbMedium: "image",
       thumbBig: "image",
