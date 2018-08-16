@@ -77,11 +77,11 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Án mạng chấn động miền quê: Nghịch tử giết cha",
-      desc: "Chỉ vì mâu thuẫn nhỏ nhặt, nghịch tử Nguyễn Khải dùng dụng cụ sóc rơm đâm cha ruột, gây ra vụ án chấn động miền quê",
-      url: "https://f46s2.app.goo.gl/Qk3t",
-      icon: "https://image.thanhnien.vn/665/uploaded/longbn/2018_08_06/khai_dxcn.jpg",
-      icon_big: "https://image.thanhnien.vn/665/uploaded/longbn/2018_08_06/khai_dxcn.jpg",
+      title: "Video án mạng kinh hoàng trong phòng trọ: Vợ chồng và con 7 tháng tuổi chết - Thanh Niên",
+      desc: "3 thi thể gồm 2 vợ chồng và một đứa con 7 tháng tuổi được phát hiện trong một phòng trọ ở ấp 3, xã La Ngà, huyện Định Quán, tỉnh Đồng Nai.",
+      url: "https://f46s2.app.goo.gl/G2Zf",
+      icon: "http://cdn.baogiaothong.vn/files/phu.le/2018/08/15/123429-39132678_2145042885529346_3992414586895597568_o.jpg",
+      icon_big: "http://cdn.baogiaothong.vn/files/phu.le/2018/08/15/123429-39132678_2145042885529346_3992414586895597568_o.jpg",
       weight: 1500,
       pkg_name: "thanhnien.tintuc.android",
       action_name: "Tải App Để Xem Tin"
