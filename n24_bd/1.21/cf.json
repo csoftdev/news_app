@@ -4,256 +4,257 @@
       name: "Trang chủ",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_home",
+      res_icon_name: "cat_home",
       provider_cf: [
         {
-		  provider_id:"trang_chu",
-		  pid:"n24_home",
-		  group_id:"trang_chu",
+          provider_id: "trang_chu",
+          pid: "n24_home",
+          group_id: "trang_chu",
           url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/279,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
-		  param_funcs: {
+          param_funcs: {
             
           },
           page_var: "page",
-		  page_type: "normal,1",
-		  detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
-		  detail_params: {
+          page_type: "normal,1",
+          detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
+          detail_params: {
             
           }
         }
       ]
     },
-	{
+    {
       name: "HighLight",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_phim",
+      res_icon_name: "cat_phim",
       provider_cf: [
         {
-		  provider_id:"hl",
-		  pid:"n24_home_vtv",
-		  group_id:"hl",
+          provider_id: "hl",
+          pid: "n24_home_vtv",
+          group_id: "hl",
           url: "http://p2.cnnd.vn/vtv-sport-api/app/video/zone/paging/",
-		  url_method:"post",
-		  param_funcs: {
+          url_method: "post",
+          param_funcs: {
             secret_key: "KaPdSgVkYp3s6v9y",
             zone_id: "1519",
             page_size: "20"
           },
           page_var: "page_index",
-		  page_type: "normal,1",
-		  detail_url: "http://p2.cnnd.vn/vtv-sport-api/app/video/detail",
-		  detail_url_method:"post",
-		  detail_params: {
+          page_type: "normal,1",
+          detail_url: "http://p2.cnnd.vn/vtv-sport-api/app/video/detail",
+          detail_url_method: "post",
+          detail_params: {
             secret_key: "KaPdSgVkYp3s6v9y",
-			id:"post.id"
+            id: "post.id"
           }
         }
       ]
     },
-	{
+    {
       name: "Video",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_video",
+      res_icon_name: "cat_video",
       provider_cf: [
         {
-		  provider_id:"video",
-		  pid:"n24_home_24h",
-		  group_id:"video",
+          provider_id: "video",
+          pid: "n24_home_24h",
+          group_id: "video",
           url: "https://api.appbongda24h.vn/v3/android/topic/56?tab=0&app_version=1.0.14&",
-		  param_funcs: {
+          param_funcs: {
             device_id: "getAndroidId"
           },
           page_var: "conditions",
-		  page_type: "custom",
-		  cus_page_func: "ebase64",
-		  detail_url: "https://api.appbongda24h.vn/v3/android/article/{post.id}?app_version=1.0.14&get_part=-1",
-		  detail_params: {
+          page_type: "custom",
+          cus_page_func: "ebase64",
+          detail_url: "https://api.appbongda24h.vn/v3/android/article/{post.id}?app_version=1.0.14&get_part=-1",
+          detail_params: {
             device_id: "getAndroidId"
           }
         }
       ]
     },
-	{
+    {
       name: "Châu Âu",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "",
+      res_icon_name: "",
       provider_cf: [
         {
-		  provider_id:"chau_au",
-		  pid:"n24_home",
-		  group_id:"chau_au",
+          provider_id: "chau_au",
+          pid: "n24_home",
+          group_id: "chau_au",
           url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/184,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
-		  param_funcs: {
+          param_funcs: {
             
           },
           page_var: "page",
-		  page_type: "normal,1",
-		  detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
-		  detail_params: {
+          page_type: "normal,1",
+          detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
+          detail_params: {
             
           }
         }
       ]
     },
-	{
+    {
       name: "Anh",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "",
+      res_icon_name: "",
       provider_cf: [
         {
-		  provider_id:"anh",
-		  pid:"n24_home",
-		  group_id:"anh",
+          provider_id: "anh",
+          pid: "n24_home",
+          group_id: "anh",
           url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/172,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
-		  param_funcs: {
+          param_funcs: {
             
           },
           page_var: "page",
-		  page_type: "normal,1",
-		  detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
-		  detail_params: {
+          page_type: "normal,1",
+          detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
+          detail_params: {
             
           }
         }
       ]
     },
-	{
+    {
       name: "TBN",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "",
+      res_icon_name: "",
       provider_cf: [
         {
-		  provider_id:"tbn",
-		  pid:"n24_home",
-		  group_id:"tbn",
+          provider_id: "tbn",
+          pid: "n24_home",
+          group_id: "tbn",
           url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/180,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
-		  param_funcs: {
+          param_funcs: {
             
           },
           page_var: "page",
-		  page_type: "normal,1",
-		  detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
-		  detail_params: {
+          page_type: "normal,1",
+          detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
+          detail_params: {
             
           }
         }
       ]
     },
-	{
+    {
       name: "Đức",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "",
+      res_icon_name: "",
       provider_cf: [
         {
-		  provider_id:"duc",
-		  pid:"n24_home",
-		  group_id:"duc",
+          provider_id: "duc",
+          pid: "n24_home",
+          group_id: "duc",
           url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/193,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
-		  param_funcs: {
+          param_funcs: {
             
           },
           page_var: "page",
-		  page_type: "normal,1",
-		  detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
-		  detail_params: {
+          page_type: "normal,1",
+          detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
+          detail_params: {
             
           }
         }
       ]
     },
-	{
+    {
       name: "Pháp",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "",
+      res_icon_name: "",
       provider_cf: [
         {
-		  provider_id:"phap",
-		  pid:"n24_home",
-		  group_id:"phap",
+          provider_id: "phap",
+          pid: "n24_home",
+          group_id: "phap",
           url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/197,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
-		  param_funcs: {
+          param_funcs: {
             
           },
           page_var: "page",
-		  page_type: "normal,1",
-		  detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
-		  detail_params: {
+          page_type: "normal,1",
+          detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
+          detail_params: {
             
           }
         }
       ]
     },
-	{
+    {
       name: "Việt Nam",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "",
+      res_icon_name: "",
       provider_cf: [
         {
-		  provider_id:"vietnam",
-		  pid:"n24_home",
-		  group_id:"vietnam",
-          url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/168,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
-		  param_funcs: {
+          provider_id: "vietnam",
+          pid: "n24_home_tt247",
+          group_id: "vietnam",
+          url: "http://app.thethao247.vn/api/newscat/id/1/page/{pgpage}",
+          param_funcs: {
             
           },
           page_var: "page",
-		  page_type: "normal,1",
-		  detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
-		  detail_params: {
+          page_type: "normal,1",
+          detail_url: "http://app.thethao247.vn/api/detail/id/{post.id}",
+          detail_params: {
             
-          }
+          },
+          related_url: "http://app.thethao247.vn/api/relate/id/{post.id}"
         }
       ]
     },
-	{
+    {
       name: "Italia",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "",
+      res_icon_name: "",
       provider_cf: [
         {
-		  provider_id:"italia",
-		  pid:"n24_home",
-		  group_id:"italia",
+          provider_id: "italia",
+          pid: "n24_home",
+          group_id: "italia",
           url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/176,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
-		  param_funcs: {
+          param_funcs: {
             
           },
           page_var: "page",
-		  page_type: "normal,1",
-		  detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
-		  detail_params: {
+          page_type: "normal,1",
+          detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
+          detail_params: {
             
           }
         }
       ]
     },
-	{
+    {
       name: "Hậu Trường",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_the_thao",
+      res_icon_name: "cat_the_thao",
       provider_cf: [
         {
-		  provider_id:"hau_truong",
-		  pid:"n24_home",
-		  group_id:"hau_truong",
+          provider_id: "hau_truong",
+          pid: "n24_home",
+          group_id: "hau_truong",
           url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/188,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
-		  param_funcs: {
+          param_funcs: {
             
           },
           page_var: "page",
-		  page_type: "normal,1",
-		  detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
-		  detail_params: {
+          page_type: "normal,1",
+          detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
+          detail_params: {
             
           }
         }
