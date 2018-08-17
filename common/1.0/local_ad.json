@@ -200,6 +200,16 @@
       weight: 1000,
       pkg_name: "tintuc.bdt.online",
       action_name: "Tải app để đọc tin"
+    },
+    {
+      title: "Bán nhà mới, đẹp 2 mặt tiền đường Lưu Quý Kỳ 91m2. 1 trệt 3 lầu 4 phòng ngủ, sân để xe, sân thượng",
+      desc: "Nhà mới đẹp kiên cố sạch đẹp thoáng mát, mỗi phòng có đầy đủ nội thất như một phòng khách sạn, cực kì an ninh. Giá 10 tỷ (có thương lượng cho khách nhiệt tình)",
+      url: "tel://01888046455 ",
+      icon: "https://1.bp.blogspot.com/-L-juuF1Todc/W3bZ-qwoJnI/AAAAAAAAKQI/nkYcIxbC39kgrQQH6g4vdeBwrtIIdJElwCLcBGAs/s400/bannha.JPEG",
+      icon_big: "https://1.bp.blogspot.com/-L-juuF1Todc/W3bZ-qwoJnI/AAAAAAAAKQI/nkYcIxbC39kgrQQH6g4vdeBwrtIIdJElwCLcBGAs/s400/bannha.JPEG",
+      weight: 500,
+      pkg_name: "",
+      action_name: "Gọi để tư vấn ngay"
     }
   ]
 }
