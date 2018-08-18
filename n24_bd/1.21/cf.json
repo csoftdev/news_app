@@ -259,6 +259,30 @@
           }
         }
       ]
+    },
+    {
+      name: "Mỹ Nhân",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "cat_women",
+      provider_cf: [
+        {
+          provider_id: "mynhan",
+          pid: "n24_home_24h",
+          group_id: "mynhan",
+          url: "https://api.appbongda24h.vn/v3/android/topic/53?tab=0&app_version=1.0.18&",
+          param_funcs: {
+            device_id: "getAndroidId"
+          },
+          page_var: "conditions",
+          page_type: "custom",
+          cus_page_func: "ebase64",
+          detail_url: "https://api.appbongda24h.vn/v3/android/article/{post.id}?app_version=1.0.14&get_part=-1",
+          detail_params: {
+            device_id: "getAndroidId"
+          }
+        }
+      ]
     }
   ]
 }
