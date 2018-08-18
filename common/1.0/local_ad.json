@@ -193,6 +193,15 @@
       action_name: "Tải app để đọc tin"
     },
     {
+      title: "Tìm thấy thi thể thanh niên mất tích trên con rạch ở Thủ Đức",
+      desc: "Thi thể thanh niên được tìm thấy ở trên con rạch phía sau chợ đầu mối nông sản Thủ Đức, TP.HCM sau khi mất tích 2 ngày.",
+      url: "https://f46s2.app.goo.gl/w3Zz",
+      icon: "http://image.plo.vn/w653/Uploaded/2018/wpdhnwcjw/2018_08_17/plo-xac-chet-nam-thanh-nien-o-cho-dau-moi-nong-san-thu-duc_wywg.jpg",
+      weight: 1000,
+      pkg_name: "com.phapluat.anninh.online",
+      action_name: "Tải app để đọc tin"
+    },
+    {
       title: "Mâu thuẫn trong cuộc nhậu, cầm lưỡi lê đâm chết em rể - Báo Điện Tử",
       desc: "Ngày 11/8, Công an Hà Tĩnh cho biết, đang tạm giữ hình sự Trần Đức Lân (49 tuổi, trú xã Kỳ Văn, Kỳ Anh) để điều tra tội Giết người, theo điều 123 Bộ luật hình sự 2015...",
       url: "https://f46s2.app.goo.gl/3s3u",
