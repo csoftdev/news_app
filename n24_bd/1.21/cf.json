@@ -30,23 +30,19 @@
       res_icon_name: "cat_phim",
       provider_cf: [
         {
-          provider_id: "hl",
-          pid: "n24_home_vtv",
-          group_id: "hl",
-          url: "http://p2.cnnd.vn/vtv-sport-api/app/video/zone/paging/",
-          url_method: "post",
+          provider_id: "video",
+          pid: "n24_home_24h",
+          group_id: "video",
+          url: "https://api.appbongda24h.vn/v3/android/topic/56?tab=0&app_version=1.0.14&",
           param_funcs: {
-            secret_key: "KaPdSgVkYp3s6v9y",
-            zone_id: "1519",
-            page_size: "20"
+            device_id: "getAndroidId"
           },
-          page_var: "page_index",
-          page_type: "normal,1",
-          detail_url: "http://p2.cnnd.vn/vtv-sport-api/app/video/detail",
-          detail_url_method: "post",
+          page_var: "conditions",
+          page_type: "custom",
+          cus_page_func: "ebase64",
+          detail_url: "https://api.appbongda24h.vn/v3/android/article/{post.id}?app_version=1.0.14&get_part=-1",
           detail_params: {
-            secret_key: "KaPdSgVkYp3s6v9y",
-            id: "post.id"
+            device_id: "getAndroidId"
           }
         }
       ]
