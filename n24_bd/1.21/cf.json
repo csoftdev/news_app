@@ -33,7 +33,7 @@
           provider_id: "video",
           pid: "n24_home_24h",
           group_id: "video",
-          url: "https://api.appbongda24h.vn/v3/android/topic/57?tab=0&app_version=1.0.14&",
+          url: "https://api.appbongda24h.vn/v3/android/topic/57?tab=0&app_version=1.0.18&",
           param_funcs: {
             device_id: "getAndroidId"
           },
