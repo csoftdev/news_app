@@ -8,7 +8,7 @@
       provider_cf: [
         {
 		  provider_id:"24h",
-		  pid:"24h",
+		  pid:"n24h",
 		  group_id:"24h",
           url: "https://api.appbongda24h.vn/v3/android/topic/78?tab=0&app_version=1.0.18&",
 		  param_funcs: {
@@ -48,7 +48,7 @@
       name: "Thanh Niên",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_TN",
+	  res_icon_name: "char_TN",
       provider_cf: [
         {
 		  provider_id:"thanhnien",
@@ -109,7 +109,7 @@
       name: "Trí Thức",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_TT",
+	  res_icon_name: "char_TT",
       provider_cf: [
         {
 		  provider_id:"trithuc",
@@ -126,7 +126,7 @@
       ]
     },
 	{
-      name: "DKN",
+      name: "DKN.TV",
       type: 0,
       use_char_icon: true,
       res_icon_name: "char_DKN",
