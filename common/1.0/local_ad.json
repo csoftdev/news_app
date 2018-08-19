@@ -184,10 +184,10 @@
       action_name: "Cài đặt"
     },
     {
-      title: "1 nam du khách nước ngoài chết lõa thể trên sông Hương",
-      desc: "Trước đó, người dân phát hiện ba lô có giấy tờ tùy thân của du khách này ở gần đồi Vọng Cảnh...",
-      url: "https://f46s2.app.goo.gl/S1oQ",
-      icon: "http://image.plo.vn/w653/Uploaded/2018/vocgmvlw/2018_08_15/thi-the-du-khach_khis.jpg",
+      title: "Dùng súng CKC giết 2 vợ chồng rồi tự tử",
+      desc: "Chiều 15-8, Công an tỉnh Điện Biên vẫn đang tích cực điều tra vụ nổ súng đặc biệt nghiêm trọng trên địa bàn khiến ba người tử vong...",
+      url: "https://f46s2.app.goo.gl/D3v2",
+      icon: "http://image.plo.vn/w653/Uploaded/2018/cdhnwyqjw/2018_08_15/no-sung-sat-hai-vo-chong-roi-tu-sat_jumo_thumb.jpg",
       weight: 1000,
       pkg_name: "com.phapluat.anninh.online",
       action_name: "Tải app để đọc tin"
