@@ -1,6 +1,33 @@
 {
   nav_items: [
     {
+      name: "f_search",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "",
+      provider_cf: [
+        {
+          provider_id: "f_search",
+          pid: "dkntv_home",
+          group_id: "f_search",
+          url: "https://a76roejzrg-dsn.algolia.net/1/indexes/posts/query?x-algolia-agent=Algolia%20for%20ReactNative%203.27.1&x-algolia-application-id=A76ROEJZRG&x-algolia-api-key=ec84efac099e5661a77c9b480f14edce",
+          url_method:"post",
+          param_funcs:{
+            query:"pb_keyword",
+            offset:"0",
+            length:"50",
+            analytics:"false"
+          },
+          page_var: "",
+          page_type: "fixed",
+          detail_url: "http://app.dkn.tv/api/get_post?",
+          detail_params: {
+            post_id: "post.id"
+          }
+        }
+      ]
+    },
+    {
       name: "Mới nhất",
       type: 0,
       use_char_icon: true,
