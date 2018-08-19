@@ -77,16 +77,6 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Video án mạng kinh hoàng trong phòng trọ: Vợ chồng và con 7 tháng tuổi chết - Thanh Niên",
-      desc: "3 thi thể gồm 2 vợ chồng và một đứa con 7 tháng tuổi được phát hiện trong một phòng trọ ở ấp 3, xã La Ngà, huyện Định Quán, tỉnh Đồng Nai.",
-      url: "https://f46s2.app.goo.gl/G2Zf",
-      icon: "http://cdn.baogiaothong.vn/files/phu.le/2018/08/15/123429-39132678_2145042885529346_3992414586895597568_o.jpg",
-      icon_big: "http://cdn.baogiaothong.vn/files/phu.le/2018/08/15/123429-39132678_2145042885529346_3992414586895597568_o.jpg",
-      weight: 1500,
-      pkg_name: "thanhnien.tintuc.android",
-      action_name: "Tải App Để Xem Tin"
-    },
-    {
       title: "Đọc báo VietNamNet, tin tức trong ngày",
       desc: "Tin tức trong ngày được báo VietNamNet cập nhật nhanh nhất, mới nhất. Đọc báo tin tức online về thời sự, pháp luật, kinh doanh, giải trí,…hay nhất 24h qua",
       url: "https://f46s2.app.goo.gl/adcj",
@@ -225,6 +215,15 @@
       desc: "Ứng dụng đọc báo thế giới tổng hợp từ nhiều nguồn uy tín",
       url: "https://f46s2.app.goo.gl/Nv8t",
       icon: "https://3.bp.blogspot.com/-Dnk0SzGzszs/W3mGzTSHOfI/AAAAAAAAKRU/QTbBxlypv7U7llhu9faZ-LuYnTi7CXMzgCLcBGAs/s320/logo_fill.jpg",
+      weight: 200,
+      pkg_name: "com.tintuc.thegioi",
+      action_name: "Cài Đặt"
+    },
+    {
+      title: "Căn bệnh hiếm khiến cậu bé 6 tuổi Kazakhstan trông như ông lão",
+      desc: "Cậu bé Yernar Alibekov mắc một chứng bệnh hiếm gặp liên quan đến gen khiến em trông già hơn so với tuổi",
+      url: "https://f46s2.app.goo.gl/mtBW",
+      icon: "https://i-vnexpress.vnecdn.net/2018/08/18/NINTCHDBPICT000427197985-8941-1534565014.jpg",
       weight: 200,
       pkg_name: "com.tintuc.thegioi",
       action_name: "Cài Đặt"
