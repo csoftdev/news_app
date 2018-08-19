@@ -115,10 +115,10 @@
 		  provider_id:"trithuc",
 		  pid:"trithuc",
 		  group_id:"trithuc",
-          url: "http://trithucvn.net/api/get_category_posts/?category_id=10&count=24&",
+          url: "https://trithucvn.net/api/get_category_posts/?category_id=10&count=24&",
           page_var: "paged",
 		  page_type: "normal,1",		  
-		  detail_url: "http://trithucvn.net/api/get_post/?",
+		  detail_url: "https://trithucvn.net/api/get_post/?",
 		  detail_params: {
             post_id: "post.id"
           }
