@@ -1,29 +1,5 @@
 {
   nav_items: [
-    {
-      name: "24H",
-      type: 0,
-      use_char_icon: true,
-	  res_icon_name: "char_24H",
-      provider_cf: [
-        {
-		  provider_id:"24h",
-		  pid:"n24h",
-		  group_id:"24h",
-          url: "https://api.appbongda24h.vn/v3/android/topic/78?tab=0&app_version=1.0.18&",
-		  param_funcs: {
-            device_id: "getAndroidId"
-          },
-          page_var: "conditions",
-		  page_type: "custom",
-		  cus_page_func: "ebase64",
-		  detail_url: "https://api.appbongda24h.vn/v3/android/article/{post.id}?app_version=1.0.18&get_part=-1",
-		  detail_params: {
-            device_id: "getAndroidId"
-          }
-        }
-      ]
-    },
 	{
       name: "VnExpress",
       type: 0,
