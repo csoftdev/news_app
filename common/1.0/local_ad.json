@@ -156,6 +156,15 @@
       action_name: "Cài đặt"
     },
     {
+      title: "ASIAD 2018: Việt Nam được 1 HC Bạc và 3 HC Đồng, tạm xếp thứ 15",
+      desc: "Trong ngày thi đấu hôm nay, đoàn thể thao Việt Nam đã có thêm 1 HC Bạc và 1 HC Đồng, do Thạch Kim Tuấn ở cử tạ và Nguyễn Huy Hoàng bơi lội đem về. Như vậy, Việt Nam đã có được 1 HC Bạc và 3 HC Đồng tại ASIAD 18 2018.",
+      url: "https://f46s2.app.goo.gl/cVKC",
+      icon: "https://image.thanhnien.vn/485/uploaded/sontung/2018_08_20/39674678_253711398604944_4540124170989600768_n_jygm.jpg",
+      weight: 1500,
+      pkg_name: "app.bongda.thethao.online",
+      action_name: "Cài đặt"
+    },
+    {
       title: "Tin tức, bản tin thời sự 19H",
       desc: "Tin 19H cung cấp nội dung đa dạng, nhiều chủ đề với gần 20 chuyên mục bao gồm Giải trí, Xã hội, Pháp luật, An ninh,...",
       url: "https://f46s2.app.goo.gl/9ywm",
@@ -215,7 +224,7 @@
       desc: "Ứng dụng đọc báo thế giới tổng hợp từ nhiều nguồn uy tín",
       url: "https://f46s2.app.goo.gl/Nv8t",
       icon: "https://3.bp.blogspot.com/-Dnk0SzGzszs/W3mGzTSHOfI/AAAAAAAAKRU/QTbBxlypv7U7llhu9faZ-LuYnTi7CXMzgCLcBGAs/s320/logo_fill.jpg",
-      weight: 200,
+      weight: 1000,
       pkg_name: "com.tintuc.thegioi",
       action_name: "Cài Đặt"
     },
@@ -224,7 +233,7 @@
       desc: "Cậu bé Yernar Alibekov mắc một chứng bệnh hiếm gặp liên quan đến gen khiến em trông già hơn so với tuổi",
       url: "https://f46s2.app.goo.gl/mtBW",
       icon: "https://i-vnexpress.vnecdn.net/2018/08/18/NINTCHDBPICT000427197985-8941-1534565014.jpg",
-      weight: 200,
+      weight: 1000,
       pkg_name: "com.tintuc.thegioi",
       action_name: "Cài Đặt"
     }
