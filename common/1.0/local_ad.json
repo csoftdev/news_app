@@ -165,6 +165,15 @@
       action_name: "Cài đặt"
     },
     {
+      title: "Bóng chuyền Việt Nam quật ngã Trung Quốc từng 3 lần vô địch ASIAD",
+      desc: "Hôm nay, tuyển bóng chuyền nam Việt Nam tạo bất ngờ lớn ở trận ra quân bảng E khi đánh bại hạt giống số 1 của bảng là Trung Quốc...",
+      url: "https://f46s2.app.goo.gl/unfq",
+      icon: "https://image.thanhnien.vn/485/uploaded/minhtan/2018_08_20/39569993_266099100889226_7689259725027803136_n_ulkt.jpg",
+      weight: 1500,
+      pkg_name: "thanhnien.tintuc.android",
+      action_name: "Cài đặt"
+    },
+    {
       title: "Tin tức, bản tin thời sự 19H",
       desc: "Tin 19H cung cấp nội dung đa dạng, nhiều chủ đề với gần 20 chuyên mục bao gồm Giải trí, Xã hội, Pháp luật, An ninh,...",
       url: "https://f46s2.app.goo.gl/9ywm",
