@@ -19,15 +19,6 @@
       action_name: "Cài Đặt Ngay"
     },
     {
-      title: "Phiên bản Báo Điện Tử của bạn không còn hỗ trợ. Hãy tải ngay phiên bản mới",
-      desc: "Báo Điện Tử - nơi tổng hợp các tin tức mới nhất và chính xác nhất.",
-      url: "https://f46s2.app.goo.gl/zkyt",
-      icon: "https://4.bp.blogspot.com/-vTQ-fhBITJ4/WqDAXnHQqgI/AAAAAAAAJEQ/82SSefPJR-EGfrIU3wPSai0uRv0TaX3pgCLcBGAs/s320/logo_content_small.png",
-      weight: 700,
-      pkg_name: "tintuc.bdt.online",
-      action_name: "Cập nhật ngay"
-    },
-    {
       title: "Phiên bản Báo Pháp Luật hiện tại không còn hỗ trợ. Hãy cập nhật phiên bản mới",
       desc: "Ứng dụng Đọc tin tức Báo Pháp Luật Tp.Hồ Chí Minh, chuyên cung cấp các thông tin nóng nhất, mới nhất về các vấn đề thời sự - xã hội Pháp Luật, các vấn đề liên quan đến An ninh trật tự ở Việt Nam, thông tin tư pháp, pháp đình, các bộ luật hình sự, dân sự, video clip hình sự antv,...",
       url: "https://f46s2.app.goo.gl/RSYa",
@@ -169,6 +160,15 @@
       desc: "Hôm nay, tuyển bóng chuyền nam Việt Nam tạo bất ngờ lớn ở trận ra quân bảng E khi đánh bại hạt giống số 1 của bảng là Trung Quốc...",
       url: "https://f46s2.app.goo.gl/unfq",
       icon: "https://image.thanhnien.vn/485/uploaded/minhtan/2018_08_20/39569993_266099100889226_7689259725027803136_n_ulkt.jpg",
+      weight: 1500,
+      pkg_name: "thanhnien.tintuc.android",
+      action_name: "Cài đặt"
+    },
+    {
+      title: "Video cướp tiền, vàng táo tợn trị giá hơn 3 tỉ đồng gần trụ sở huyện",
+      desc: "Video cướp tiền, vàng táo tợn trị giá hơn 3 tỉ đồng gần trụ sở huyện",
+      url: "https://f46s2.app.goo.gl/KmoR",
+      icon: "https://image.thanhnien.vn/586x368/uploaded/dangsinh/2018_08_19/cuoptienvangtaotaotrigiahon3tidonggantrusohuyen1534672086109319044998_yzin.jpg",
       weight: 1500,
       pkg_name: "thanhnien.tintuc.android",
       action_name: "Cài đặt"
