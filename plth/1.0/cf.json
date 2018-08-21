@@ -41,7 +41,7 @@
       ]
     },
     {
-      name: "Media",
+      name: "Video",
       type: 0,
       use_char_icon: true,
       res_icon_name: "cat_video",
@@ -61,22 +61,20 @@
       ]
     },
     {
-      name: "An ninh",
+      name: "An ninh Thủ Đô",
       type: 0,
       use_char_icon: true,
-      res_icon_name: "cat_an_ninh",
+      res_icon_name: "char_A",
       provider_cf: [
         {
-          provider_id: "an_ninh",
-          pid: "plo_home",
-          group_id: "an_ninh",
-          url: "http://plo.vn/api/contents.json?zoneid=23&",
-          page_var: "page",
-          page_type: "normal,1",
-          detail_url: "http://plo.vn/api/media.json?",
-          detail_params: {
-            contentid: "post.id"
-          }
+          provider_id: "baomoi",
+          pid: "baomoi",
+          group_id: "baomoi",
+          url: "http://104.131.141.52:3000/v1/news/articles/79/4/{pglid}/10?platform=android&app_version=1.2.4",
+          page_var: "lid",
+          page_type: "custom,0",
+          detail_url: "",
+          related_url: "http://104.131.141.52:3000/v1/news/articles_relative/79/4/{post.id}?platform=android&app_version=1.2.4"
         }
       ]
     },
