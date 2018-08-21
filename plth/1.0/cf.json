@@ -61,7 +61,7 @@
       ]
     },
     {
-      name: "An ninh Thủ Đô",
+      name: "An Ninh Thủ Đô",
       type: 0,
       use_char_icon: true,
       res_icon_name: "char_A",
@@ -79,7 +79,7 @@
       ]
     },
     {
-      name: "Pháp luật HCM",
+      name: "Pháp Luật HCM",
       type: 0,
       use_char_icon: true,
       res_icon_name: "char_P",
