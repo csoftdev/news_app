@@ -230,6 +230,7 @@
       updatedDate: "",
       detail: "content"
     },
+    next_page: "$.data.linfos[-1:].lid",
     related_post_list: "$.data.linfos",
     related_post: {
       id: "lid",
