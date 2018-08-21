@@ -1,107 +1,125 @@
 {
   nav_items: [
-	{
+    {
+      name: "Tổng hợp",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "cat_home",
+      provider_cf: [
+        {
+          provider_id: "baomoi",
+          pid: "baomoi",
+          group_id: "baomoi",
+          url: "http://104.131.141.52:3000/v1/news/articles/5/2/{pglid}/10?platform=android&app_version=1.2.4",
+          page_var: "lid",
+          page_type: "custom,0",
+          detail_url: "",
+          related_url: "http://104.131.141.52:3000/v1/news/articles_relative/5/2/{post.id}?platform=android&app_version=1.2.4"
+        }
+      ]
+    },
+    {
       name: "VnExpress",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "char_VNE", 
+      res_icon_name: "char_VNE",
       provider_cf: [
         {
-		  provider_id:"vne",
-		  pid:"vne",
-		  group_id:"vne",
+          provider_id: "vne",
+          pid: "vne",
+          group_id: "vne",
           url: "https://api3.vnexpress.net/api/article?type=get_rule_2&select=article_id,article_type,original_cate,site_id,title,lead,share_url,thumbnail_url,privacy,publish_time,list_object_type&cate_id=1001002&limit=10&app_id=c31b32&",
-		  page_var: "offset",
-		  page_type: "offset,10",
-		  detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
-		  detail_params: {
+          page_var: "offset",
+          page_type: "offset,10",
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
             article_id: "post.id"
           }
         }
       ]
     },
-	{
+    {
       name: "Thanh Niên",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "char_TN",
+      res_icon_name: "char_TN",
       provider_cf: [
         {
-		  provider_id:"thanhnien",
-		  pid:"thanhnien",
-		  group_id:"thanhnien",
+          provider_id: "thanhnien",
+          pid: "thanhnien",
+          group_id: "thanhnien",
           url: "https://mcms.thanhnien.vn/services_v2/getListSection",
-		  url_method:"post",
-		  param_funcs: {
+          url_method: "post",
+          param_funcs: {
             boundary: "randUUID",
-			section_id: "111324"
+            section_id: "111324"
           },
           page_var: "page_index",
-		  page_type: "normal,1",
-		  detail_url: "https://mcms.thanhnien.vn/services_v2/getStory",
-		  detail_url_method:"post",
-		  detail_params: {
+          page_type: "normal,1",
+          detail_url: "https://mcms.thanhnien.vn/services_v2/getStory",
+          detail_url_method: "post",
+          detail_params: {
             boundary: "randUUID",
-			story_id: "post.id"
+            story_id: "post.id"
           }
         }
       ]
     },
-	{
+    {
       name: "Dân Trí",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "char_DT",
+      res_icon_name: "char_DT",
       provider_cf: [
         {
-		  provider_id:"dantri",
-		  pid:"dantri",
-		  group_id:"dantri",
+          provider_id: "dantri",
+          pid: "dantri",
+          group_id: "dantri",
           url: "http://api.chiennn.me/mobile/post?access_key=4297f44b13955235245b2497399d7a93&limit=20&&filter=[{\"column\":\"cate_id\",\"operator\":\"matches_any\",\"value\":\"133\"}]",
-		  page_var:"page",
-		  page_type: "normal,1",
-		  detail_url: "http://api.chiennn.me/mobile/post/{post.id}?access_key=4297f44b13955235245b2497399d7a93"
+          page_var: "page",
+          page_type: "normal,1",
+          detail_url: "http://api.chiennn.me/mobile/post/{post.id}?access_key=4297f44b13955235245b2497399d7a93"
         }
       ]
     },
-	{
+    {
       name: "VietNamNet",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "char_VNN",
+      res_icon_name: "char_VNN",
       provider_cf: [
         {
-		  provider_id:"vnn",
-		  pid:"vnn",
-		  group_id:"vnn",
+          provider_id: "vnn",
+          pid: "vnn",
+          group_id: "vnn",
           url: "http://vietnamnet.vn/jsx/category/?c=the-gioi&",
           page_var: "p",
-		  page_type: "normal,1",
-		  detail_url: "http://vietnamnet-a.1api.vn/jsx/detail/?a={post.id}"
+          page_type: "normal,1",
+          detail_url: "http://vietnamnet-a.1api.vn/jsx/detail/?a={post.id}"
         }
       ]
     },
-	{
+    {
       name: "Trí Thức",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "char_TT",
+      res_icon_name: "char_TT",
       provider_cf: [
         {
-		  provider_id:"trithuc",
-		  pid:"trithuc",
-		  group_id:"trithuc",
+          provider_id: "trithuc",
+          pid: "trithuc",
+          group_id: "trithuc",
           url: "https://trithucvn.net/api/get_category_posts/?category_id=10&count=24&",
           page_var: "paged",
-		  page_type: "normal,1",		  
-		  detail_url: "https://trithucvn.net/api/get_post/?",
-		  detail_params: {
+          page_type: "normal,1",
+          detail_url: "https://trithucvn.net/api/get_post/?",
+          detail_params: {
             post_id: "post.id"
           }
         }
       ]
     },
-	{
+    {
       name: "DKN.TV",
       type: 0,
       use_char_icon: true,
