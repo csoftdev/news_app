@@ -201,10 +201,10 @@
       action_name: "Tải app để đọc tin"
     },
     {
-      title: "Tìm thấy thi thể thanh niên mất tích trên con rạch ở Thủ Đức",
-      desc: "Thi thể thanh niên được tìm thấy ở trên con rạch phía sau chợ đầu mối nông sản Thủ Đức, TP.HCM sau khi mất tích 2 ngày.",
-      url: "https://f46s2.app.goo.gl/w3Zz",
-      icon: "http://image.plo.vn/w653/Uploaded/2018/wpdhnwcjw/2018_08_17/plo-xac-chet-nam-thanh-nien-o-cho-dau-moi-nong-san-thu-duc_wywg.jpg",
+      title: "Ôm tiền tiết kiệm đi buôn 400 hồng phiến 'lãi' 15 năm tù",
+      desc: "Chỉ vì hám 4 triệu đồng tiền lời, Tuyết đã lấy số tiền tiết kiệm của gia đình đi buôn hồng phiến và đã lãnh 15 năm tù.",
+      url: "https://f46s2.app.goo.gl/2Ugj",
+      icon: "http://image.plo.vn/w800/Uploaded/2018/jgirgs/2018_08_23/hong-phien_nxao.jpg",
       weight: 1000,
       pkg_name: "com.phapluat.anninh.online",
       action_name: "Tải app để đọc tin"
