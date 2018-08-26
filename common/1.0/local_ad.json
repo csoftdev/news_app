@@ -210,10 +210,10 @@
       action_name: "Tải app để đọc tin"
     },
     {
-      title: "Mâu thuẫn trong cuộc nhậu, cầm lưỡi lê đâm chết em rể - Báo Điện Tử",
-      desc: "Ngày 11/8, Công an Hà Tĩnh cho biết, đang tạm giữ hình sự Trần Đức Lân (49 tuổi, trú xã Kỳ Văn, Kỳ Anh) để điều tra tội Giết người, theo điều 123 Bộ luật hình sự 2015...",
-      url: "https://f46s2.app.goo.gl/3s3u",
-      icon: "https://i-vnexpress.vnecdn.net/2018/08/11/dam-chet-nguoi-2-9733-1533990665.jpg",
+      title: "8 con cừu bị giết chết, hút cạn máu một cách bí ẩn - Báo Điện Tử",
+      desc: "8 con cừu bị giết chết và hút cạn sạch máu một cách bí ẩn tại ngôi làng ở Ukraine khiến dân làng hết sức hãi hùng",
+      url: "https://f46s2.app.goo.gl/64HD",
+      icon: "http://media.doisongvietnam.vn/u/rootimage/editor/2018/08/25/22/11/w825/8-c1535188304_1601.jpg",
       weight: 1000,
       pkg_name: "tintuc.bdt.online",
       action_name: "Tải app để đọc tin"
