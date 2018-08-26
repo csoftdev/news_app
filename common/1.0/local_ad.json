@@ -229,13 +229,13 @@
       action_name: "Gọi để tư vấn ngay"
     },
     {
-      title: "Tin thế giới tổng hợp trong ngày",
-      desc: "Ứng dụng đọc báo thế giới tổng hợp từ nhiều nguồn uy tín",
-      url: "https://f46s2.app.goo.gl/Nv8t",
-      icon: "https://3.bp.blogspot.com/-Dnk0SzGzszs/W3mGzTSHOfI/AAAAAAAAKRU/QTbBxlypv7U7llhu9faZ-LuYnTi7CXMzgCLcBGAs/s320/logo_fill.jpg",
+      title: "Trung Quốc: Đánh thuế người dưới 2 con",
+      desc: "Một ý tưởng đòi đánh thuế người lao động có ít hơn 2 con để hỗ trợ, khuyến khích những người sinh 2 con đang chịu nhiều chỉ trích tại Trung Quốc.",
+      url: "https://f46s2.app.goo.gl/j3p8",
+      icon: "https://image.thanhnien.vn/665/uploaded/baovinh/2018_08_24/trung-quoc_yiep.jpg",
       weight: 1000,
       pkg_name: "com.tintuc.thegioi",
-      action_name: "Cài Đặt"
+      action_name: "Tải App Để Đọc Tin"
     },
     {
       title: "Video Sốc: Người phụ nữ Mỹ bị xe cán vì giằng co với tên cướp túi xách",
