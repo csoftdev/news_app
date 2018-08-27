@@ -147,11 +147,11 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Chúc mừng Việt Nam! Chúng tôi tự hào về các bạn - CĐV ĐNA ngưỡng mộ U23 VN",
-      desc: "Chứng kiến Việt Nam trở thành đại diện Đông Nam Á duy nhất vào đến tứ kết Asiad năm nay, nhiều CĐV bóng đá trong khu vực bày tỏ sự ngưỡng mộ.",
+      title: "Việt Nam 1-0 Syria. Cùng xem video bàn thắng của Văn Toàn trên Bóng Đá 24H",
+      desc: "Văn Toàn ghi bàn thắng trong thời khắc quan trọng giúp Việt Nam tiến gần tới bán kết Asiad. ",
       url: "https://f46s2.app.goo.gl/18iJ",
-      icon: "https://i-thethao.vnecdn.net/2018/08/25/lich-3714-1535178464-9431-1535188698.jpg",
-      weight: 1500,
+      icon: "https://i-thethao.vnecdn.net/2018/08/27/top-8123-1535381614_600x0.jpg",
+      weight: 5500,
       pkg_name: "app.bongda.thethao.online",
       action_name: "Cài đặt"
     },
