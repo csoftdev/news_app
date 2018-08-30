@@ -147,11 +147,11 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Việt Nam 1-0 Syria. Cùng xem video bàn thắng của Văn Toàn trên Bóng Đá 24H",
-      desc: "Văn Toàn ghi bàn thắng trong thời khắc quan trọng giúp Việt Nam tiến gần tới bán kết Asiad. ",
-      url: "https://f46s2.app.goo.gl/18iJ",
-      icon: "https://i-thethao.vnecdn.net/2018/08/27/top-8123-1535381614_600x0.jpg",
-      weight: 5500,
+      title: "Tổng hợp BXH Asiad 2018 - Bóng Đá 24H",
+      desc: "Tổng hợp BXH Asiad 2018",
+      url: "https://f46s2.app.goo.gl/HJ9K",
+      icon: "https://vietnammoi.vn/stores/news_dataimages/thinhpn/072018/18/10/1404_dai-hoi-the-thao-chau-a-asiad-2018.jpg",
+      weight: 1000,
       pkg_name: "app.bongda.thethao.online",
       action_name: "Cài đặt"
     },
@@ -192,19 +192,19 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Dùng súng CKC giết 2 vợ chồng rồi tự tử",
-      desc: "Chiều 15-8, Công an tỉnh Điện Biên vẫn đang tích cực điều tra vụ nổ súng đặc biệt nghiêm trọng trên địa bàn khiến ba người tử vong...",
-      url: "https://f46s2.app.goo.gl/D3v2",
-      icon: "http://image.plo.vn/w653/Uploaded/2018/cdhnwyqjw/2018_08_15/no-sung-sat-hai-vo-chong-roi-tu-sat_jumo_thumb.jpg",
+      title: "Hai cậu cháu tử vong sau khi uống rượu ngâm rễ cây",
+      desc: "(PLO)- Sau khi uống 1,5 lít rượu ngâm rễ cây lạ, cả hai người đã lên cơn co giật và tử vong.",
+      url: "https://f46s2.app.goo.gl/JZXr",
+      icon: "http://image.plo.vn/w800/uploaded/2018/qjumn/2018_08_30/fde06631-c1a5-49d1-9cef-e1727d05efdc_nbzd_thumb.jpg",
       weight: 1000,
       pkg_name: "com.phapluat.anninh.online",
       action_name: "Tải app để đọc tin"
     },
     {
-      title: "Ôm tiền tiết kiệm đi buôn 400 hồng phiến 'lãi' 15 năm tù",
-      desc: "Chỉ vì hám 4 triệu đồng tiền lời, Tuyết đã lấy số tiền tiết kiệm của gia đình đi buôn hồng phiến và đã lãnh 15 năm tù.",
-      url: "https://f46s2.app.goo.gl/2Ugj",
-      icon: "http://image.plo.vn/w800/Uploaded/2018/jgirgs/2018_08_23/hong-phien_nxao.jpg",
+      title: "Sàm sỡ vợ người khác, nam thanh niên bị đâm tử vong",
+      desc: "(PLO)- Thấy nam thanh niên có hành vi vỗ vào mông vợ mình trong lúc mời rượu, Tuấn Anh dùng kéo đâm vào ngực khiến nạn nhân tử vong.",
+      url: "https://f46s2.app.goo.gl/veYZ",
+      icon: "http://image.plo.vn/w800/Uploaded/2018/cdhnwyqjw/2018_08_30/bi-dam-tu-vong-vi-vo-mong-vo-nguoi-khac1_gmwe.jpg",
       weight: 1000,
       pkg_name: "com.phapluat.anninh.online",
       action_name: "Tải app để đọc tin"
@@ -229,10 +229,10 @@
       action_name: "Gọi để tư vấn ngay"
     },
     {
-      title: "Trung Quốc: Đánh thuế người dưới 2 con",
-      desc: "Một ý tưởng đòi đánh thuế người lao động có ít hơn 2 con để hỗ trợ, khuyến khích những người sinh 2 con đang chịu nhiều chỉ trích tại Trung Quốc.",
-      url: "https://f46s2.app.goo.gl/j3p8",
-      icon: "https://image.thanhnien.vn/665/uploaded/baovinh/2018_08_24/trung-quoc_yiep.jpg",
+      title: "Arab Saudi phóng tên lửa 60.000 USD diệt phiến quân đi xe máy",
+      desc: "Binh sĩ Arab Saudi sử dụng một tên lửa chống tăng tầm trung để hạ hai phiến quân Yemen đang phóng xe máy trên sa mạc.",
+      url: "https://f46s2.app.goo.gl/h1iW",
+      icon: "https://i-vnexpress.vnecdn.net/2018/08/30/Yemen-1535618568-4407-1535618692_500x300.jpg",
       weight: 1000,
       pkg_name: "com.tintuc.thegioi",
       action_name: "Tải App Để Đọc Tin"
