@@ -156,19 +156,19 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Bị đánh rách mặt, HCB ASIAD vẫn tươi cười an ủi mẹ",
-      desc: "Trong chiều tối ngày 25.8, Võ sĩ Karatedo Nguyễn Minh Phụng đã thất bại trong trận chung kết đối kháng hạng cân 84kg nam",
-      url: "https://f46s2.app.goo.gl/ahMJ",
-      icon: "https://image.thanhnien.vn/178x100/uploaded/trantuananh/2018_08_25/hcb_sqcb.png",
+      title: "Cặp vợ chồng giết chủ nợ rồi ném xác xuống biển",
+      desc: "Ngày 27.8.2018, công an thành phố Đà Nẵng đã ra kết luận điều tra, đề nghị Viện KSND cùng cấp truy tố hai vợ chồng giết người vứt xác xuống vịnh gây chấn động dư luận mà Truyền hình báo Thanh Niên từng đưa tin.",
+      url: "https://f46s2.app.goo.gl/EJEx",
+      icon: "https://image.thanhnien.vn/500/uploaded/tienptc/2018_08_27/200024222still00115353435182381285163768_uqxy.jpg",
       weight: 1500,
       pkg_name: "thanhnien.tintuc.android",
       action_name: "Cài đặt"
     },
     {
-      title: "Giết chồng, phân xác rúng động Bình Dương",
-      desc: "Hàng Thị Hồng Diễm, người vợ giết chồng phân xác phi tang đang ngồi khép nép, thẫn thờ, dùng chiếc khăn lau nhẹ những giọt nước mắt",
-      url: "https://f46s2.app.goo.gl/pS28",
-      icon: "https://image.thanhnien.vn/665/uploaded/thanhthuy/2018_08_24/anh1_xnfw.jpg",
+      title: "Tai nạn thảm khốc, xe ben tông chết 2 người đi xe máy - Thanh Niên",
+      desc: "Đây là hiện trường vụ tai nạn giao thông khiến 2 người chết xảy ra trên đường 768 đoạn qua UBND xã Bình Hòa, huyện Vĩnh Cửu, tỉnh Đồng Nai vào khoảng 15 giờ 30 phút ngày 31.8.2018.",
+      url: "https://f46s2.app.goo.gl/xJYg",
+      icon: "https://image.thanhnien.vn/500/uploaded/thanhhai/2018_08_31/318tainangiaothongdongnai15357172448896042796067f142_nxqa.jpg",
       weight: 1500,
       pkg_name: "thanhnien.tintuc.android",
       action_name: "Cài đặt"
@@ -192,10 +192,10 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Hai cậu cháu tử vong sau khi uống rượu ngâm rễ cây",
-      desc: "(PLO)- Sau khi uống 1,5 lít rượu ngâm rễ cây lạ, cả hai người đã lên cơn co giật và tử vong.",
-      url: "https://f46s2.app.goo.gl/JZXr",
-      icon: "http://image.plo.vn/w800/uploaded/2018/qjumn/2018_08_30/fde06631-c1a5-49d1-9cef-e1727d05efdc_nbzd_thumb.jpg",
+      title: "Mang USD đến tiệm vàng ở TP.HCM vờ mua rồi giật chạy",
+      desc: "(PLO)- Nam thanh niên cầm theo một gói USD giả vào một tiệm vàng ở quận 8, TP.HCM giả vờ mua. Trong lúc chủ tiệm bất cẩn đã lấy đi một lắc vàng trị giá hàng chục triệu rồi tẩu thoát.",
+      url: "https://f46s2.app.goo.gl/eBRo",
+      icon: "http://image.plo.vn/w800/Uploaded/2018/wpdhnwcjw/2018_08_31/plo-lua-o-tiem-vang-tren-dia-ban-quan-8_vwnl.jpg",
       weight: 1000,
       pkg_name: "com.phapluat.anninh.online",
       action_name: "Tải app để đọc tin"
