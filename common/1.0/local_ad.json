@@ -173,10 +173,10 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Mang USD đến tiệm vàng ở TP.HCM vờ mua rồi giật chạy",
-      desc: "(PLO)- Nam thanh niên cầm theo một gói USD giả vào một tiệm vàng ở quận 8, TP.HCM giả vờ mua. Trong lúc chủ tiệm bất cẩn đã lấy đi một lắc vàng trị giá hàng chục triệu rồi tẩu thoát.",
-      url: "https://f46s2.app.goo.gl/eBRo",
-      icon: "http://image.plo.vn/w800/Uploaded/2018/wpdhnwcjw/2018_08_31/plo-lua-o-tiem-vang-tren-dia-ban-quan-8_vwnl.jpg",
+      title: "Sơn La - Tài xế xe ôm bị giết, xác vứt bên đường",
+      desc: "Nhiều người dân bàng hoàng khi phát hiện người đàn ông chết ở ven đường với nhiều vết thương trên cơ thể nghi bị giết, cướp tài sản.",
+      url: "https://f46s2.app.goo.gl/4eJV",
+      icon: "https://vtcns.goplay.vn/files/ctv.xahoi/2018/09/03/cuop-0902047.jpg",
       weight: 1000,
       pkg_name: "com.phapluat.anninh.online",
       action_name: "Tải app để đọc tin"
