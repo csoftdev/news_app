@@ -22,17 +22,6 @@
         }
       ]
     },
-	  {
-      name: "Tổng hợp",
-      type: 2000,
-      use_char_icon: true,
-      res_icon_name: "cat_ic_info",
-      provider_cf: [
-        {
-          provider_id: "tinnhanh.vnexpress.mobile"
-        }
-      ]
-    },
     {
       name: "Tổng hợp",
       type: 0,
