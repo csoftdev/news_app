@@ -137,19 +137,10 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Tổng hợp BXH Asiad 2018 - Bóng Đá 24H",
-      desc: "Tổng hợp BXH Asiad 2018",
-      url: "https://f46s2.app.goo.gl/HJ9K",
-      icon: "https://vietnammoi.vn/stores/news_dataimages/thinhpn/072018/18/10/1404_dai-hoi-the-thao-chau-a-asiad-2018.jpg",
-      weight: 1000,
-      pkg_name: "app.bongda.thethao.online",
-      action_name: "Cài đặt"
-    },
-    {
-      title: "Cặp vợ chồng giết chủ nợ rồi ném xác xuống biển",
-      desc: "Ngày 27.8.2018, công an thành phố Đà Nẵng đã ra kết luận điều tra, đề nghị Viện KSND cùng cấp truy tố hai vợ chồng giết người vứt xác xuống vịnh gây chấn động dư luận mà Truyền hình báo Thanh Niên từng đưa tin.",
-      url: "https://f46s2.app.goo.gl/EJEx",
-      icon: "https://image.thanhnien.vn/500/uploaded/tienptc/2018_08_27/200024222still00115353435182381285163768_uqxy.jpg",
+      title: "Con khóc thét khi thấy cha mẹ tử vong trong ngôi nhà mới thuê",
+      desc: "Thấy Đ. ngồi khóc trước nhà, mọi người đến hỏi thì cháu nói 'ba mẹ chết rồi'. Khi vào nhà kiểm tra, người dân bàng hoàng phát hiện cha mẹ của Đ. đều đã tử vong.",
+      url: "https://f46s2.app.goo.gl/L6va",
+      icon: "https://image.thanhnien.vn/665/uploaded/ngocthanh/2018_09_03/chet_rfwy.jpg",
       weight: 1500,
       pkg_name: "thanhnien.tintuc.android",
       action_name: "Cài đặt"
@@ -219,19 +210,19 @@
       action_name: "Gọi để tư vấn ngay"
     },
     {
-      title: "Arab Saudi phóng tên lửa 60.000 USD diệt phiến quân đi xe máy",
-      desc: "Binh sĩ Arab Saudi sử dụng một tên lửa chống tăng tầm trung để hạ hai phiến quân Yemen đang phóng xe máy trên sa mạc.",
-      url: "https://f46s2.app.goo.gl/h1iW",
-      icon: "https://i-vnexpress.vnecdn.net/2018/08/30/Yemen-1535618568-4407-1535618692_500x300.jpg",
+      title: "400 tù nhân vượt ngục ở Libya",
+      desc: "Hàng trăm tù nhân trốn thoát khỏi một nhà tù ở thủ đô Tripoli, Libya",
+      url: "https://f46s2.app.goo.gl/BPoH",
+      icon: "https://i-vnexpress.vnecdn.net/2018/09/03/40658247-256582941860377-87511-9104-6206-1535932328_600x0.jpg",
       weight: 1000,
       pkg_name: "com.tintuc.thegioi",
       action_name: "Tải App Để Đọc Tin"
     },
     {
-      title: "Video Sốc: Người phụ nữ Mỹ bị xe cán vì giằng co với tên cướp túi xách",
-      desc: "Một phụ nữ Mỹ bị những tên cướp tấn công và lái xe đè qua người trong khi giằng co để giữ lại chiếc túi xách chứa nhiều tiền mặt.",
-      url: "https://f46s2.app.goo.gl/74up",
-      icon: "https://i-vnexpress.vnecdn.net/2018/08/22/4F33D003000005786075191imagea4-8030-3769-1534935783_180x108.jpg",
+      title: "Video nữ tài xế Mỹ vượt ẩu, đập vỡ kính xe buýt",
+      desc: "Cảnh sát thủ đô Washington công bố video hình ảnh một phụ nữ đập phá và cố tình lái đi khi có người chặn xe.",
+      url: "https://f46s2.app.goo.gl/MtQe",
+      icon: "https://i-vnexpress.vnecdn.net/2018/09/01/180831dcroadragevideostills-15-8110-5751-1535764024_500x300.png",
       weight: 1000,
       pkg_name: "com.tintuc.thegioi",
       action_name: "Cài Đặt"
