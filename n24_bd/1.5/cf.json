@@ -194,19 +194,18 @@
       provider_cf: [
         {
           provider_id: "vietnam",
-          pid: "n24_home_tt247",
+          pid: "n24_home",
           group_id: "vietnam",
-          url: "http://app.thethao247.vn/api/newscat/id/1/page/{pgpage}",
+          url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/168,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
           param_funcs: {
             
           },
           page_var: "page",
           page_type: "normal,1",
-          detail_url: "http://app.thethao247.vn/api/detail/id/{post.id}",
+          detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
           detail_params: {
             
-          },
-          related_url: "http://app.thethao247.vn/api/relate/id/{post.id}"
+          }
         }
       ]
     },
