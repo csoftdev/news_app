@@ -118,26 +118,6 @@
           }
         }
       ]
-    },
-    {
-      name: "DKN.TV",
-      type: 0,
-      use_char_icon: true,
-      res_icon_name: "char_DKN",
-      provider_cf: [
-        {
-          provider_id: "dkn",
-          pid: "dkn",
-          group_id: "dkn",
-          url: "http://app.dkn.tv/api/get_category_posts?category_id=8691&count=10&",
-          page_var: "paged",
-          page_type: "normal,1",
-          detail_url: "http://app.dkn.tv/api/get_post?",
-          detail_params: {
-            post_id: "post.id"
-          }
-        }
-      ]
     }
   ]
 }
