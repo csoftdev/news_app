@@ -173,19 +173,19 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Sơn La - Tài xế xe ôm bị giết, xác vứt bên đường",
-      desc: "Nhiều người dân bàng hoàng khi phát hiện người đàn ông chết ở ven đường với nhiều vết thương trên cơ thể nghi bị giết, cướp tài sản.",
-      url: "https://f46s2.app.goo.gl/4eJV",
-      icon: "https://vtcns.goplay.vn/files/ctv.xahoi/2018/09/03/cuop-0902047.jpg",
+      title: "Va vào đuôi xe con, xe tải lao xuống chân cầu nổ như bom",
+      desc: "(PLO)- Chiếc xe tải đâm vào đuôi xe con đi phía trước rồi lộn xuống chân cầu, nổ tung như bom trước khi bốc cháy.",
+      url: "https://f46s2.app.goo.gl/Z5eP",
+      icon: "http://image.plo.vn/w653/Uploaded/2018/dqmbtwvo/2018_09_05/xe-tai-no-tren-cao-toc_kopi_thumb.jpg",
       weight: 1000,
       pkg_name: "com.phapluat.anninh.online",
       action_name: "Tải app để đọc tin"
     },
     {
-      title: "Sàm sỡ vợ người khác, nam thanh niên bị đâm tử vong",
-      desc: "(PLO)- Thấy nam thanh niên có hành vi vỗ vào mông vợ mình trong lúc mời rượu, Tuấn Anh dùng kéo đâm vào ngực khiến nạn nhân tử vong.",
-      url: "https://f46s2.app.goo.gl/veYZ",
-      icon: "http://image.plo.vn/w800/Uploaded/2018/cdhnwyqjw/2018_08_30/bi-dam-tu-vong-vi-vo-mong-vo-nguoi-khac1_gmwe.jpg",
+      title: "https://f46s2.app.goo.gl/RAos",
+      desc: "(PLO)- Một kỹ sư có quốc tịch Ý bất ngờ bị đất đá sạt lở đè tử vong khi đang trên đường đi làm về.",
+      url: "https://f46s2.app.goo.gl/RAos",
+      icon: "http://image.plo.vn/w653/Uploaded/2018/cdhnwyqjw/2018_09_06/ky-su-nuoc-ngoai-bi-da-de-chet_ouac_thumb.jpg",
       weight: 1000,
       pkg_name: "com.phapluat.anninh.online",
       action_name: "Tải app để đọc tin"
