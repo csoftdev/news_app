@@ -11,7 +11,7 @@
           provider_id: "home",
           pid: "h2kso",
           group_id: "home",
-          url: "http://h2ksolution.com/api/get_arc_by_catid?catid=1",
+          url: "http://h2ksolution.com/api/get_arc_by_catid?catid=1&",
           page_var: "page",
           page_type: "normal,1",
           detail_url: "http://h2ksolution.com/api/get_noi_dung_tin_new?arcid={post.id}",
