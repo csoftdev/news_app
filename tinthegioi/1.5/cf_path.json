@@ -223,8 +223,9 @@
       updatedDate: "",
       dateTimeZone: "GMT+7"
     },
+    is_full_html: true,
     related_post_list: "$",
-    post: {
+    related_post: {
       id: "id",
       title: "title",
       desc: "",
