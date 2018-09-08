@@ -207,6 +207,35 @@
       updatedDate: "",
       detail: "content",
       resolve_detail_data:"jRemoveTags_script,jReplaceTag_h2_span,jReplaceTag_h3_span, jReplaceTag_h1_span"
+    },
+    h2kso: {
+    post_list: "$",
+    post: {
+      id: "id",
+      title: "title",
+      desc: "",
+      source: "",
+      thumbSmall: "thumb",
+      thumbMedium: "thumb",
+      thumbBig: "thumb",
+      dateFormat: "yyyy-MM-dd HH:mm:ss",
+      createdDate: "publishedDate",
+      updatedDate: "",
+      dateTimeZone: "GMT+7"
+    },
+    related_post_list: "$",
+    post: {
+      id: "id",
+      title: "title",
+      desc: "",
+      source: "",
+      thumbSmall: "thumb",
+      thumbMedium: "thumb",
+      thumbBig: "thumb",
+      dateFormat: "yyyy-MM-dd HH:mm:ss",
+      createdDate: "publishedDate",
+      updatedDate: "",
+      dateTimeZone: "GMT+7"
     }
   }
 }
