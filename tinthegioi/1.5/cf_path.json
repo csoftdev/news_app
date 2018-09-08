@@ -225,6 +225,7 @@
       dateTimeZone: "GMT+7"
     },
     is_full_html: true,
+    resolve_detail_data: "jRemoveTags_script_head,jReplaceTag_h2_span,jReplaceTag_h3_span, jReplaceTag_h1_span"
     related_post_list: "$",
     related_post: {
       id: "id",
