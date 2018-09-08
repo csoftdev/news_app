@@ -3,19 +3,19 @@
     {
       name: "Tổng hợp",
       type: 0,
-      enabled: false,
+      enabled: true,
       use_char_icon: true,
       res_icon_name: "cat_home",
       provider_cf: [
         {
-          provider_id: "baomoi",
-          pid: "baomoi",
-          group_id: "baomoi",
-          url: "http://104.131.141.52:3000/v1/news/articles/5/2/{pglid}/10?platform=android&app_version=1.2.4",
-          page_var: "lid",
-          page_type: "custom,0",
-          detail_url: "",
-          related_url: "http://104.131.141.52:3000/v1/news/articles_relative/5/2/{post.id}?platform=android&app_version=1.2.4"
+          provider_id: "home",
+          pid: "h2kso",
+          group_id: "home",
+          url: "http://h2ksolution.com/api/get_arc_by_catid?catid=1",
+          page_var: "page",
+          page_type: "normal,1",
+          detail_url: "http://h2ksolution.com/api/get_noi_dung_tin_new?arcid={post.id}",
+          related_url: "http://h2ksolution.com/api/get_related_arc?arcid={post.id}"
         }
       ]
     },
