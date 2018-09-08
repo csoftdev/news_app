@@ -29,14 +29,14 @@
       res_icon_name: "cat_home",
       provider_cf: [
         {
-          provider_id: "baomoi",
-          pid: "baomoi",
-          group_id: "baomoi",
-          url: "http://104.131.141.52:3000/v1/news/articles/5/8/{pglid}/10?platform=android&app_version=1.2.4",
+          provider_id: "5pl_pl",
+          pid: "n24_home",
+          group_id: "phap_luat",
+          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=5&count=30",
           page_var: "lid",
-          page_type: "custom,0",
+          page_type: "custom",
           detail_url: "",
-          related_url: "http://104.131.141.52:3000/v1/news/articles_relative/5/8/{post.id}?platform=android&app_version=1.2.4"
+          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
         }
       ]
     },
@@ -167,24 +167,6 @@
           page_var: "page",
           page_type: "normal,1",
           detail_url: "http://api.chiennn.me/mobile/post/{post.id}?access_key=4297f44b13955235245b2497399d7a93"
-        }
-      ]
-    },
-    {
-      name: "Khác",
-      type: 0,
-      use_char_icon: true,
-      res_icon_name: "",
-      provider_cf: [
-        {
-          provider_id: "5pl_pl",
-          pid: "n24_home",
-          group_id: "phap_luat",
-          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=5&count=30",
-          page_var: "lid",
-          page_type: "custom",
-          detail_url: "",
-          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
         }
       ]
     }
