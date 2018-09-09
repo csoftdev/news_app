@@ -173,10 +173,10 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Va vào đuôi xe con, xe tải lao xuống chân cầu nổ như bom",
-      desc: "(PLO)- Chiếc xe tải đâm vào đuôi xe con đi phía trước rồi lộn xuống chân cầu, nổ tung như bom trước khi bốc cháy.",
-      url: "https://f46s2.app.goo.gl/Z5eP",
-      icon: "http://image.plo.vn/w653/Uploaded/2018/dqmbtwvo/2018_09_05/xe-tai-no-tren-cao-toc_kopi_thumb.jpg",
+      title: "Vợ vắng nhà, chồng cưỡng hiếp cháu vợ",
+      desc: "(PLO)- Cháu vợ đến trông con giúp thì bị Đức nhiều lần đe dọa, cưỡng hiếp.",
+      url: "https://f46s2.app.goo.gl/dsrG",
+      icon: "http://image.plo.vn/w653/Uploaded/2018/qxwpwqdwp/2018_09_09/hiep-chau-vo-kg_vgcu.jpg",
       weight: 1000,
       pkg_name: "com.phapluat.anninh.online",
       action_name: "Tải app để đọc tin"
