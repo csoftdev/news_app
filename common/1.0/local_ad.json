@@ -137,20 +137,20 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Con khóc thét khi thấy cha mẹ tử vong trong ngôi nhà mới thuê",
-      desc: "Thấy Đ. ngồi khóc trước nhà, mọi người đến hỏi thì cháu nói 'ba mẹ chết rồi'. Khi vào nhà kiểm tra, người dân bàng hoàng phát hiện cha mẹ của Đ. đều đã tử vong.",
-      url: "https://f46s2.app.goo.gl/L6va",
-      icon: "https://image.thanhnien.vn/665/uploaded/ngocthanh/2018_09_03/chet_rfwy.jpg",
-      weight: 1500,
+      title: "Những học sinh 'tròn, vuông, tam giác' 30 năm trước, họ nói gì?",
+      desc: "Câu chuyện khiến dư luận xã hội sôi sục nhất những ngày qua có lẽ xoay quanh những hình khối, những câu chữ nhìn rất quen thuộc này.",
+      url: "https://f46s2.app.goo.gl/Hsyn",
+      icon: "https://image.thanhnien.vn/500/uploaded/tienptc/2018_09_11/200051413still0011536674061383748335301_oojq.jpg",
+      weight: 1000,
       pkg_name: "thanhnien.tintuc.android",
       action_name: "Cài đặt"
     },
     {
-      title: "Tai nạn thảm khốc, xe ben tông chết 2 người đi xe máy - Thanh Niên",
-      desc: "Đây là hiện trường vụ tai nạn giao thông khiến 2 người chết xảy ra trên đường 768 đoạn qua UBND xã Bình Hòa, huyện Vĩnh Cửu, tỉnh Đồng Nai vào khoảng 15 giờ 30 phút ngày 31.8.2018.",
-      url: "https://f46s2.app.goo.gl/xJYg",
-      icon: "https://image.thanhnien.vn/500/uploaded/thanhhai/2018_08_31/318tainangiaothongdongnai15357172448896042796067f142_nxqa.jpg",
-      weight: 1500,
+      title: "Năn nỉ vợ quay về sống chung bất thành, đâm chết vợ ở sân tòa",
+      desc: "Trong lúc hòa giải ly hôn, Hùng năn nỉ chị Thuận quay về chung sống nhưng chị vẫn không đồng ý. Hùng rút dao thủ sẵn đoạt mạng vợ ngay tại tòa.",
+      url: "https://f46s2.app.goo.gl/9Rtq",
+      icon: "https://image.thanhnien.vn/665/uploaded/quyentn/tabuonho1_dhuv.jpg",
+      weight: 1000,
       pkg_name: "thanhnien.tintuc.android",
       action_name: "Cài đặt"
     },
