@@ -200,29 +200,19 @@
       action_name: "Tải app để đọc tin"
     },
     {
-      title: "Bán nhà mới, đẹp 2 mặt tiền đường Lưu Quý Kỳ 91m2. 1 trệt 3 lầu 4 phòng ngủ, sân để xe, sân thượng",
-      desc: "Nhà mới đẹp kiên cố sạch đẹp thoáng mát, mỗi phòng có đầy đủ nội thất như một phòng khách sạn, cực kì an ninh. Giá 10 tỷ (có thương lượng cho khách nhiệt tình)",
-      url: "tel://01888046455 ",
-      icon: "https://1.bp.blogspot.com/-L-juuF1Todc/W3bZ-qwoJnI/AAAAAAAAKQI/nkYcIxbC39kgrQQH6g4vdeBwrtIIdJElwCLcBGAs/s400/bannha.JPEG",
-      icon_big: "https://1.bp.blogspot.com/-L-juuF1Todc/W3bZ-qwoJnI/AAAAAAAAKQI/nkYcIxbC39kgrQQH6g4vdeBwrtIIdJElwCLcBGAs/s400/bannha.JPEG",
-      weight: 500,
-      pkg_name: "",
-      action_name: "Gọi để tư vấn ngay"
-    },
-    {
-      title: "Cuba - nơi bao cao su không chỉ để sex",
-      desc: "Người Cuba biến bao cao su thành vật dụng đa chức năng, từ lọc rượu đến vá lốp thủng.",
-      url: "https://f46s2.app.goo.gl/zdY7",
-      icon: "https://i-vnexpress.vnecdn.net/2018/09/06/cuba1-1536199183-7454-1536199413_500x300.jpg",
+      title: "Nỗi ám ảnh của người Mỹ 17 năm sau thảm họa 11/9",
+      desc: "Gia đình các nạn nhân vụ khủng bố vẫn sống trong sợ hãi suốt nhiều năm, đồng thời không muốn sự kiện bị lợi dụng vì mục đích chính trị.",
+      url: "https://f46s2.app.goo.gl/oEr8",
+      icon: "https://i-vnexpress.vnecdn.net/2018/09/11/800-1-jpeg-7514-1536676042.jpg",
       weight: 1000,
       pkg_name: "com.tintuc.thegioi",
       action_name: "Tải App Để Đọc Tin"
     },
     {
-      title: "Máy bay lao xuống sông ở Nam Sudan, 17 người thiệt mạng",
-      desc: "Máy bay gặp nạn khi đang chở theo 22 hành khách và hiện vẫn còn hai người mất tích.",
-      url: "https://f46s2.app.goo.gl/g7nF",
-      icon: "https://i-vnexpress.vnecdn.net/2018/09/09/DmpJTmiWwAEEHVB-4602-1536496430.jpg",
+      title: "Cựu sao phim sex Nhật tiết lộ kiếm gần 170.000 USD một tháng",
+      desc: "Emiri Okazaki gia nhập ngành công nghiệp khiêu dâm năm 21 tuổi sau nhiều năm làm người mẫu không thành công.",
+      url: "https://f46s2.app.goo.gl/W7dZ",
+      icon: "https://i-vnexpress.vnecdn.net/2018/09/10/1-24-e1525876316421-7157-1536551896.jpg",
       weight: 1000,
       pkg_name: "com.tintuc.thegioi",
       action_name: "Cài Đặt"
