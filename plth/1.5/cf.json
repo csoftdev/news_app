@@ -63,6 +63,7 @@
     {
       name: "An Ninh Thủ Đô",
       type: 0,
+      enabled:false,
       use_char_icon: true,
       res_icon_name: "char_A",
       provider_cf: [
@@ -101,6 +102,7 @@
     {
       name: "Công An",
       type: 0,
+      enabled:false,
       use_char_icon: true,
       res_icon_name: "char_C",
       provider_cf: [
