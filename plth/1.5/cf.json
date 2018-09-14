@@ -68,9 +68,9 @@
       res_icon_name: "char_A",
       provider_cf: [
         {
-          provider_id: "baomoi",
+          provider_id: "antd",
           pid: "baomoi",
-          group_id: "baomoi",
+          group_id: "antd",
           url: "http://104.131.141.52:3000/v1/news/articles/79/4/{pglid}/10?platform=android&app_version=1.2.4",
           page_var: "lid",
           page_type: "custom,0",
@@ -86,9 +86,9 @@
       res_icon_name: "char_P",
       provider_cf: [
         {
-          provider_id: "phap_luat",
+          provider_id: "plo",
           pid: "plo_home",
-          group_id: "phap_luat",
+          group_id: "plo",
           url: "http://plo.vn/api/contents.json?zoneid=114&",
           page_var: "page",
           page_type: "normal,1",
@@ -107,9 +107,9 @@
       res_icon_name: "char_C",
       provider_cf: [
         {
-          provider_id: "baomoi",
+          provider_id: "ca",
           pid: "baomoi",
-          group_id: "baomoi",
+          group_id: "ca",
           url: "http://104.131.141.52:3000/v1/news/articles/46/4/{pglid}/10?platform=android&app_version=1.2.4",
           page_var: "lid",
           page_type: "custom,0",
@@ -127,7 +127,7 @@
         {
           provider_id: "vne_pluat",
           pid: "vne_cate_phap_luat",
-          group_id: "phap_luat",
+          group_id: "vne_phap_luat",
           url: "https://api3.vnexpress.net/api/article?type=get_rule_2&select=article_id,article_type,original_cate,site_id,title,lead,share_url,thumbnail_url,privacy,publish_time,list_object_type&cate_id=1001007&limit=10&app_id=c31b32&",
           page_var: "offset",
           page_type: "offset,10",
@@ -145,9 +145,9 @@
       res_icon_name: "char_V",
       provider_cf: [
         {
-          provider_id: "phap_luat",
+          provider_id: "vnn",
           pid: "vnn_home",
-          group_id: "phap_luat",
+          group_id: "vnn",
           url: "http://vietnamnet.vn/jsx/category/?c=phap-luat&",
           page_var: "p",
           page_type: "normal,1",
@@ -162,10 +162,27 @@
       res_icon_name: "",
       provider_cf: [
         {
-          provider_id: "phapluat",
+          provider_id: "dt",
           pid: "dt_home",
-          group_id: "phapluat",
+          group_id: "dt",
           url: "http://api.chiennn.me/mobile/post?access_key=4297f44b13955235245b2497399d7a93&limit=20&&filter=[{\"column\":\"cate_id\",\"operator\":\"matches_any\",\"value\":\"141\"}]",
+          page_var: "page",
+          page_type: "normal,1",
+          detail_url: "http://api.chiennn.me/mobile/post/{post.id}?access_key=4297f44b13955235245b2497399d7a93"
+        }
+      ]
+    },
+    {
+      name: "Zing",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "",
+      provider_cf: [
+        {
+          provider_id: "zing",
+          pid: "zing_home",
+          group_id: "zing",
+          url: "http://api.chiennn.me/mobile/post?access_key=4297f44b13955235245b2497399d7a93&limit=20&&filter=[{\"column\":\"cate_id\",\"operator\":\"matches_any\",\"value\":\"157\"}]",
           page_var: "page",
           page_type: "normal,1",
           detail_url: "http://api.chiennn.me/mobile/post/{post.id}?access_key=4297f44b13955235245b2497399d7a93"
