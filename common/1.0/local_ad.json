@@ -200,10 +200,10 @@
       action_name: "Tải app để đọc tin"
     },
     {
-      title: "Nỗi ám ảnh của người Mỹ 17 năm sau thảm họa 11/9",
-      desc: "Gia đình các nạn nhân vụ khủng bố vẫn sống trong sợ hãi suốt nhiều năm, đồng thời không muốn sự kiện bị lợi dụng vì mục đích chính trị.",
-      url: "https://f46s2.app.goo.gl/oEr8",
-      icon: "https://i-vnexpress.vnecdn.net/2018/09/11/800-1-jpeg-7514-1536676042.jpg",
+      title: "5 người thiệt mạng vì bão Florence ở Mỹ",
+      desc: "Cơn bão đổ bộ vào Bắc Carolina gây ngập lụt, đổ cây, giao thông khó khăn, dẫn đến cái chết của 5 người.",
+      url: "https://f46s2.app.goo.gl/QnYt",
+      icon: "https://i-vnexpress.vnecdn.net/2018/09/15/063-1033303776-2103-1536986678.jpg",
       weight: 1000,
       pkg_name: "com.tintuc.thegioi",
       action_name: "Tải App Để Đọc Tin"
