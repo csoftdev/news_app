@@ -191,10 +191,10 @@
       action_name: "Tải app để đọc tin"
     },
     {
-      title: "Đội bóng Mỹ chơi ngông, đem trực thăng rải 100 triệu đồng cho khán giả",
-      desc: "Một đội bóng Mỹ mới đây đã khiến người hâm mộ bất ngờ khi cho một chiếc trực thăng đến rải tiền xuống sân vận động để khích lệ tinh thần cổ vũ.",
-      url: "https://f46s2.app.goo.gl/AaZf",
-      icon: "http://streaming1.danviet.vn/upload/3-2018/images/2018-09-11/doi-bong-My-dung-truc-thang-rai-100-trieu-dong-tang-co-dong-vien-rai-tien-1536637776-width634height594.jpg",
+      title: "Tai nạn thảm khốc: 12 người chết, 3 người trọng thương",
+      desc: "Vụ tai nạn thảm khốc giữa xe bồn và xe khách 16 chỗ xảy ra tại thị trấn Tam đường, huyện Tam Đường (Lai Châu)  khiến 11 người đã chết, 4 người bị thương.",
+      url: "https://f46s2.app.goo.gl/5zaZ",
+      icon: "http://image.plo.vn/w653/Uploaded/2018/huoabhu/2018_09_15/sua1_broq.jpg",
       weight: 1000,
       pkg_name: "tintuc.bdt.online",
       action_name: "Tải app để đọc tin"
