@@ -19,139 +19,12 @@
       action_name: "Cài Đặt Ngay"
     },
     {
-      title: "Phiên bản Báo Pháp Luật hiện tại không còn hỗ trợ. Hãy cập nhật phiên bản mới",
-      desc: "Ứng dụng Đọc tin tức Báo Pháp Luật Tp.Hồ Chí Minh, chuyên cung cấp các thông tin nóng nhất, mới nhất về các vấn đề thời sự - xã hội Pháp Luật, các vấn đề liên quan đến An ninh trật tự ở Việt Nam, thông tin tư pháp, pháp đình, các bộ luật hình sự, dân sự, video clip hình sự antv,...",
-      url: "https://f46s2.app.goo.gl/RSYa",
-      icon: "https://2.bp.blogspot.com/-0YkGNu9KLn8/Wzjn4ORmR-I/AAAAAAAAJ9w/SMbn4QjK2qk27KlbcYcAjgM6ZuWuFsL8gCLcBGAs/s320/logo_final.jpg",
-      weight: 1000,
-      pkg_name: "bao.phapluat.android",
-      action_name: "Cập nhật ngay"
-    },
-    {
-      title: "Phiên bản VnExpress hiện tại không còn hỗ trợ. Hãy cập nhật phiên bản mới",
-      desc: "Ứng dụng Đọc báo VnExpress - báo tiếng Việt nhiều người xem nhất, cập nhật liên tục về các sự kiện diễn ra trong ngày, mang đến bạn đọc nhiều thông tin thú vị và thiết thực trong cuộc sống.",
-      url: "https://f46s2.app.goo.gl/ZQzA",
-      icon: "https://1.bp.blogspot.com/-MgWcmeiib-4/Wzjn4DuKWVI/AAAAAAAAJ90/nGJ3_FvTeJ8Rj64UKZwQXyBG9aLUN-xTgCLcBGAs/s320/logo_vne_1.jpg",
-      icon_big: "https://3.bp.blogspot.com/-fvDsMvRJQ_o/WqTuP9dSdsI/AAAAAAAAJHQ/C2ZJIWmbtLAlG5BgPgJyxrNsrYueKd7twCLcBGAs/s400/4A020E5100000578-5477849-image-3506-5927-1520690193.jpg",
-      weight: 1000,
-      pkg_name: "tinnhanh.vnexpress.mobile",
-      action_name: "Cài đặt"
-    },
-    {
-      title: "Tử vi hôm nay. Gieo Quẻ đoán Vận Mệnh & Tài Lộc",
-      desc: "Tiên đoán vận mệnh, tài lộc và gia đạo hằng ngày với thuật bói bài Tây 3 lá",
-      url: "https://f46s2.app.goo.gl/4Htp",
-      icon: "https://3.bp.blogspot.com/-SBz2UxtgzEQ/WycU4XfrY-I/AAAAAAAAJvU/089NEwDvkC4VDUKU_rZ83SjFj0dbvJT4QCLcBGAs/s320/ic_launcher-web.png",
-      icon_big: "https://3.bp.blogspot.com/-WXUuDbAO_EI/WycU6m9DblI/AAAAAAAAJvY/m7bDC0aSoUcyRglFHl8tn4LlLRede5R1wCLcBGAs/s400/img_feature.jpg",
-      weight: 250,
-      pkg_name: "com.timm.app.boibaitay",
-      action_name: "Gieo Quẻ Ngay"
-    },
-    {
-      title: "Tin tức Ngoại Hạng Anh tổng hợp",
-      desc: "Tin Ngoại Hạng Anh mang đến trải nghiệm đọc tin Ngoại Hạng hoàn toàn mới. Nguồn tin đa dạng từ nhiều...",
-      url: "https://f46s2.app.goo.gl/mVFa",
-      icon: "https://4.bp.blogspot.com/-6RpLmV8LP3I/WsEMU4zq4uI/AAAAAAAAJME/SzDNggBEmLs6NUuNAidhu4xlTBDeLmlHQCLcBGAs/s320/logo_not_clipped.jpg",
-      icon_big: "https://1.bp.blogspot.com/-Qma3bepaljA/WsENfgaCLPI/AAAAAAAAJMM/d5EfaIdKnfURy7sJ7zi7XmRteqdvyLt1gCLcBGAs/s400/Screenshot_20180401-234730.png",
-      weight: 150,
-      pkg_name: "bao.ngoaihanganh.android",
-      action_name: "Cài đặt"
-    },
-    {
-      title: "Dùng thử báo Thanh Niên phiên bản mới",
-      desc: "Tin tức thời sự nhanh 24h, tin nóng Việt Nam, pháp luật, xã hội, đời sống, chính trị, kinh doanh, kinh tế, công nghệ thông tin, game, giới trẻ, văn hóa, giáo dục, thể thao...",
-      url: "https://f46s2.app.goo.gl/PeSx",
-      icon: "https://4.bp.blogspot.com/-xokL4QaSqN0/WsMwO3wvnUI/AAAAAAAAJNM/fsxMkR0NM1osl5kP4QLPfDKF5djPuywSgCLcBGAs/s320/logo-fill.jpg",
-      icon_big: "https://3.bp.blogspot.com/-vMU5a6RQ7y8/WsMunBoVUVI/AAAAAAAAJNA/29qnjIdtbNE1hxahS5QlOCaXQv9KGwjhgCLcBGAs/s400/thanhnien_big.jpg",
-      weight: 500,
-      pkg_name: "thanhnien.tintuc.android",
-      action_name: "Cài đặt"
-    },
-    {
-      title: "Đọc báo VietNamNet, tin tức trong ngày",
-      desc: "Tin tức trong ngày được báo VietNamNet cập nhật nhanh nhất, mới nhất. Đọc báo tin tức online về thời sự, pháp luật, kinh doanh, giải trí,…hay nhất 24h qua",
-      url: "https://f46s2.app.goo.gl/adcj",
-      icon: "https://3.bp.blogspot.com/-ICWjv8od7kQ/WtMsJi_8qwI/AAAAAAAAJRc/nPT_5bhBwh8UdWi_Lx8zdzXi11_lJPvbwCLcBGAs/s320/logo_fill.jpg",
-      icon_big: "https://2.bp.blogspot.com/-lIP2lTL7ok0/WtMs3-nklQI/AAAAAAAAJRk/W-t2OXo6sWEaIVU2jQ3760cp0AnpZXAXACLcBGAs/s400/img_feature.jpg",
-      weight: 1050,
-      pkg_name: "bao.vietnamnet.android",
-      action_name: "Cài đặt"
-    },
-    {
-      title: "Tổng hợp các dự án nhà đất hấp dẫn - Tin Bất Động Sản",
-      desc: "Xem nhanh tin tức về bất động sản, các dự án động sản hấp dẫn, thông tin nhà đất, tài chính chứng khoán. Ngoài ra, còn có các bài viết về phong thủy trong kinh doanh bất động sản",
-      url: "https://f46s2.app.goo.gl/P9dn",
-      icon: "https://4.bp.blogspot.com/-GNy3OhAzOW0/WunaDrAqlsI/AAAAAAAAJaU/f6ftYzqbhE04KgpZo0pn4X6odCFd8CzigCLcBGAs/s320/logo_fill.jpg",
-      icon_big: "https://3.bp.blogspot.com/-60V9oMFJtSA/WunZA9Og6wI/AAAAAAAAJaM/2bEH28UJhGsUSHcBEVE-MQPlUTBaeob5gCLcBGAs/s400/img_feature.jpg",
-      weight: 150,
-      pkg_name: "batdongsan.tintuc.android",
-      action_name: "Cài đặt"
-    },
-    {
-      title: "Giải đáp các bí ẩn thú vị trong cuộc sống cùng Tin Tức Khoa Học",
-      desc: "Đọc tin tức khoa học, chuyện lạ bốn phương, cậu chuyện bí ẩn, tâm linh,... thật dễ dàng trên điện thoại Android với ứng dụng mới.",
-      url: "https://f46s2.app.goo.gl/v9fK",
-      icon: "https://3.bp.blogspot.com/-SkvwQph1oZ0/WvKqB1ydqqI/AAAAAAAAJdQ/qJrlOmoSYN0-FNg5w1Vmmxk0K-TqPpK4ACLcBGAs/s320/logo_fill.jpg",
-      icon_big: "https://3.bp.blogspot.com/-POdF6JWfHCE/WvKsShYxoXI/AAAAAAAAJdc/7b0wcpig3Sc6vgVUOnjbhFQkzpa67GOoACLcBGAs/s400/img_feature.jpg",
-      weight: 150,
-      pkg_name: "khoahoc.tintuc.android",
-      action_name: "Cài đặt"
-    },
-    {
-      title: "Báo Dân Trí - Diễn Đàn Dân Trí Việt Nam",
-      desc: "Tin tức, sự kiện Việt Nam và quốc tế nhanh, chính xác và cập nhật mới online 24h/7",
-      url: "https://f46s2.app.goo.gl/hHGf",
-      icon: "https://3.bp.blogspot.com/-mUafgYeuSf8/WwRdeQm5jMI/AAAAAAAAJk8/ASIAPHlKiZg1y4WD0OYec-U4cQwgqqlGwCLcBGAs/s320/logo_dantri_fill.jpg",
-      icon_big: "https://4.bp.blogspot.com/-NOrVSwQdJhw/WwRdi8HyFlI/AAAAAAAAJlA/tMG_sRRjiiIzrgnB8gqJ1yEVCKcCIlPxwCLcBGAs/s400/img_feature.png",
-      weight: 250,
-      pkg_name: "dantri.baomoi.android",
-      action_name: "Cài đặt"
-    },
-    {
-      title: "Tải ngay phiên bản VnExpress Tiếng Anh (VnExpress International)",
-      desc: "Đọc báo VnExpress thú vị hơn với phiên bản quốc tế mới",
-      url: "https://f46s2.app.goo.gl/eiHk",
-      icon: "https://4.bp.blogspot.com/-WqhRdmceLbo/WwbgkhbwHJI/AAAAAAAAJmE/zB-RIGG-ofQ7lcJJ63PYX5YNslxOTLIlQCLcBGAs/s320/logo_vne_en_fill.jpg",
-      icon_big: "https://3.bp.blogspot.com/-hko8nrjO4W4/Wwbgibh8tqI/AAAAAAAAJmA/zim9zyUYvrEgpsNrtNBcBXbIv6du894qgCLcBGAs/s400/img_feature_en.jpg",
-      weight: 250,
-      pkg_name: "tintuc.vnexpress.english",
-      action_name: "Cài đặt"
-    },
-    {
-      title: "Đọc báo Zing News - Tin tức đời sống, xã hội 24h",
-      desc: "Cập nhật tin tức mới và nóng nhất về Đời sống - Xã hội, Kinh tế, Thế giới, Thể thao, Giải trí, Công nghệ và nhiều lĩnh vực khác…",
-      url: "https://f46s2.app.goo.gl/E9Hs",
-      icon: "https://1.bp.blogspot.com/-1cbtcK3uIqE/Wwu4VahNuGI/AAAAAAAAJmg/ViYOETRGKTQ8BtSR80Y_p3IlXUtyZDQhwCLcBGAs/s320/zlogo_fill.jpg",
-      icon_big: "https://1.bp.blogspot.com/-tS9gxJlAwcI/Wwu4WoTV9II/AAAAAAAAJmk/LhWjrh7mEZgD0aZ-S-cYHCJh4PIua3YrACLcBGAs/s400/img_feature.jpg",
-      weight: 250,
-      pkg_name: "tintuc.zingnews.android",
-      action_name: "Cài đặt"
-    },
-    {
       title: "Bóng Đá 24H - Tin Tức Thể Thao, Video Bàn Thắng Chọn Lọc",
       desc: "Bóng Đá 24H cung cấp thông tin bóng đá, thể thao cũng như tổng hợp video clip chất lượng cao, được thiết kế để tối ưu trải nghiệm trên điện thoại của bạn",
       url: "https://f46s2.app.goo.gl/HJ9K",
       icon: "https://3.bp.blogspot.com/-L61A95bgBCw/W03sRieNlJI/AAAAAAAAKC4/kZ5gDnyfZsoouRnDV4P7SPiFFXbPCNQNgCLcBGAs/s320/logo_f.jpg",
       weight: 1500,
       pkg_name: "app.bongda.thethao.online",
-      action_name: "Cài đặt"
-    },
-    {
-      title: "Những học sinh 'tròn, vuông, tam giác' 30 năm trước, họ nói gì?",
-      desc: "Câu chuyện khiến dư luận xã hội sôi sục nhất những ngày qua có lẽ xoay quanh những hình khối, những câu chữ nhìn rất quen thuộc này.",
-      url: "https://f46s2.app.goo.gl/Hsyn",
-      icon: "https://image.thanhnien.vn/500/uploaded/tienptc/2018_09_11/200051413still0011536674061383748335301_oojq.jpg",
-      weight: 1000,
-      pkg_name: "thanhnien.tintuc.android",
-      action_name: "Cài đặt"
-    },
-    {
-      title: "Nam thanh niên tử vong trong tư thế treo cổ ở nhà nghỉ",
-      desc: "Đến 19 giờ ngày 14.9, cơ quan Pháp y tỉnh Lâm Đồng và Công an H.Di Linh (Lâm Đồng) vẫn đang tiến hành khám nghiệm hiện trường...",
-      url: "https://f46s2.app.goo.gl/ibwv",
-      icon: "https://image.thanhnien.vn/665/uploaded/congthang/2018_09_14/nguoidanhieukytheodoivuviec_ccpy.jpg",
-      weight: 1000,
-      pkg_name: "thanhnien.tintuc.android",
       action_name: "Cài đặt"
     },
     {
@@ -188,15 +61,6 @@
       icon: "https://i-vnexpress.vnecdn.net/2018/09/06/TuOng-8468-1536233497.jpg",
       weight: 1000,
       pkg_name: "com.phapluat.anninh.online",
-      action_name: "Tải app để đọc tin"
-    },
-    {
-      title: "Tai nạn thảm khốc: 12 người chết, 3 người trọng thương",
-      desc: "Vụ tai nạn thảm khốc giữa xe bồn và xe khách 16 chỗ xảy ra tại thị trấn Tam đường, huyện Tam Đường (Lai Châu)  khiến 11 người đã chết, 4 người bị thương.",
-      url: "https://f46s2.app.goo.gl/5zaZ",
-      icon: "http://image.plo.vn/w653/Uploaded/2018/huoabhu/2018_09_15/sua1_broq.jpg",
-      weight: 1000,
-      pkg_name: "tintuc.bdt.online",
       action_name: "Tải app để đọc tin"
     },
     {
