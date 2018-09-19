@@ -17,6 +17,69 @@
       weight: 200,
       pkg_name: "com.andatsoft.app.silax",
       action_name: "Cài Đặt Ngay"
+    },
+    {
+      title: "Bóng Đá 24H - Tin Tức Thể Thao, Video Bàn Thắng Chọn Lọc",
+      desc: "Bóng Đá 24H cung cấp thông tin bóng đá, thể thao cũng như tổng hợp video clip chất lượng cao, được thiết kế để tối ưu trải nghiệm trên điện thoại của bạn",
+      url: "https://f46s2.app.goo.gl/HJ9K",
+      icon: "https://3.bp.blogspot.com/-L61A95bgBCw/W03sRieNlJI/AAAAAAAAKC4/kZ5gDnyfZsoouRnDV4P7SPiFFXbPCNQNgCLcBGAs/s320/logo_f.jpg",
+      weight: 1500,
+      pkg_name: "app.bongda.thethao.online",
+      action_name: "Cài đặt"
+    },
+    {
+      title: "Tin tức, bản tin thời sự 19H",
+      desc: "Tin 19H cung cấp nội dung đa dạng, nhiều chủ đề với gần 20 chuyên mục bao gồm Giải trí, Xã hội, Pháp luật, An ninh,...",
+      url: "https://f46s2.app.goo.gl/9ywm",
+      icon: "https://4.bp.blogspot.com/-zbX4zr7F6R8/W03tIrhfCcI/AAAAAAAAKDA/pqOpdrJv7ZMS-DgOY0ivXDpV6KdQEZD5gCLcBGAs/s320/logo_f.jpg",
+      weight: 700,
+      pkg_name: "fb.baomoi.tin19h",
+      action_name: "Cài đặt"
+    },
+    {
+      title: "Tin An ninh & Hình Sự, Pháp Luật Tổng Hợp - An Ninh 24H",
+      desc: "Video clip An ninh được tổng hợp từ nhiều nguồn. Tin tức Pháp Luật & Đời Sống",
+      url: "https://f46s2.app.goo.gl/AN5w",
+      icon: "https://2.bp.blogspot.com/-02CeY6342M8/W1Xj4J0_6iI/AAAAAAAAKFw/39wawSGklBYncPjz94sM8l_SifIIlTfEQCLcBGAs/s320/logo_f.jpg",
+      weight: 1000,
+      pkg_name: "com.phapluat.anninh.online",
+      action_name: "Cài đặt"
+    },
+    {
+      title: "Vợ vắng nhà, chồng cưỡng hiếp cháu vợ",
+      desc: "(PLO)- Cháu vợ đến trông con giúp thì bị Đức nhiều lần đe dọa, cưỡng hiếp.",
+      url: "https://f46s2.app.goo.gl/dsrG",
+      icon: "http://image.plo.vn/w653/Uploaded/2018/qxwpwqdwp/2018_09_09/hiep-chau-vo-kg_vgcu.jpg",
+      weight: 1000,
+      pkg_name: "com.phapluat.anninh.online",
+      action_name: "Tải app để đọc tin"
+    },
+    {
+      title: "Chân dung nghi phạm dẫn mối á hậu bán dâm nghìn USD ở Sài Gòn",
+      desc: "Từ khi là sinh viên, Dũ đã tham gia các diễn đàn 'gái gọi', manh nha kiếm tiền bằng việc môi giới cho người đẹp bán dâm.",
+      url: "https://f46s2.app.goo.gl/rTbY",
+      icon: "https://i-vnexpress.vnecdn.net/2018/09/06/TuOng-8468-1536233497.jpg",
+      weight: 1000,
+      pkg_name: "com.phapluat.anninh.online",
+      action_name: "Tải app để đọc tin"
+    },
+    {
+      title: "5 người thiệt mạng vì bão Florence ở Mỹ",
+      desc: "Cơn bão đổ bộ vào Bắc Carolina gây ngập lụt, đổ cây, giao thông khó khăn, dẫn đến cái chết của 5 người.",
+      url: "https://f46s2.app.goo.gl/QnYt",
+      icon: "https://i-vnexpress.vnecdn.net/2018/09/15/063-1033303776-2103-1536986678.jpg",
+      weight: 1000,
+      pkg_name: "com.tintuc.thegioi",
+      action_name: "Tải App Để Đọc Tin"
+    },
+    {
+      title: "Cựu sao phim sex Nhật tiết lộ kiếm gần 170.000 USD một tháng",
+      desc: "Emiri Okazaki gia nhập ngành công nghiệp khiêu dâm năm 21 tuổi sau nhiều năm làm người mẫu không thành công.",
+      url: "https://f46s2.app.goo.gl/W7dZ",
+      icon: "https://i-vnexpress.vnecdn.net/2018/09/10/1-24-e1525876316421-7157-1536551896.jpg",
+      weight: 1000,
+      pkg_name: "com.tintuc.thegioi",
+      action_name: "Cài Đặt"
     }
   ]
 }
