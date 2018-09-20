@@ -23,7 +23,7 @@
       desc: "Bóng Đá 24H cung cấp thông tin bóng đá, thể thao cũng như tổng hợp video clip chất lượng cao, được thiết kế để tối ưu trải nghiệm trên điện thoại của bạn",
       url: "https://f46s2.app.goo.gl/HJ9K",
       icon: "https://3.bp.blogspot.com/-L61A95bgBCw/W03sRieNlJI/AAAAAAAAKC4/kZ5gDnyfZsoouRnDV4P7SPiFFXbPCNQNgCLcBGAs/s320/logo_f.jpg",
-      weight: 1500,
+      weight: 1000,
       pkg_name: "app.bongda.thethao.online",
       action_name: "Cài đặt"
     },
@@ -41,7 +41,7 @@
       desc: "Tin 19H cung cấp nội dung đa dạng, nhiều chủ đề với gần 20 chuyên mục bao gồm Giải trí, Xã hội, Pháp luật, An ninh,...",
       url: "https://f46s2.app.goo.gl/9ywm",
       icon: "https://4.bp.blogspot.com/-zbX4zr7F6R8/W03tIrhfCcI/AAAAAAAAKDA/pqOpdrJv7ZMS-DgOY0ivXDpV6KdQEZD5gCLcBGAs/s320/logo_f.jpg",
-      weight: 700,
+      weight: 1000,
       pkg_name: "fb.baomoi.tin19h",
       action_name: "Cài đặt"
     },
@@ -64,10 +64,10 @@
       action_name: "Tải app để đọc tin"
     },
     {
-      title: "Chân dung nghi phạm dẫn mối á hậu bán dâm nghìn USD ở Sài Gòn",
-      desc: "Từ khi là sinh viên, Dũ đã tham gia các diễn đàn 'gái gọi', manh nha kiếm tiền bằng việc môi giới cho người đẹp bán dâm.",
-      url: "https://f46s2.app.goo.gl/rTbY",
-      icon: "https://i-vnexpress.vnecdn.net/2018/09/06/TuOng-8468-1536233497.jpg",
+      title: "Thi thể nam công nhân bốc mùi trong phòng trọ",
+      desc: "Người thân đến tìm nam công nhân để thuê đi làm nhưng gọi mãi không được, khi đẩy cửa vào trong thì phát hiện thi thể nạn nhân đã bốc mùi nồng nặc.",
+      url: "https://f46s2.app.goo.gl/8Uwr",
+      icon: "http://image.plo.vn/w653/Uploaded/2018/ohpoplb/2018_09_20/thi-the-cong-nhan-trong-phong-tro_qlvt.jpg",
       weight: 1000,
       pkg_name: "com.phapluat.anninh.online",
       action_name: "Tải app để đọc tin"
