@@ -28,6 +28,15 @@
       action_name: "Cài đặt"
     },
     {
+      title: "Tử vi dành cho bạn. Gieo quẻ để tiên đoán Vận Mệnh, Tài Lộc & Gia Đạo",
+      desc: "Ứng dụng bói bài tây này sẽ hé lộ, dự đoán những điều xảy ra với bạn hằng ngày",
+      url: "https://f46s2.app.goo.gl/SKjK",
+      icon: "https://1.bp.blogspot.com/-Zoo5JGel5mM/W6OEMO1HUMI/AAAAAAAAKqc/zK_28J8gP98IR_e5QimGN3m1U2yHGdqxgCLcBGAs/s320/logo.png",
+      weight: 1000,
+      pkg_name: "xemboi.tuvi.phongthuy",
+      action_name: "Cài đặt"
+    },
+    {
       title: "Tin tức, bản tin thời sự 19H",
       desc: "Tin 19H cung cấp nội dung đa dạng, nhiều chủ đề với gần 20 chuyên mục bao gồm Giải trí, Xã hội, Pháp luật, An ninh,...",
       url: "https://f46s2.app.goo.gl/9ywm",
