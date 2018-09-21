@@ -24,7 +24,7 @@
     },
     {
       name: "Trang chủ",
-      type: 200,
+      type: 2000,
       use_char_icon: true,
 	  res_icon_name: "cat_home",
       provider_cf: [
