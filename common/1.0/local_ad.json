@@ -28,7 +28,7 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Tử vi dành cho bạn. Gieo quẻ để tiên đoán Vận Mệnh, Tài Lộc & Gia Đạo",
+      title: "Tử vi hôm nay. Gieo quẻ để tiên đoán Vận Mệnh, Tài Lộc & Gia Đạo",
       desc: "Ứng dụng bói bài tây này sẽ hé lộ, dự đoán những điều xảy ra với bạn hằng ngày",
       url: "https://f46s2.app.goo.gl/SKjK",
       icon: "https://1.bp.blogspot.com/-Zoo5JGel5mM/W6OEMO1HUMI/AAAAAAAAKqc/zK_28J8gP98IR_e5QimGN3m1U2yHGdqxgCLcBGAs/s320/logo.png",
@@ -97,6 +97,15 @@
       icon: "https://i-vnexpress.vnecdn.net/2018/09/22/103532935-capas32235ture-4575-1537582548.png",
       weight: 1000,
       pkg_name: "com.tintuc.thegioi",
+      action_name: "Cài Đặt"
+    },
+    {
+      title: "8 đồ dùng quen thuộc trong nhà bạn có thể gây ung thư",
+      desc: "Rèm cửa, tủ lạnh, những chiếc bàn đá đẹp, quần áo của bạn cũng có thể che giấu những chất gây ung thư.",
+      url: "https://f46s2.app.goo.gl/u7mT",
+      icon: "https://i-suckhoe.vnecdn.net/2018/09/21/ghetua-3026-1537521574.jpg",
+      weight: 1000,
+      pkg_name: "baodientu.tintuc.android",
       action_name: "Cài Đặt"
     }
   ]
