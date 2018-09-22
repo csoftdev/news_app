@@ -46,6 +46,15 @@
       action_name: "Cài đặt"
     },
     {
+      title: "Phát hiện phần thi thể người ở dãy nhà trọ ông Hiệp 'Khùng'",
+      desc: "Sau khi xảy ra vụ cháy 4 ngày, cơ quan chức năng phát hiện 2 thi thể tại hiện trường.",
+      url: "https://f46s2.app.goo.gl/mBFv",
+      icon: "https://znews-photo-td.zadn.vn/w660/Uploaded/yfsgs/2018_09_21/xuong_1.jpg",
+      weight: 1000,
+      pkg_name: "fb.baomoi.tin19h",
+      action_name: "Cài đặt"
+    },
+    {
       title: "Tin An ninh & Hình Sự, Pháp Luật Tổng Hợp - An Ninh 24H",
       desc: "Video clip An ninh được tổng hợp từ nhiều nguồn. Tin tức Pháp Luật & Đời Sống",
       url: "https://f46s2.app.goo.gl/AN5w",
@@ -73,19 +82,19 @@
       action_name: "Tải app để đọc tin"
     },
     {
-      title: "Người đàn ông Thái Lan ngồi cạnh xác chết suốt một tiếng mà không biết",
-      desc: "Người đàn ông Thái Lan bàng hoàng phát hiện mình đang ngồi cạnh một thi thể tại bến xe buýt khi trời sáng lên.",
-      url: "https://f46s2.app.goo.gl/t5pN",
-      icon: "https://i-vnexpress.vnecdn.net/2018/09/20/cmm-2a9e5189db24b76fb8c639216b-1470-5771-1537433924.jpg",
+      title: "Mua xe giá rẻ coi chừng mang họa",
+      desc: "Cẩn thận khi mua xe không giấy tờ giá rẻ vì coi chừng xe do trộm cắp, cướp được.",
+      url: "https://f46s2.app.goo.gl/Dfvj",
+      icon: "http://image.plo.vn/w653/Uploaded/2018/cqjwqcdwp/2018_09_20/1-xe-gian_jtkv.jpg",
       weight: 1000,
-      pkg_name: "com.tintuc.thegioi",
+      pkg_name: "fb.baomoi.tin19h",
       action_name: "Tải App Để Đọc Tin"
     },
     {
-      title: "Bác sĩ người Mỹ và bạn gái bị cáo buộc cưỡng hiếp hàng trăm phụ nữ",
-      desc: "Giới chức California nghi ngờ số nạn nhân có thể lên tới hàng trăm người.",
-      url: "https://f46s2.app.goo.gl/f5jT",
-      icon: "https://i-vnexpress.vnecdn.net/2018/09/20/180918223116-grant-robicheaux-2983-6612-1537430188.jpg",
+      title: "Ba bé sơ sinh bị đâm ở vườn trẻ Mỹ",
+      desc: "Một nghi phạm bị cảnh sát Mỹ bắt giữ sau khi 5 người, trong đó có ba bé sơ sinh, bị đâm tại một vườn trẻ ở New York. ",
+      url: "https://f46s2.app.goo.gl/nKwP",
+      icon: "https://i-vnexpress.vnecdn.net/2018/09/22/103532935-capas32235ture-4575-1537582548.png",
       weight: 1000,
       pkg_name: "com.tintuc.thegioi",
       action_name: "Cài Đặt"
