@@ -116,6 +116,15 @@
       weight: 1000,
       pkg_name: "baodientu.tintuc.android",
       action_name: "Cài Đặt"
+    },
+    {
+      title: "Thầy cúng ngã xuống sông chết trong lúc cúng siêu thoát cho cháu bé đuối nước",
+      desc: "Trong lúc cúng siêu thoát cho 1 cháu bé đuối nước, thầy cúng trượt chân ngã xuống sông và mất tích",
+      url: "https://f46s2.app.goo.gl/7BFV",
+      icon: "https://image.thanhnien.vn/665/uploaded/lequan/2018_09_23/tt_pnxg.jpg",
+      weight: 1000,
+      pkg_name: "com.docbao.tn.mobile",
+      action_name: "Cài Đặt"
     }
   ]
 }
