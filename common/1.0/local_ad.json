@@ -107,6 +107,15 @@
       weight: 1000,
       pkg_name: "baodientu.tintuc.android",
       action_name: "Cài Đặt"
+    },
+    {
+      title: "Kinh ngạc Video 18 người nhồi nhét trên chiếc xe 5 chỗ",
+      desc: "Theo Indiatimes, một chiếc xe khi đi qua biên giới giữa Haiti và Cộng hòa Dominica đã bị chặn lại vì chở quá tải",
+      url: "https://f46s2.app.goo.gl/srEX",
+      icon: "https://i-sohoa.vnecdn.net/2018/09/22/18ng-1537618900-9088-1537619004_500x300.gif",
+      weight: 1000,
+      pkg_name: "baodientu.tintuc.android",
+      action_name: "Cài Đặt"
     }
   ]
 }
