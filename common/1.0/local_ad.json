@@ -125,6 +125,15 @@
       weight: 1000,
       pkg_name: "com.docbao.tn.mobile",
       action_name: "Cài Đặt"
+    },
+    {
+      title: "Siêu bão cuốn rắn độc “bay tứ tung” ở Mỹ",
+      desc: "Những con rắn lục miệng bông nguy hiểm chết người vừa được phát hiện trong vùng nước ngập ở bang Bắc Carolina nước Mỹ sau khi siêu bão Florence ",
+      url: "https://f46s2.app.goo.gl/phAb",
+      icon: "http://img.khoahoc.tv/photos/image/2018/09/20/ran-luc-mieng-bong.jpg",
+      weight: 1000,
+      pkg_name: "tintuc.khoahoc.doisong",
+      action_name: "Cài Đặt"
     }
   ]
 }
