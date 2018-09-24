@@ -7,7 +7,7 @@
       res_icon_name: "cat_home",
       provider_cf: [
         {
-          provider_id: "kh_home",
+          provider_id: "home",
           pid: "plo_home",
           group_id: "home",
           url: "http://api.chiennn.me/mobile/post?access_key=4297f44b13955235245b2497399d7a93&limit=20&filter=[{\"column\":\"cate_id\",\"operator\":\"matches_any\",\"value\":\"48\"}]",
