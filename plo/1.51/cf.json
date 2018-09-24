@@ -8,7 +8,7 @@
       provider_cf: [
         {
           provider_id: "kh_home",
-          pid: "kh_home",
+          pid: "plo_home",
           group_id: "home",
           url: "http://api.chiennn.me/mobile/post?access_key=4297f44b13955235245b2497399d7a93&limit=20&filter=[{\"column\":\"cate_id\",\"operator\":\"matches_any\",\"value\":\"48\"}]",
           page_var: "page",
@@ -25,7 +25,7 @@
       provider_cf: [
         {
           provider_id: "phapluat",
-          pid: "pl_home",
+          pid: "plo_home",
           group_id: "phapluat",
           url: "http://api.chiennn.me/mobile/post?access_key=4297f44b13955235245b2497399d7a93&limit=20&&filter=[{\"column\":\"cate_id\",\"operator\":\"matches_any\",\"value\":\"157\"}]",
           page_var: "page",
@@ -42,7 +42,7 @@
       provider_cf: [
         {
           provider_id: "anninh",
-          pid: "pl_home",
+          pid: "plo_home",
           group_id: "anninh",
           url: "http://api.chiennn.me/mobile/post?access_key=4297f44b13955235245b2497399d7a93&limit=20&&filter=[{\"column\":\"cate_id\",\"operator\":\"matches_any\",\"value\":\"141\"}]",
           page_var: "page",
