@@ -134,6 +134,15 @@
       weight: 1000,
       pkg_name: "tintuc.khoahoc.doisong",
       action_name: "Cài Đặt"
+    },
+    {
+      title: "Thông tin bất động sản, phân tích thị trường cuối năm 2018",
+      desc: "Tải ngay ứng dụng Đọc tin Bất Động Sản tổng hợp, các bài viết về bất động sản từ chuyên gia trong ngành",
+      url: "https://f46s2.app.goo.gl/q3kb",
+      icon: "https://4.bp.blogspot.com/-GNy3OhAzOW0/WunaDrAqlsI/AAAAAAAAJaU/f6ftYzqbhE04KgpZo0pn4X6odCFd8CzigCLcBGAs/s320/logo_fill.jpg",
+      weight: 1000,
+      pkg_name: "tintuc.kinhdoanh.bds",
+      action_name: "Cài Đặt"
     }
   ]
 }
