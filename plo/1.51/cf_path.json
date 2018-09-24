@@ -1,34 +1,18 @@
 {
   plo_home: {
-    post_list: "$.feeds",
+    post_list: "$.data.rows",
     post: {
-      id: "posid",
-      title: "title",
+      id: "post_id",
+      title: "post_title",
       desc: "description",
-      source: "url",
-	  thumbSmall: "image",
-	  thumbMedium: "image",
-	  thumbBig: "image",
-	  dateFormat: "MM/dd/yyyy hh:mm:ss a",
-	  dateRegex: "",
-	  dateTimeZone: "GMT+7",
-	  createdDate: "time",
+      source: "source_url",
+	  thumbSmall: "images.thumb_images.342x270",
+	  thumbMedium: "images.thumb_images.342x270",
+	  thumbBig: "images.source_url",
+	  dateFormat: "L10",
+	  createdDate: "created_date",
 	  updatedDate: ""
     },
-	detail: "$.content[0].body",
-	related_post_list: "$.content[0].relatednews",
-    related_post: {
-      id: "url",
-	  idRegex:"(\\d{6,7})",
-      title: "title",
-      source: "url",
-	  thumbSmall: "image",
-	  thumbMedium: "image",
-	  thumbBig: "image",
-	  dateFormat: "yyyy_MM_dd",
-	  dateRegex: "(\\d{4}_\\d{2}_\\d{2})",
-	  createdDate: "image",
-	  updatedDate: "image"
-	}
+	detail: "$.data.post_content"
   }
 }
