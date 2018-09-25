@@ -64,24 +64,6 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Vợ vắng nhà, chồng cưỡng hiếp cháu vợ",
-      desc: "(PLO)- Cháu vợ đến trông con giúp thì bị Đức nhiều lần đe dọa, cưỡng hiếp.",
-      url: "https://f46s2.app.goo.gl/dsrG",
-      icon: "http://image.plo.vn/w653/Uploaded/2018/qxwpwqdwp/2018_09_09/hiep-chau-vo-kg_vgcu.jpg",
-      weight: 1000,
-      pkg_name: "com.phapluat.anninh.online",
-      action_name: "Tải app để đọc tin"
-    },
-    {
-      title: "Thi thể nam công nhân bốc mùi trong phòng trọ",
-      desc: "Người thân đến tìm nam công nhân để thuê đi làm nhưng gọi mãi không được, khi đẩy cửa vào trong thì phát hiện thi thể nạn nhân đã bốc mùi nồng nặc.",
-      url: "https://f46s2.app.goo.gl/8Uwr",
-      icon: "http://image.plo.vn/w653/Uploaded/2018/ohpoplb/2018_09_20/thi-the-cong-nhan-trong-phong-tro_qlvt.jpg",
-      weight: 1000,
-      pkg_name: "com.phapluat.anninh.online",
-      action_name: "Tải app để đọc tin"
-    },
-    {
       title: "Mua xe giá rẻ coi chừng mang họa",
       desc: "Cẩn thận khi mua xe không giấy tờ giá rẻ vì coi chừng xe do trộm cắp, cướp được.",
       url: "https://f46s2.app.goo.gl/Dfvj",
@@ -109,10 +91,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Kinh ngạc Video 18 người nhồi nhét trên chiếc xe 5 chỗ",
-      desc: "Theo Indiatimes, một chiếc xe khi đi qua biên giới giữa Haiti và Cộng hòa Dominica đã bị chặn lại vì chở quá tải",
-      url: "https://f46s2.app.goo.gl/srEX",
-      icon: "https://i-sohoa.vnecdn.net/2018/09/22/18ng-1537618900-9088-1537619004_500x300.gif",
+      title: "Phát hiện chai thủy tinh trên bề mặt sao Hỏa?",
+      desc: "Một bức ảnh gần đây được tàu thăm dò sao Hỏa chụp và gửi về cho thấy một vật thể lạ trông giống như một cái chai thủy tinh, đang gây xôn xao trong giới săn vật thể ngoài hành tinh.",
+      url: "https://f46s2.app.goo.gl/a8zU",
+      icon: "http://image.plo.vn/w653/Uploaded/2018/abxbflu/2018_09_22/chai-tren-sao-hoa_rdnt_thumb.jpg",
       weight: 1000,
       pkg_name: "baodientu.tintuc.android",
       action_name: "Cài Đặt"
