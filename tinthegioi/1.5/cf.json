@@ -114,7 +114,7 @@
           page_var: "lid",
           page_type: "custom",
           detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/relativev2?lid=&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/relativev2?lid={post.id}"
         }
       ]
     },
