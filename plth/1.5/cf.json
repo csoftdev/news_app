@@ -63,19 +63,18 @@
     {
       name: "An Ninh Thủ Đô",
       type: 0,
-      enabled:false,
       use_char_icon: true,
       res_icon_name: "char_A",
       provider_cf: [
         {
           provider_id: "antd",
-          pid: "baomoi",
+          pid: "n24_home",
           group_id: "antd",
-          url: "http://104.131.141.52:3000/v1/news/articles/79/4/{pglid}/10?platform=android&app_version=1.2.4",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=79&cid=4&count=30&",
           page_var: "lid",
           page_type: "custom,0",
           detail_url: "",
-          related_url: "http://104.131.141.52:3000/v1/news/articles_relative/79/4/{post.id}?platform=android&app_version=1.2.4"
+          related_url: "https://api.5play.mobi/news/v4.0/relativev2?lid={post.id}"
         }
       ]
     },
@@ -102,19 +101,18 @@
     {
       name: "Công An",
       type: 0,
-      enabled:false,
       use_char_icon: true,
       res_icon_name: "char_C",
       provider_cf: [
         {
-          provider_id: "ca",
-          pid: "baomoi",
-          group_id: "ca",
-          url: "http://104.131.141.52:3000/v1/news/articles/46/4/{pglid}/10?platform=android&app_version=1.2.4",
+          provider_id: "congan",
+          pid: "n24_home",
+          group_id: "congan",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=46&cid=4&count=30&",
           page_var: "lid",
           page_type: "custom,0",
           detail_url: "",
-          related_url: "http://104.131.141.52:3000/v1/news/articles_relative/46/4/{post.id}?platform=android&app_version=1.2.4"
+          related_url: "https://api.5play.mobi/news/v4.0/relativev2?lid={post.id}"
         }
       ]
     },
