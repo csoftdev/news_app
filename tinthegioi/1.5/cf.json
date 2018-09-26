@@ -101,6 +101,24 @@
       ]
     },
     {
+      name: "Lao Động",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "char_LD",
+      provider_cf: [
+        {
+          provider_id: "laodong",
+          pid: "fpm",
+          group_id: "laodong",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=26&cid=3&count=30&",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/relativev2?lid=&lid={post.id}"
+        }
+      ]
+    },
+    {
       name: "Trí Thức",
       type: 0,
       use_char_icon: true,
