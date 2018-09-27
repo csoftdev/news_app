@@ -91,10 +91,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Phát hiện chai thủy tinh trên bề mặt sao Hỏa?",
-      desc: "Một bức ảnh gần đây được tàu thăm dò sao Hỏa chụp và gửi về cho thấy một vật thể lạ trông giống như một cái chai thủy tinh, đang gây xôn xao trong giới săn vật thể ngoài hành tinh.",
-      url: "https://f46s2.app.goo.gl/a8zU",
-      icon: "http://image.plo.vn/w653/Uploaded/2018/abxbflu/2018_09_22/chai-tren-sao-hoa_rdnt_thumb.jpg",
+      title: "'Phượt ăn mày' - trào lưu xấu xí của khách Tây tại châu Á",
+      desc: "Ngày càng nhiều khách Tây xuất hiện trên đường phố châu Á trong vẻ nghèo khổ, mong người qua đường bố thí chút tiền cho họ trang trải chuyến đi.",
+      url: "https://f46s2.app.goo.gl/1J1N",
+      icon: "https://i-dulich.vnecdn.net/2018/09/27/CY5F2h0UkAAS-4G-2337-1538042227.jpg",
       weight: 1000,
       pkg_name: "baodientu.tintuc.android",
       action_name: "Cài Đặt"
