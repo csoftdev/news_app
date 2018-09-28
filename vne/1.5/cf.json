@@ -26,7 +26,7 @@
       name: "Thông báo",
       type: 2000,
       use_char_icon: true,
-      res_icon_name: "cat_home",
+      res_icon_name: "cat_ic_info",
       provider_cf: [
         {
           provider_id: "tinnhanh.vnexp.enews",
