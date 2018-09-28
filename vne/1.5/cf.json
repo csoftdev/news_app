@@ -1,22 +1,43 @@
 {
   nav_items: [
-  {
+    {
       name: "f_search",
       type: 1,
       use_char_icon: true,
-	  res_icon_name: "",
+      res_icon_name: "",
       provider_cf: [
         {
-		  provider_id:"f_search",
-		  pid:"f_search",
-		  group_id:"f_search",
+          provider_id: "f_search",
+          pid: "f_search",
+          group_id: "f_search",
           url: "https://api3.vnexpress.net/api/article?type=search&limit=50&app_id=c31b32&offset=0&",
-		  param_funcs:{
-			keyword:"pb_keyword"
-		  },
-		  page_type: "fixed",
-		  detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
-		  detail_params: {
+          param_funcs: {
+            keyword: "pb_keyword"
+          },
+          page_type: "fixed",
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
+            article_id: "post.id"
+          }
+        }
+      ]
+    },
+    {
+      name: "Thông báo",
+      type: 2000,
+      use_char_icon: true,
+      res_icon_name: "cat_home",
+      provider_cf: [
+        {
+          provider_id: "tinnhanh.vnexp.enews",
+          pid: "vne_home",
+          group_id: "trang_chu",
+          url: "https://api3.vnexpress.net/api/mobile?type=home3&device=mobile&site_id=1000000&app_id=c31b32&",
+          param_funcs: {
+            device_id: "getDeviceId"
+          },
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
             article_id: "post.id"
           }
         }
@@ -26,376 +47,376 @@
       name: "Trang chủ",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_home",
+      res_icon_name: "cat_home",
       provider_cf: [
         {
-		  provider_id:"vne_home",
-		  pid:"vne_home",
-		  group_id:"trang_chu",
+          provider_id: "vne_home",
+          pid: "vne_home",
+          group_id: "trang_chu",
           url: "https://api3.vnexpress.net/api/mobile?type=home3&device=mobile&site_id=1000000&app_id=c31b32&",
           param_funcs: {
             device_id: "getDeviceId"
           },
-		  detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
-		  detail_params: {
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
             article_id: "post.id"
           }
         }
       ]
     },
-	{
+    {
       name: "Video",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_video",
+      res_icon_name: "cat_video",
       provider_cf: [
         {
-		  provider_id:"vne_video",
-		  pid:"vne_cate_video",
-		  group_id:"video",
+          provider_id: "vne_video",
+          pid: "vne_cate_video",
+          group_id: "video",
           url: "https://api3.vnexpress.net/api/article?type=get_rule_2&select=article_id,article_type,original_cate,site_id,title,lead,share_url,thumbnail_url,privacy,publish_time,list_object_type&cate_id=1003834&limit=10&app_id=c31b32&",
-		  page_var: "offset",
-		  page_type: "offset,10",
-		  detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
-		  detail_params: {
+          page_var: "offset",
+          page_type: "offset,10",
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
             article_id: "post.id"
           }
         }
       ]
     },
-	{
+    {
       name: "Thời sự",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_thoi_su",
+      res_icon_name: "cat_thoi_su",
       provider_cf: [
         {
-		  provider_id:"vne_thoi_su",
-		  pid:"vne_cate_thoi_su",
-		  group_id:"thoi_su",
+          provider_id: "vne_thoi_su",
+          pid: "vne_cate_thoi_su",
+          group_id: "thoi_su",
           url: "https://api3.vnexpress.net/api/article?type=get_rule_2&select=article_id,article_type,original_cate,site_id,title,lead,share_url,thumbnail_url,privacy,publish_time,list_object_type&cate_id=1001005&limit=10&app_id=c31b32&",
-		  page_var: "offset",
-		  page_type: "offset,10",
-		  detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
-		  detail_params: {
+          page_var: "offset",
+          page_type: "offset,10",
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
             article_id: "post.id"
           }
         }
       ]
     },
-	{
+    {
       name: "Thế giới",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_the_gioi", 
+      res_icon_name: "cat_the_gioi",
       provider_cf: [
         {
-		  provider_id:"vne_thegioi",
-		  pid:"vne_cate_the_gioi",
-		  group_id:"the_gioi",
+          provider_id: "vne_thegioi",
+          pid: "vne_cate_the_gioi",
+          group_id: "the_gioi",
           url: "https://api3.vnexpress.net/api/article?type=get_rule_2&select=article_id,article_type,original_cate,site_id,title,lead,share_url,thumbnail_url,privacy,publish_time,list_object_type&cate_id=1001002&limit=10&app_id=c31b32&",
-		  page_var: "offset",
-		  page_type: "offset,10",
-		  detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
-		  detail_params: {
+          page_var: "offset",
+          page_type: "offset,10",
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
             article_id: "post.id"
           }
         }
       ]
     },
-	{
+    {
       name: "Góc nhìn",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_goc_nhin",
+      res_icon_name: "cat_goc_nhin",
       provider_cf: [
         {
-		  provider_id:"vne_gocnhin",
-		  pid:"vne_cate_goc_nhin",
-		  group_id:"goc_nhin",
+          provider_id: "vne_gocnhin",
+          pid: "vne_cate_goc_nhin",
+          group_id: "goc_nhin",
           url: "https://api3.vnexpress.net/api/mobile?type=gocnhin&app_id=c31b32",
-		  detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
-		  detail_params: {
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
             article_id: "post.id"
           }
         }
       ]
     },
-	{
+    {
       name: "Kinh Doanh",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_kinh_doanh",
+      res_icon_name: "cat_kinh_doanh",
       provider_cf: [
         {
-		  provider_id:"vne_kinh_doanh",
-		  pid:"vne_cate_kinh_doanh",
-		  group_id:"kinh_doanh",
+          provider_id: "vne_kinh_doanh",
+          pid: "vne_cate_kinh_doanh",
+          group_id: "kinh_doanh",
           url: "https://api3.vnexpress.net/api/article?type=get_rule_2&select=article_id,article_type,original_cate,site_id,title,lead,share_url,thumbnail_url,privacy,publish_time,list_object_type&cate_id=1003159&limit=10&app_id=c31b32&",
-		  page_var: "offset",
-		  page_type: "offset,10",
-		  detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
-		  detail_params: {
+          page_var: "offset",
+          page_type: "offset,10",
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
             article_id: "post.id"
           }
         }
       ]
     },
-	{
+    {
       name: "Giải trí",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_giai_tri",
+      res_icon_name: "cat_giai_tri",
       provider_cf: [
         {
-		  provider_id:"vne_gtri",
-		  pid:"vne_cate_giai_tri",
-		  group_id:"giai_tri",
+          provider_id: "vne_gtri",
+          pid: "vne_cate_giai_tri",
+          group_id: "giai_tri",
           url: "https://api3.vnexpress.net/api/article?type=get_rule_2&select=article_id,article_type,original_cate,site_id,title,lead,share_url,thumbnail_url,privacy,publish_time,list_object_type&cate_id=1002691&limit=10&app_id=c31b32&",
-		  page_var: "offset",
-		  page_type: "offset,10",
-		  detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
-		  detail_params: {
+          page_var: "offset",
+          page_type: "offset,10",
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
             article_id: "post.id"
           }
         }
       ]
     },
-	{
+    {
       name: "Thể thao",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_the_thao",
+      res_icon_name: "cat_the_thao",
       provider_cf: [
         {
-		  provider_id:"vne_tthao",
-		  pid:"vne_cate_the_thao",
-		  group_id:"the_thao",
+          provider_id: "vne_tthao",
+          pid: "vne_cate_the_thao",
+          group_id: "the_thao",
           url: "https://api3.vnexpress.net/api/article?type=get_rule_2&select=article_id,article_type,original_cate,site_id,title,lead,share_url,thumbnail_url,privacy,publish_time,list_object_type&cate_id=1002565&limit=10&app_id=c31b32&",
-		  page_var: "offset",
-		  page_type: "offset,10",
-		  detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
-		  detail_params: {
+          page_var: "offset",
+          page_type: "offset,10",
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
             article_id: "post.id"
           }
         }
       ]
     },
-	{
+    {
       name: "Pháp luật",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_phap_luat",
+      res_icon_name: "cat_phap_luat",
       provider_cf: [
         {
-		  provider_id:"vne_pluat",
-		  pid:"vne_cate_phap_luat",
-		  group_id:"phap_luat",
+          provider_id: "vne_pluat",
+          pid: "vne_cate_phap_luat",
+          group_id: "phap_luat",
           url: "https://api3.vnexpress.net/api/article?type=get_rule_2&select=article_id,article_type,original_cate,site_id,title,lead,share_url,thumbnail_url,privacy,publish_time,list_object_type&cate_id=1001007&limit=10&app_id=c31b32&",
-		  page_var: "offset",
-		  page_type: "offset,10",
-		  detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
-		  detail_params: {
+          page_var: "offset",
+          page_type: "offset,10",
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
             article_id: "post.id"
           }
         }
       ]
     },
-	{
+    {
       name: "Giáo dục",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_giao_duc",
+      res_icon_name: "cat_giao_duc",
       provider_cf: [
         {
-		  provider_id:"vne_gduc",
-		  pid:"vne_cate_giao_duc",
-		  group_id:"giao_duc",
+          provider_id: "vne_gduc",
+          pid: "vne_cate_giao_duc",
+          group_id: "giao_duc",
           url: "https://api3.vnexpress.net/api/article?type=get_rule_2&select=article_id,article_type,original_cate,site_id,title,lead,share_url,thumbnail_url,privacy,publish_time,list_object_type&cate_id=1003497&limit=10&app_id=c31b32&",
-		  page_var: "offset",
-		  page_type: "offset,10",
-		  detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
-		  detail_params: {
+          page_var: "offset",
+          page_type: "offset,10",
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
             article_id: "post.id"
           }
         }
       ]
     },
-	{
+    {
       name: "Sức khỏe",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_suc_khoe",
+      res_icon_name: "cat_suc_khoe",
       provider_cf: [
         {
-		  provider_id:"vne_skhoe",
-		  pid:"vne_cate_suc_khoe",
-		  group_id:"suc_khoe",
+          provider_id: "vne_skhoe",
+          pid: "vne_cate_suc_khoe",
+          group_id: "suc_khoe",
           url: "https://api3.vnexpress.net/api/article?type=get_rule_2&select=article_id,article_type,original_cate,site_id,title,lead,share_url,thumbnail_url,privacy,publish_time,list_object_type&cate_id=1003750&limit=10&app_id=c31b32&",
-		  page_var: "offset",
-		  page_type: "offset,10",
-		  detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
-		  detail_params: {
+          page_var: "offset",
+          page_type: "offset,10",
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
             article_id: "post.id"
           }
         }
       ]
     },
-	{
+    {
       name: "Gia đình",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_gia_dinh",
+      res_icon_name: "cat_gia_dinh",
       provider_cf: [
         {
-		  provider_id:"vne_gia_dinh",
-		  pid:"vne_cate_gia_dinh",
-		  group_id:"gia_dinh",
+          provider_id: "vne_gia_dinh",
+          pid: "vne_cate_gia_dinh",
+          group_id: "gia_dinh",
           url: "https://api3.vnexpress.net/api/article?type=get_rule_2&select=article_id,article_type,original_cate,site_id,title,lead,share_url,thumbnail_url,privacy,publish_time,list_object_type&cate_id=1002966&limit=10&app_id=c31b32&",
-		  page_var: "offset",
-		  page_type: "offset,10",
-		  detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
-		  detail_params: {
+          page_var: "offset",
+          page_type: "offset,10",
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
             article_id: "post.id"
           }
         }
       ]
     },
-	{
+    {
       name: "Du lịch",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_du_lich",
+      res_icon_name: "cat_du_lich",
       provider_cf: [
         {
-		  provider_id:"vne_dlich",
-		  pid:"vne_cate_du_lich",
-		  group_id:"du_lich",
+          provider_id: "vne_dlich",
+          pid: "vne_cate_du_lich",
+          group_id: "du_lich",
           url: "https://api3.vnexpress.net/api/article?type=get_rule_2&select=article_id,article_type,original_cate,site_id,title,lead,share_url,thumbnail_url,privacy,publish_time,list_object_type&cate_id=1003231&limit=10&app_id=c31b32&",
-		  page_var: "offset",
-		  page_type: "offset,10",
-		  detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
-		  detail_params: {
+          page_var: "offset",
+          page_type: "offset,10",
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
             article_id: "post.id"
           }
         }
       ]
     },
-	{
+    {
       name: "Khoa học",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_khoa_hoc",
+      res_icon_name: "cat_khoa_hoc",
       provider_cf: [
         {
-		  provider_id:"vne_khoc",
-		  pid:"vne_cate_khoa_hoc",
-		  group_id:"khoa_hoc",
+          provider_id: "vne_khoc",
+          pid: "vne_cate_khoa_hoc",
+          group_id: "khoa_hoc",
           url: "https://api3.vnexpress.net/api/article?type=get_rule_2&select=article_id,article_type,original_cate,site_id,title,lead,share_url,thumbnail_url,privacy,publish_time,list_object_type&cate_id=1001009&limit=10&app_id=c31b32&",
-		  page_var: "offset",
-		  page_type: "offset,10",
-		  detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
-		  detail_params: {
+          page_var: "offset",
+          page_type: "offset,10",
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
             article_id: "post.id"
           }
         }
       ]
     },
-	{
+    {
       name: "Số hóa",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_so_hoa",
+      res_icon_name: "cat_so_hoa",
       provider_cf: [
         {
-		  provider_id:"vne_sohoa",
-		  pid:"vne_cate_so_hoa",
-		  group_id:"so_hoa",
+          provider_id: "vne_sohoa",
+          pid: "vne_cate_so_hoa",
+          group_id: "so_hoa",
           url: "https://api3.vnexpress.net/api/article?type=get_rule_2&select=article_id,article_type,original_cate,site_id,title,lead,share_url,thumbnail_url,privacy,publish_time,list_object_type&cate_id=1002592&limit=10&app_id=c31b32&",
-		  page_var: "offset",
-		  page_type: "offset,10",
-		  detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
-		  detail_params: {
+          page_var: "offset",
+          page_type: "offset,10",
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
             article_id: "post.id"
           }
         }
       ]
     },
-	{
+    {
       name: "Xe",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_xe",
+      res_icon_name: "cat_xe",
       provider_cf: [
         {
-		  provider_id:"vne_xe",
-		  pid:"vne_cate_xe",
-		  group_id:"xe",
+          provider_id: "vne_xe",
+          pid: "vne_cate_xe",
+          group_id: "xe",
           url: "https://api3.vnexpress.net/api/article?type=get_rule_2&select=article_id,article_type,original_cate,site_id,title,lead,share_url,thumbnail_url,privacy,publish_time,list_object_type&cate_id=1001006&limit=10&app_id=c31b32&",
-		  page_var: "offset",
-		  page_type: "offset,10",
-		  detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
-		  detail_params: {
+          page_var: "offset",
+          page_type: "offset,10",
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
             article_id: "post.id"
           }
         }
       ]
     },
-	{
+    {
       name: "Cộng đồng",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_cong_dong",
+      res_icon_name: "cat_cong_dong",
       provider_cf: [
         {
-		  provider_id:"vne_cdong",
-		  pid:"vne_cate_cong_dong",
-		  group_id:"cong_dong",
+          provider_id: "vne_cdong",
+          pid: "vne_cate_cong_dong",
+          group_id: "cong_dong",
           url: "https://api3.vnexpress.net/api/article?type=get_rule_2&select=article_id,article_type,original_cate,site_id,title,lead,share_url,thumbnail_url,privacy,publish_time,list_object_type&cate_id=1001012&limit=10&app_id=c31b32&",
-		  page_var: "offset",
-		  page_type: "offset,10",
-		  detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
-		  detail_params: {
+          page_var: "offset",
+          page_type: "offset,10",
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
             article_id: "post.id"
           }
         }
       ]
     },
-	{
+    {
       name: "Tâm sự",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_tam_su",
+      res_icon_name: "cat_tam_su",
       provider_cf: [
         {
-		  provider_id:"vne_tsu",
-		  pid:"vne_cate_tam_su",
-		  group_id:"tam_su",
+          provider_id: "vne_tsu",
+          pid: "vne_cate_tam_su",
+          group_id: "tam_su",
           url: "https://api3.vnexpress.net/api/article?type=get_rule_2&select=article_id,article_type,original_cate,site_id,title,lead,share_url,thumbnail_url,privacy,publish_time,list_object_type&cate_id=1001014&limit=10&app_id=c31b32&",
-		  page_var: "offset",
-		  page_type: "offset,10",
-		  detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
-		  detail_params: {
+          page_var: "offset",
+          page_type: "offset,10",
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
             article_id: "post.id"
           }
         }
       ]
     },
-	{
+    {
       name: "Cười",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_cuoi",
+      res_icon_name: "cat_cuoi",
       provider_cf: [
         {
-		  provider_id:"vne_cuoi",
-		  pid:"vne_cate_cuoi",
-		  group_id:"cuoi",
+          provider_id: "vne_cuoi",
+          pid: "vne_cate_cuoi",
+          group_id: "cuoi",
           url: "https://api3.vnexpress.net/api/article?type=get_rule_2&select=article_id,article_type,original_cate,site_id,title,lead,share_url,thumbnail_url,privacy,publish_time,list_object_type&cate_id=1001011&limit=10&app_id=c31b32&",
-		  page_var: "offset",
-		  page_type: "offset,10",
-		  detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
-		  detail_params: {
+          page_var: "offset",
+          page_type: "offset,10",
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
             article_id: "post.id"
           }
         }
