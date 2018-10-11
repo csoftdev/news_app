@@ -143,6 +143,15 @@
       weight: 1000,
       pkg_name: "baodientu.tintuc.android",
       action_name: "Cài Đặt"
+    },
+    {
+      title: "Mẹ chở con gái đi trộm cắp tài sản",
+      desc: "Diệp và Chi chở con gái của Diệp đến các quán tạp hóa, lợi dụng sơ hở của chủ quán để con gái trộm cắp tài sản.",
+      url: "https://f46s2.app.goo.gl/JiX6",
+      icon: "http://image.plo.vn/w800/Uploaded/2018/vocgmvlw/2018_10_11/diep-chi_kcsr.jpg",
+      weight: 1000,
+      pkg_name: "tintuc.pl.tonghop",
+      action_name: "Cài Đặt"
     }
   ]
 }
