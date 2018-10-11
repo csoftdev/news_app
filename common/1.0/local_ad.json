@@ -152,6 +152,15 @@
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
+    },
+    {
+      title: "Chuyên trang Pháp Luật HCM, nguồn tin An Ninh & Pháp Luật dành riêng cho bạn",
+      desc: "Chuyên cung cấp các thông tin nóng nhất, mới nhất về các vấn đề thời sự - xã hội Pháp Luật, các vấn đề liên quan đến An ninh trật tự ở Việt Nam",
+      url: "https://f46s2.app.goo.gl/v5xM",
+      icon: "https://3.bp.blogspot.com/-SuDzYQFujec/W798PHIgIOI/AAAAAAAAKy4/C1oB-qpPsDoULB5vr5lCqg6uZecewYj_ACLcBGAs/s320/logo.png",
+      weight: 1000,
+      pkg_name: "tintuc.pl.tonghop",
+      action_name: "Cài Đặt"
     }
   ]
 }
