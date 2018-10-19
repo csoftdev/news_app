@@ -145,10 +145,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Mẹ chở con gái đi trộm cắp tài sản",
-      desc: "Diệp và Chi chở con gái của Diệp đến các quán tạp hóa, lợi dụng sơ hở của chủ quán để con gái trộm cắp tài sản.",
-      url: "https://f46s2.app.goo.gl/JiX6",
-      icon: "http://image.plo.vn/w800/Uploaded/2018/vocgmvlw/2018_10_11/diep-chi_kcsr.jpg",
+      title: "Thanh niên chạy Grabbike bị giết trong bụi cây ở Bình Chánh",
+      desc: "Thi thể nam thanh niên trong bụi cây ở huyện Bình Chánh với vết đâm sâu.",
+      url: "https://f46s2.app.goo.gl/ejBT",
+      icon: "http://image.plo.vn/w653/Uploaded/2018/wpdhnwcjw/2018_10_19/plo-grabbike-bi-dam-chet-giau-thi-the-trong-bui-cay-o-binh-chanh_ybpu.jpg",
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
