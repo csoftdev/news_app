@@ -161,6 +161,15 @@
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
+    },
+    {
+      title: "Thêm tình tiết vụ án ném trẻ sơ sinh ở chung cư Linh Đàm",
+      desc: "Tại cơ quan công an, cô sinh viên năm 4 khai rằng sau khi sinh, bé tử vong nên đã ném thi thể bé xuống đất",
+      url: "https://f46s2.app.goo.gl/ED7y",
+      icon: "http://image.plo.vn/w653/Uploaded/2018/cdhnwyqjw/2018_10_19/be-so-sinh-roi-o-chung-cu-ha-noi_ckom_thumb.jpg",
+      weight: 1000,
+      pkg_name: "tintuc.pl.tonghop",
+      action_name: "Cài Đặt"
     }
   ]
 }
