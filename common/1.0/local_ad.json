@@ -163,10 +163,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Thêm tình tiết vụ án ném trẻ sơ sinh ở chung cư Linh Đàm",
-      desc: "Tại cơ quan công an, cô sinh viên năm 4 khai rằng sau khi sinh, bé tử vong nên đã ném thi thể bé xuống đất",
-      url: "https://f46s2.app.goo.gl/ED7y",
-      icon: "http://image.plo.vn/w653/Uploaded/2018/cdhnwyqjw/2018_10_19/be-so-sinh-roi-o-chung-cu-ha-noi_ckom_thumb.jpg",
+      title: "Chống lại tên cướp, bà chủ quán nước bị đâm chết",
+      desc: "Bị chủ quán nước ở Bình Dương chống trả quyết liệt khi giật sợi dây chuyền vàng, nam thanh niên đâm gục nạn nhân rồi tẩu thoát",
+      url: "https://f46s2.app.goo.gl/Vqrn",
+      icon: "https://i-vnexpress.vnecdn.net/2018/10/20/hien-truong-5641-1540042010.jpg",
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
