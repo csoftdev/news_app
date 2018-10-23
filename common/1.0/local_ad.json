@@ -145,10 +145,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Thanh niên chạy Grabbike bị giết trong bụi cây ở Bình Chánh",
-      desc: "Thi thể nam thanh niên trong bụi cây ở huyện Bình Chánh với vết đâm sâu.",
-      url: "https://f46s2.app.goo.gl/ejBT",
-      icon: "http://image.plo.vn/w653/Uploaded/2018/wpdhnwcjw/2018_10_19/plo-grabbike-bi-dam-chet-giau-thi-the-trong-bui-cay-o-binh-chanh_ybpu.jpg",
+      title: "Chủ mưu vụ tống tiền 100 cán bộ Văn phòng Quốc hội bị bắt",
+      desc: "Cảnh sát bắt tiếp nghi phạm thứ ba trong vụ nhắn tin đe dọa cán bộ tại nhiều Văn phòng đoàn đại biểu Quốc hội.",
+      url: "https://f46s2.app.goo.gl/Br7N",
+      icon: "https://i-vnexpress.vnecdn.net/2018/10/22/tong-tien-7104-1540184233.jpg",
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
