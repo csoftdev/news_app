@@ -170,6 +170,24 @@
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
+    },
+    {
+      title: "Tin tức, tin nóng, đọc báo điện tử - Tuổi Trẻ Online",
+      desc: "Tin tức nhanh - mới - nóng nhất đang diễn ra về: kinh tế, chính trị, xã hội, thế giới, giáo dục, thể thao, văn hóa, giải trí, công nghệ.",
+      url: "https://f46s2.app.goo.gl/bkAH",
+      icon: "https://1.bp.blogspot.com/-mMZ-91gx07w/WqCuzVq5zOI/AAAAAAAAJEA/iu6QLNg387cyi2zuDdQYnfFCAxV4cTMsACLcBGAs/s320/logo_content.png",
+      weight: 1000,
+      pkg_name: "timm.online.tuoitre",
+      action_name: "Cài Đặt"
+    },
+    {
+      title: "Đổi 100 USD tại tiệm vàng, bị phạt 90 triệu đồng",
+      desc: "Người đổi 100 USD là ông Nguyễn Cà Rê bị phạt 90 triệu đồng, còn tiệm vàng bị phạt 180 triệu đồng vì thu đổi ngoại tệ khi chưa được cấp phép.",
+      url: "https://f46s2.app.goo.gl/MMr7",
+      icon: "https://cdn.tuoitre.vn/thumb_w/586/2018/10/23/4469001022627332240462561619328379989786624n-15402812987831194137317.jpg",
+      weight: 1000,
+      pkg_name: "timm.online.tuoitre",
+      action_name: "Cài Đặt"
     }
   ]
 }
