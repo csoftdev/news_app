@@ -19,6 +19,15 @@
       action_name: "Cài Đặt Ngay"
     },
     {
+      title: "Bố ơi, mình đi bắt Pika nhé",
+      desc: "Trải nghiệm trò chơi giải trí mới. Bắt Pika để trở thành thợ săn Pika chuyên nghiệp nhé",
+      url: "https://f46s2.app.goo.gl/zFKt",
+      icon: "https://2.bp.blogspot.com/-mgjIe1TJHzM/W9BlXaL6sPI/AAAAAAAAK3Y/H9wi6IMtkd8imANc6c5yl3XlHW0B4xGrgCLcBGAs/s320/logo_fill.jpg",
+      weight: 1000,
+      pkg_name: "com.andatsoft.app.pika",
+      action_name: "Bắt Pika ngay"
+    },
+    {
       title: "Bóng Đá 24H - Tin Tức Thể Thao, Video Bàn Thắng Chọn Lọc",
       desc: "Bóng Đá 24H cung cấp thông tin bóng đá, thể thao cũng như tổng hợp video clip chất lượng cao, được thiết kế để tối ưu trải nghiệm trên điện thoại của bạn",
       url: "https://f46s2.app.goo.gl/HJ9K",
