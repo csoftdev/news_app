@@ -154,10 +154,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Chủ mưu vụ tống tiền 100 cán bộ Văn phòng Quốc hội bị bắt",
-      desc: "Cảnh sát bắt tiếp nghi phạm thứ ba trong vụ nhắn tin đe dọa cán bộ tại nhiều Văn phòng đoàn đại biểu Quốc hội.",
-      url: "https://f46s2.app.goo.gl/Br7N",
-      icon: "https://i-vnexpress.vnecdn.net/2018/10/22/tong-tien-7104-1540184233.jpg",
+      title: "Đau lòng 4 người chết khi dựng cột viễn thông",
+      desc: "Khi người dân phát hiện thì cả bốn người bị điện giật đã tử vong trên đồng",
+      url: "https://f46s2.app.goo.gl/Rd2T",
+      icon: "http://image.plo.vn/w653/Uploaded/2018/jgirgs/2018_10_26/suahien-truon_febg.jpg",
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
