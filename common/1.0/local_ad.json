@@ -28,6 +28,15 @@
       action_name: "Bắt Pika ngay"
     },
     {
+      title: "Xin 1 vé về tuổi thơ với trò chơi tìm số trên Android",
+      desc: "Bạn còn nhớ trò chơi tìm số từ 100 đến 1 chứ?. Rủ thêm bạn cùng chơi nhé",
+      url: "https://f46s2.app.goo.gl/FCqD",
+      icon: "https://2.bp.blogspot.com/-Kvfg5scNawQ/W97iz1gsG4I/AAAAAAAAK68/Uh3pI3ELev4hd1q0LoR4Ov9mlRBL_598gCLcBGAs/s320/ic_logo_fill.png",
+      weight: 1000,
+      pkg_name: "com.andatsoft.app.oto",
+      action_name: "Chơi ngay"
+    },
+    {
       title: "Bóng Đá 24H - Tin Tức Thể Thao, Video Bàn Thắng Chọn Lọc",
       desc: "Bóng Đá 24H cung cấp thông tin bóng đá, thể thao cũng như tổng hợp video clip chất lượng cao, được thiết kế để tối ưu trải nghiệm trên điện thoại của bạn",
       url: "https://f46s2.app.goo.gl/HJ9K",
