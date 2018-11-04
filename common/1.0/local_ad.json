@@ -199,10 +199,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Đổi 100 USD tại tiệm vàng, bị phạt 90 triệu đồng",
-      desc: "Người đổi 100 USD là ông Nguyễn Cà Rê bị phạt 90 triệu đồng, còn tiệm vàng bị phạt 180 triệu đồng vì thu đổi ngoại tệ khi chưa được cấp phép.",
-      url: "https://f46s2.app.goo.gl/MMr7",
-      icon: "https://cdn.tuoitre.vn/thumb_w/586/2018/10/23/4469001022627332240462561619328379989786624n-15402812987831194137317.jpg",
+      title: "Nam thanh niên nghi bị trăn quấn chết ở Đồng Nai",
+      desc: "Một nam thanh niên làm công cho hộ dân trên địa bàn xã Bắc Sơn, huyện Trảng Bom (Đồng Nai) nằm chết bên cạnh lồng nuôi nhốt trăn.",
+      url: "https://f46s2.app.goo.gl/d7zv",
+      icon: "https://cdn.tuoitre.vn/thumb_w/640/2018/11/4/tran-2-15412661870861190304735.jpg",
       weight: 1000,
       pkg_name: "timm.online.tuoitre",
       action_name: "Cài Đặt"
