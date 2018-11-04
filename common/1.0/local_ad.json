@@ -172,6 +172,15 @@
       action_name: "Cài Đặt"
     },
     {
+      title: "Con gái 13 tuổi ngã quỵ thấy cha trong tư thế treo cổ",
+      desc: "Bé gái 13 tuổi về nhà thì ngã quỵ khi thấy cha ruột đã tử vong trong tư thế treo cổ sau nhà.",
+      url: "https://f46s2.app.goo.gl/9HNt",
+      icon: "http://image.plo.vn/w653/Uploaded/2018/wpdhnwcjw/2018_11_01/plo-con-gai-nga-quy-khi-thay-cha-tu-vong-trong-tu-the-treo-co_mbwv.jpg",
+      weight: 1000,
+      pkg_name: "tintuc.pl.tonghop",
+      action_name: "Cài Đặt"
+    },
+    {
       title: "Chuyên trang Pháp Luật HCM, nguồn tin An Ninh & Pháp Luật dành riêng cho bạn",
       desc: "Chuyên cung cấp các thông tin nóng nhất, mới nhất về các vấn đề thời sự - xã hội Pháp Luật, các vấn đề liên quan đến An ninh trật tự ở Việt Nam",
       url: "https://f46s2.app.goo.gl/v5xM",
