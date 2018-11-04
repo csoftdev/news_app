@@ -163,10 +163,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Đau lòng 4 người chết khi dựng cột viễn thông",
-      desc: "Khi người dân phát hiện thì cả bốn người bị điện giật đã tử vong trên đồng",
-      url: "https://f46s2.app.goo.gl/Rd2T",
-      icon: "http://image.plo.vn/w653/Uploaded/2018/jgirgs/2018_10_26/suahien-truon_febg.jpg",
+      title: "Đi cà phê kích dục, người đàn ông vừa bị đánh vừa bị cướp",
+      desc: "Giận vợ, người đàn ông vào quán cà phê kích dục giải khuây thì bị đánh và cướp tài sản.",
+      url: "https://f46s2.app.goo.gl/H9aX",
+      icon: "http://image.plo.vn/w653/Uploaded/2018/qxwpwqdwp/2018_11_02/ca-phe-kich-duc-thumb_wfru.jpg",
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
