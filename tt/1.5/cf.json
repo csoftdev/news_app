@@ -41,6 +41,24 @@
       ]
     },
     {
+      name: "Video",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "cat_video",
+      provider_cf: [
+        {
+          provider_id: "5pl_vd",
+          pid: "n24_home",
+          group_id: "video",
+          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=12&count=30",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
+        }
+      ]
+    },
+    {
       name: "Thời sự",
       type: 0,
       use_char_icon: true,
@@ -124,19 +142,17 @@
       name: "Công nghệ",
       type: 0,
       use_char_icon: true,
-      res_icon_name: "cat_so_hoa",
+      res_icon_name: "cat_khoa_hoc",
       provider_cf: [
         {
-          provider_id: "cong_nghe",
-          pid: "tt_cat",
+          provider_id: "5pl_cn",
+          pid: "n24_home",
           group_id: "cong_nghe",
-          url: "https://api.tuoitre.vn/mobileapp/catpage?token=da039e81&cid=16&limit=10&prior=0&",
-          page_var: "page",
-          page_type: "normal,1",
-          detail_url: "https://api.tuoitre.vn/appdev/getobjectdetail?token=dee03981&",
-          detail_params: {
-            id: "post.id"
-          }
+          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=6&count=30",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
         }
       ]
     },
