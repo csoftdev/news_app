@@ -110,5 +110,44 @@
       createdDate: "time_published",
       updatedDate: "time_updated"
     }
+  },
+  n24_home: {
+    post_list: "$.linfos",
+    post: {
+      id: "lid",
+      title: "title",
+      desc: "desc",
+      source: "url",
+      thumbSmall: "cover",
+      thumbMedium: "cover",
+      thumbBig: "cover",
+      createdDate: "posttime",
+      dateFormat: "L13",
+      updatedDate: "",
+      detail: "content",
+      video_strs: "listMp4",
+      video_view_type: "a"
+    },
+    next_page: "$.linfos[-1:].lid",
+    resolve_detail_data: "jRemoveTags_script,jReplaceTag_h2_span,jReplaceTag_h3_span, jReplaceTag_h1_span",
+    in_video_content: {
+      div: "data-src"
+    },
+    related_post_list: "$.linfos",
+    related_post: {
+      id: "lid",
+      title: "title",
+      desc: "desc",
+      source: "url",
+      thumbSmall: "cover",
+      thumbMedium: "cover",
+      thumbBig: "cover",
+      createdDate: "posttime",
+      dateFormat: "L13",
+      updatedDate: "",
+      detail: "content",
+      video_strs: "listMp4",
+      video_view_type: "a"
+    }
   }
 }
