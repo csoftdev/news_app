@@ -37,6 +37,24 @@
       action_name: "Chơi ngay"
     },
     {
+      title: "Tử vi 2019 mới nhất cho 12 con giáp, xem giờ tốt, hướng xuất hành năm Kỷ Hợi",
+      desc: "Xem tử vi 2019 với nhiều tính năng hấp dẫn",
+      url: "https://f46s2.app.goo.gl/ivoE",
+      icon: "https://1.bp.blogspot.com/-MnMIA8xiaZY/XCUA3QnAMzI/AAAAAAAALTg/wRPl7cqpPm0eRJaupihuKihYFDbkjSUXQCLcBGAs/s320/logo_display_fill.jpg",
+      weight: 1500,
+      pkg_name: "com.andatsoft.app.vi.amlich",
+      action_name: "Xem ngay"
+    },
+    {
+      title: "Xin Xăm Quan Thánh 2019, hóa giải âu lo về gia đạo, tình duyên, sự nghiệp",
+      desc: "Xin keo và gieo quẻ để nhận xăm từ Quan Thánh, hóa giải âu lo về gia đạo, tình duyên, sự nghiệp",
+      url: "https://f46s2.app.goo.gl/ivoE",
+      icon: "https://1.bp.blogspot.com/-MnMIA8xiaZY/XCUA3QnAMzI/AAAAAAAALTg/wRPl7cqpPm0eRJaupihuKihYFDbkjSUXQCLcBGAs/s320/logo_display_fill.jpg",
+      weight: 1500,
+      pkg_name: "com.andatsoft.app.vi.amlich",
+      action_name: "Xin Xăm"
+    },
+    {
       title: "Bóng Đá 24H - Tin Tức Thể Thao, Video Bàn Thắng Chọn Lọc",
       desc: "Bóng Đá 24H cung cấp thông tin bóng đá, thể thao cũng như tổng hợp video clip chất lượng cao, được thiết kế để tối ưu trải nghiệm trên điện thoại của bạn",
       url: "https://f46s2.app.goo.gl/HJ9K",
