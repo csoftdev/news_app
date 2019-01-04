@@ -64,6 +64,15 @@
       action_name: "Xem ngay"
     },
     {
+      title: "3 con giáp nào sẽ giàu có nhất trong năm Kỷ Hợi?",
+      desc: "Cùng xem các con giáp phát đạt nhất trong năm Kỷ Hợi 2019 nào",
+      url: "https://f46s2.app.goo.gl/ivoE",
+      icon: "https://3.bp.blogspot.com/-O0yHlIfFIPs/XC9ZwMeBbMI/AAAAAAAALaw/amsLoan029MT6lqnFzT9QeOfGgn0NRxyACLcBGAs/s1600/ic_con_giap_10.png",
+      weight: 1500,
+      pkg_name: "com.andatsoft.app.vi.amlich",
+      action_name: "Xem ngay"
+    },
+    {
       title: "Bóng Đá 24H - Tin Tức Thể Thao, Video Bàn Thắng Chọn Lọc",
       desc: "Bóng Đá 24H cung cấp thông tin bóng đá, thể thao cũng như tổng hợp video clip chất lượng cao, được thiết kế để tối ưu trải nghiệm trên điện thoại của bạn",
       url: "https://f46s2.app.goo.gl/HJ9K",
