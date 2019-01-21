@@ -109,10 +109,10 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Phát hiện phần thi thể người ở dãy nhà trọ ông Hiệp 'Khùng'",
-      desc: "Sau khi xảy ra vụ cháy 4 ngày, cơ quan chức năng phát hiện 2 thi thể tại hiện trường.",
+      title: "Chuyên gia bóng đá quốc tế ngả mũ trước chiến thắng của Việt Nam",
+      desc: "Ký giả của các tờ báo thể thao châu Á ấn tượng với chiến thắng của tuyển Việt Nam trước Jordan.",
       url: "https://f46s2.app.goo.gl/mBFv",
-      icon: "https://znews-photo-td.zadn.vn/w660/Uploaded/yfsgs/2018_09_21/xuong_1.jpg",
+      icon: "https://i-thethao.vnecdn.net/2019/01/21/Untitled-4993-1548044330.jpg",
       weight: 1000,
       pkg_name: "fb.baomoi.tin19h",
       action_name: "Cài đặt"
@@ -208,19 +208,19 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Đi cà phê kích dục, người đàn ông vừa bị đánh vừa bị cướp",
-      desc: "Giận vợ, người đàn ông vào quán cà phê kích dục giải khuây thì bị đánh và cướp tài sản.",
+      title: "Hoàng Công Lương bị đề nghị phạt từ 3 đến 3,5 năm tù",
+      desc: "Cuối giờ chiều 21-1, đại diện VKS đã trình bày quan điểm luận tội đối với các bị cáo trong vụ án liên quan đến sự cố chạy thận khiến chín người tử vong tại BV đa khoa tỉnh Hòa Bình.",
       url: "https://f46s2.app.goo.gl/H9aX",
-      icon: "http://image.plo.vn/w653/Uploaded/2018/qxwpwqdwp/2018_11_02/ca-phe-kich-duc-thumb_wfru.jpg",
+      icon: "http://image.plo.vn/w653/Uploaded/2019/pixpcwvo/2019_01_07/bs-hoang-cong-luong8_fpih_thumb.jpg",
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
     },
     {
-      title: "Con gái 13 tuổi ngã quỵ thấy cha trong tư thế treo cổ",
-      desc: "Bé gái 13 tuổi về nhà thì ngã quỵ khi thấy cha ruột đã tử vong trong tư thế treo cổ sau nhà.",
+      title: "Xe tải lao lên vỉa hẻ, 8 người chết",
+      desc: "Vụ tai nạn thương tâm xảy ra vào khoảng 13h55 ngày 21-1, trên quốc lộ 5 đã khiến tám người chết, bảy người bị thương",
       url: "https://f46s2.app.goo.gl/9HNt",
-      icon: "http://image.plo.vn/w653/Uploaded/2018/wpdhnwcjw/2018_11_01/plo-con-gai-nga-quy-khi-thay-cha-tu-vong-trong-tu-the-treo-co_mbwv.jpg",
+      icon: "http://image.plo.vn/w653/Uploaded/2019/bpivpbiu/2019_01_21/xe-tai_cdin.jpg",
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
@@ -232,15 +232,6 @@
       icon: "http://image.plo.vn/w653/Uploaded/2018/wpdhnwcjw/2018_11_08/plo-tret-ot-vao-mat-cuop-tien-tai-tru-atm_epzz.jpg",
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
-      action_name: "Cài Đặt"
-    },
-    {
-      title: "Mâu thuẫn nuôi con, chồng cứa cổ vợ chết rồi tự tử",
-      desc: "Chỉ vì mâu thuẫn vợ chồng và tranh cãi nuôi con, chồng dùng dao cứa cổ vợ chết, đâm chém em vợ bị trọng thương và sau đó tự mình cứa cổ tự tử",
-      url: "https://f46s2.app.goo.gl/A9jW",
-      icon: "https://cdn.tuoitre.vn/2018/11/6/sat-hai-1-15415026779751831645374.png",
-      weight: 1000,
-      pkg_name: "timm.online.tuoitre",
       action_name: "Cài Đặt"
     },
     {
