@@ -136,10 +136,10 @@
       action_name: "Tải App Để Đọc Tin"
     },
     {
-      title: "Ba bé sơ sinh bị đâm ở vườn trẻ Mỹ",
-      desc: "Một nghi phạm bị cảnh sát Mỹ bắt giữ sau khi 5 người, trong đó có ba bé sơ sinh, bị đâm tại một vườn trẻ ở New York. ",
+      title: "Trộm xăng gây nổ khiến 91 người chết ở Mexico",
+      desc: "800 người dân Mexico trộm xăng từ lỗ thủng trên đường ống Tula-Tuxpan, trước khi nó bắt lửa và phát nổ.",
       url: "https://f46s2.app.goo.gl/nKwP",
-      icon: "https://i-vnexpress.vnecdn.net/2018/09/22/103532935-capas32235ture-4575-1537582548.png",
+      icon: "https://i-vnexpress.vnecdn.net/2019/01/22/vu-trom-lam-no-duong-ong-xang-mexico-khien-91-nguoi-chet-1548138718_1200x0.jpg",
       weight: 1000,
       pkg_name: "com.tintuc.thegioi",
       action_name: "Cài Đặt"
