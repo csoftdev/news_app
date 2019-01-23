@@ -145,10 +145,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "8 đồ dùng quen thuộc trong nhà bạn có thể gây ung thư",
-      desc: "Rèm cửa, tủ lạnh, những chiếc bàn đá đẹp, quần áo của bạn cũng có thể che giấu những chất gây ung thư.",
+      title: "Đồng Nai: Vợ giết chồng trước mặt hai con",
+      desc: "Thấy bố bị đâm, hai đứa con hốt hoảng chạy sang hàng xóm cầu cứu, khi mọi người tới nơi thì mọi chuyện đã quá muộn.",
       url: "https://f46s2.app.goo.gl/u7mT",
-      icon: "https://i-suckhoe.vnecdn.net/2018/09/21/ghetua-3026-1537521574.jpg",
+      icon: "http://image.plo.vn/w653/Uploaded/2019/azmtn/2019_01_23/giet-chong_ewpg.jpg",
       weight: 1000,
       pkg_name: "baodientu.tintuc.android",
       action_name: "Cài Đặt"
