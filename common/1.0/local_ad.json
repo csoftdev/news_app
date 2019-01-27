@@ -217,19 +217,19 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Xe tải lao lên vỉa hẻ, 8 người chết",
-      desc: "Vụ tai nạn thương tâm xảy ra vào khoảng 13h55 ngày 21-1, trên quốc lộ 5 đã khiến tám người chết, bảy người bị thương",
+      title: "Đường dây chân dài người nước ngoài bán dâm ở quận 1",
+      desc: "Cô gái Nga bị cảnh sát bắt vì hành vi môi giới mại dâm, các thành viên trong đường dây đều là người nước ngoài.",
       url: "https://f46s2.app.goo.gl/9HNt",
-      icon: "http://image.plo.vn/w653/Uploaded/2019/bpivpbiu/2019_01_21/xe-tai_cdin.jpg",
+      icon: "https://image.plo.vn/w653/Uploaded/2019/wpdhnwcjw/2019_01_26/plo-nguoi-nuoc-ngoai-ban-dam-o-sai-gon_afbp.jpg",
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
     },
     {
-      title: "Cảnh giác: Xát ớt vào mắt người rút tiền tại trụ ATM để cướp",
-      desc: "Bị tấn công bất ngờ, tuy nhiên nạn nhân vẫn tỉnh táo, nhanh chóng chụp tay hô hoán cướp và khống chế kẻ xát ớt vào mắt mình.",
+      title: "Vợ không đưa tiền chồng xài Tết, phạt đến 500.000 đồng",
+      desc: "Thu nhập từ tiền lương của chồng trong thời kỳ hôn nhân là tài sản chung của vợ chồng và người chồng được quyền sử dụng tài sản này bình đẳng như người vợ.",
       url: "https://f46s2.app.goo.gl/oivW",
-      icon: "http://image.plo.vn/w653/Uploaded/2018/wpdhnwcjw/2018_11_08/plo-tret-ot-vao-mat-cuop-tien-tai-tru-atm_epzz.jpg",
+      icon: "https://image.plo.vn/w653/Uploaded/2019/cqjwqcdwp/2019_01_26/tien-thuong-tet_lzva_thumb.jpg",
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
