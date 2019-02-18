@@ -154,10 +154,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "[Video] Chơi trò mạo hiểm, du khách thoát chết trong gang tấc",
-      desc: "Nhảy trên lối đi đứt đoạn cao chênh vênh, người đàn ông không nhận ra dây bảo hộ đã tuột ra mà bên dưới không hề có lưới bảo hộ.",
+      title: "Rủ người lạ vào lô cao su quan hệ thì bị truy sát, cướp",
+      desc: "Thấy nam thanh niên đứng đón xe đêm vắng, người đàn ông liền rủ vào lô cao su để 'vui vẻ' thì bị đánh ngất xỉu, cướp tài sản.",
       url: "https://f46s2.app.goo.gl/kM93",
-      icon: "https://i-dulich.vnecdn.net/2018/10/06/mires-abajo-vertigo-MEDVID2017-9749-2503-1538815720.jpg",
+      icon: "https://image.plo.vn/w653/Uploaded/2019/azmtn/2019_02_18/an-mang_slyf.jpg",
       weight: 1000,
       pkg_name: "baodientu.tintuc.android",
       action_name: "Cài Đặt"
@@ -208,15 +208,6 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Người đàn ông bán quần áo âm mưu giết bạn để đoạt vợ bạn",
-      desc: "Yêu đơn phương nên bị cáo đã nảy sinh ý định giết bạn để chiếm đoạt vợ của bạn.",
-      url: "https://f46s2.app.goo.gl/H9aX",
-      icon: "https://image.plo.vn/w653/Uploaded/2019/qxwpwqdwp/2018_10_31/giet-ban-doat-vo_nles.jpg",
-      weight: 1000,
-      pkg_name: "tintuc.pl.tonghop",
-      action_name: "Cài Đặt"
-    },
-    {
       title: "Rùng rợn quá trình gây án vụ sát hại nữ sinh giao gà",
       desc: "Cô gái Nga bị cảnh sát bắt vì hành vi môi giới mại dâm, các thành viên trong đường dây đều là người nước ngoài.",
       url: "https://f46s2.app.goo.gl/9HNt",
@@ -239,15 +230,6 @@
       desc: "Tin tức nhanh - mới - nóng nhất đang diễn ra về: kinh tế, chính trị, xã hội, thế giới, giáo dục, thể thao, văn hóa, giải trí, công nghệ.",
       url: "https://f46s2.app.goo.gl/bkAH",
       icon: "https://1.bp.blogspot.com/-mMZ-91gx07w/WqCuzVq5zOI/AAAAAAAAJEA/iu6QLNg387cyi2zuDdQYnfFCAxV4cTMsACLcBGAs/s320/logo_content.png",
-      weight: 1000,
-      pkg_name: "timm.online.tuoitre",
-      action_name: "Cài Đặt"
-    },
-    {
-      title: "Nam thanh niên nghi bị trăn quấn chết ở Đồng Nai",
-      desc: "Một nam thanh niên làm công cho hộ dân trên địa bàn xã Bắc Sơn, huyện Trảng Bom (Đồng Nai) nằm chết bên cạnh lồng nuôi nhốt trăn.",
-      url: "https://f46s2.app.goo.gl/d7zv",
-      icon: "https://cdn.tuoitre.vn/thumb_w/640/2018/11/4/tran-2-15412661870861190304735.jpg",
       weight: 1000,
       pkg_name: "timm.online.tuoitre",
       action_name: "Cài Đặt"
