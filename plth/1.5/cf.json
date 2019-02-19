@@ -10,12 +10,12 @@
           provider_id: "f_search",
           pid: "plo_home",
           group_id: "f_search",
-          url: "http://plo.vn/api/search.json?",
+          url: "https://plo.vn/api/search.json?",
           param_funcs: {
             keyword: "pb_keyword"
           },
           page_type: "fixed",
-          detail_url: "http://plo.vn/api/media.json?",
+          detail_url: "https://plo.vn/api/media.json?",
           detail_params: {
             contentid: "post.id"
           }
@@ -50,10 +50,10 @@
           provider_id: "media",
           pid: "plo_home",
           group_id: "media",
-          url: "http://plo.vn/api/contents.json?zoneid=25&",
+          url: "https://plo.vn/api/contents.json?zoneid=25&",
           page_var: "page",
           page_type: "normal,1",
-          detail_url: "http://plo.vn/api/media.json?",
+          detail_url: "https://plo.vn/api/media.json?",
           detail_params: {
             contentid: "post.id"
           }
@@ -89,10 +89,10 @@
           provider_id: "plo",
           pid: "plo_home",
           group_id: "plo",
-          url: "http://plo.vn/api/contents.json?zoneid=114&",
+          url: "https://plo.vn/api/contents.json?zoneid=114&",
           page_var: "page",
           page_type: "normal,1",
-          detail_url: "http://plo.vn/api/media.json?",
+          detail_url: "https://plo.vn/api/media.json?",
           detail_params: {
             contentid: "post.id"
           }
