@@ -165,10 +165,10 @@
           provider_id: "vnn",
           pid: "vnn_home",
           group_id: "vnn",
-          url: "http://vietnamnet.vn/jsx/category/?c=phap-luat&",
+          url: "https://vietnamnet.vn/jsx/category/?c=phap-luat&",
           page_var: "p",
           page_type: "normal,1",
-          detail_url: "http://vietnamnet-a.1api.vn/jsx/detail/?a={post.id}"
+          detail_url: "https://vietnamnet-a.1api.vn/jsx/detail/?a={post.id}"
         }
       ]
     },
