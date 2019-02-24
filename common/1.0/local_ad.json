@@ -145,10 +145,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Ký ức về cuộc chiến bảo vệ biên giới phía Bắc tháng 2-1979",
-      desc: "Ông Nguyễn Xuân Thu, người đã có mặt trong cuộc chiến đấu bảo vệ biên giới phía Bắc, chia sẻ những ký ức của mình về buổi sáng ngày 17-2-1979...",
+      title: "Tổng hợp thông tin về hội nghị Thượng đỉnh Mỹ - Triều Hà Nội",
+      desc: "Tổng hợp thông tin về hội nghị Thượng đỉnh Mỹ - Triều Hà Nội",
       url: "https://f46s2.app.goo.gl/u7mT",
-      icon: "https://image.plo.vn/w653/Uploaded/2019/ernccqrwq/2019_02_13/chientranhbiengioi19793jpg_fgty.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/02/24/download-4-4541-1550912037-6387-1550998818.jpg",
       weight: 1000,
       pkg_name: "baodientu.tintuc.android",
       action_name: "Cài Đặt"
