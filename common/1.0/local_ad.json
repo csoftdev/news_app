@@ -109,10 +109,10 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Chuyên gia bóng đá quốc tế ngả mũ trước chiến thắng của Việt Nam",
-      desc: "Ký giả của các tờ báo thể thao châu Á ấn tượng với chiến thắng của tuyển Việt Nam trước Jordan.",
+      title: "Báo chí quốc tế viết về sự chào đón của Việt Nam với Chủ tịch Kim Jong-un",
+      desc: "Truyền thông quốc tế ấn tượng với cảnh người dân Việt Nam đổ ra đường chào đón Chủ tịch Triều Tiên Kim Jong-un",
       url: "https://f46s2.app.goo.gl/mBFv",
-      icon: "https://i-thethao.vnecdn.net/2019/01/21/Untitled-4993-1548044330.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/02/26/1-5330-1551172244.jpg",
       weight: 1000,
       pkg_name: "fb.baomoi.tin19h",
       action_name: "Cài đặt"
