@@ -190,10 +190,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Sốc với cảnh nghèo khó của người vô gia cư Paris",
-      desc: "Thủ đô của nước Pháp không chỉ có tháp Eiffel, những cửa hàng bán đồ hiệu mà còn có cảnh nghèo khổ khiến nhiều du khách sốc",
+      title: "Ấn Độ và Pakistan bắn hạ tiêm kích của nhau ở biên giới",
+      desc: "Sau khi bị không quân Pakistan hạ hai tiêm kích, Ấn Độ đáp trả bằng việc bắn rơi chiến đấu cơ F-16 của đối phương",
       url: "https://f46s2.app.goo.gl/PWoz",
-      icon: "https://i-dulich.vnecdn.net/2018/10/10/7-1539161553_680x0.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/02/27/53410287-2230238487304093-5148-5852-4834-1551253518.jpg",
       weight: 1000,
       pkg_name: "com.tintuc.thegioi",
       action_name: "Cài Đặt"
