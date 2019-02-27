@@ -172,10 +172,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Siêu bão cuốn rắn độc “bay tứ tung” ở Mỹ",
-      desc: "Những con rắn lục miệng bông nguy hiểm chết người vừa được phát hiện trong vùng nước ngập ở bang Bắc Carolina nước Mỹ sau khi siêu bão Florence ",
+      title: "Xác cá voi 10 tấn trong rừng Amazon khiến chuyên gia bối rối",
+      desc: "Con cá voi lưng gù dài 11 mét được phát hiện đã chết trong rừng rậm Amazon, cách xa môi trường sống tự nhiên.",
       url: "https://f46s2.app.goo.gl/phAb",
-      icon: "http://img.khoahoc.tv/photos/image/2018/09/20/ran-luc-mieng-bong.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/02/25/VNEWhale-1551070197-4997-1551070282_220x132.jpg",
       weight: 1000,
       pkg_name: "tintuc.khoahoc.doisong",
       action_name: "Cài Đặt"
