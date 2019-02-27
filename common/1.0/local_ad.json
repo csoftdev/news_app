@@ -154,10 +154,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Rủ người lạ vào lô cao su quan hệ thì bị truy sát, cướp",
-      desc: "Thấy nam thanh niên đứng đón xe đêm vắng, người đàn ông liền rủ vào lô cao su để 'vui vẻ' thì bị đánh ngất xỉu, cướp tài sản.",
+      title: "Những hình ảnh ấn tượng trong cuộc gặp của lãnh đạo Mỹ - Triều tại Hà Nội",
+      desc: "Tổng thống Donald Trump và Chủ tịch Kim Jong-un tươi cười bắt tay nhau, trò chuyện cởi mở trước khi cùng dùng bữa tối",
       url: "https://f46s2.app.goo.gl/kM93",
-      icon: "https://image.plo.vn/w653/Uploaded/2019/azmtn/2019_02_18/an-mang_slyf.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/02/27/cuoc-gap-dau-tien-cua-lanh-dao-my-trieu-tai-ha-noi-1551275099_500x300.jpg",
       weight: 1000,
       pkg_name: "baodientu.tintuc.android",
       action_name: "Cài Đặt"
@@ -226,10 +226,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Tin tức, tin nóng, đọc báo điện tử - Tuổi Trẻ Online",
-      desc: "Tin tức nhanh - mới - nóng nhất đang diễn ra về: kinh tế, chính trị, xã hội, thế giới, giáo dục, thể thao, văn hóa, giải trí, công nghệ.",
+      title: "Phóng viên quốc tế ở Việt Nam: Để ba lô ngoài đường nửa tiếng vẫn an toàn",
+      desc: "Harris, phóng viên Reuters, từng treo thiết bị ở hàng rào an ninh trước cửa khách sạn Marriott (Hà Nội) để đi ăn sáng, 30 phút sau mới quay lại.",
       url: "https://f46s2.app.goo.gl/bkAH",
-      icon: "https://1.bp.blogspot.com/-mMZ-91gx07w/WqCuzVq5zOI/AAAAAAAAJEA/iu6QLNg387cyi2zuDdQYnfFCAxV4cTMsACLcBGAs/s320/logo_content.png",
+      icon: "https://i-giadinh.vnecdn.net/2019/02/27/4-4327-1551258490.jpg",
       weight: 1000,
       pkg_name: "timm.online.tuoitre",
       action_name: "Cài Đặt"
