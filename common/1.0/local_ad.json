@@ -136,10 +136,10 @@
       action_name: "Tải App Để Đọc Tin"
     },
     {
-      title: "Em bé sơ sinh nhỏ như củ hành",
-      desc: "Bé trai Nhật Bản nặng 268 g là bé sơ sinh nhẹ nhất thế giới xuất viện trong tình trạng khỏe mạnh",
+      title: "Ấn Độ - Pakistan bên bờ vực chiến tranh",
+      desc: "Ấn Độ và Pakistan bắn hạ máy bay của nhau khiến căng thẳng sôi sục nhưng tình hình được xoa dịu nhờ vụ phóng thích phi công Ấn Độ.",
       url: "https://f46s2.app.goo.gl/nKwP",
-      icon: "https://i-suckhoe.vnecdn.net/2019/02/28/untitled-1551316302-8328-1551316447.png",
+      icon: "https://i-vnexpress.vnecdn.net/2019/03/02/28india-pakistan2-jumbo-6572-1551508300.jpg",
       weight: 1000,
       pkg_name: "com.tintuc.thegioi",
       action_name: "Cài Đặt"
