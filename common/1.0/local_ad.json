@@ -226,10 +226,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Phóng viên quốc tế ở Việt Nam: Để ba lô ngoài đường nửa tiếng vẫn an toàn",
-      desc: "Harris, phóng viên Reuters, từng treo thiết bị ở hàng rào an ninh trước cửa khách sạn Marriott (Hà Nội) để đi ăn sáng, 30 phút sau mới quay lại.",
+      title: "Đan Mạch truy tố 14 người chia sẻ video chặt đầu trên mạng xã hội",
+      desc: "Cảnh sát cho biết 14 người này vi phạm bộ luật hình sự Đan Mạch khi chia sẻ video một nữ du khách bị những kẻ cuồng tín IS chặt đầu",
       url: "https://f46s2.app.goo.gl/bkAH",
-      icon: "https://i-giadinh.vnecdn.net/2019/02/27/4-4327-1551258490.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/03/09/chat-dau-6807-1552094233.jpg",
       weight: 1000,
       pkg_name: "timm.online.tuoitre",
       action_name: "Cài Đặt"
