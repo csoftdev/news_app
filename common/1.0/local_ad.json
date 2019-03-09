@@ -136,10 +136,10 @@
       action_name: "Tải App Để Đọc Tin"
     },
     {
-      title: "Ấn Độ - Pakistan bên bờ vực chiến tranh",
-      desc: "Ấn Độ và Pakistan bắn hạ máy bay của nhau khiến căng thẳng sôi sục nhưng tình hình được xoa dịu nhờ vụ phóng thích phi công Ấn Độ.",
+      title: "Tỷ phú kim cương Bỉ tử vong khi phẫu thuật làm lớn cậu nhỏ",
+      desc: "Những biến chứng cùng cơn đau tim trong quá trình phẫu thuật làm tăng kích thước dương vật được cho là đã khiến ông Ehud Arye Laniado tử vong.",
       url: "https://f46s2.app.goo.gl/nKwP",
-      icon: "https://i-vnexpress.vnecdn.net/2019/03/02/28india-pakistan2-jumbo-6572-1551508300.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/03/07/Laniado-9501-1551929606.jpg",
       weight: 1000,
       pkg_name: "com.tintuc.thegioi",
       action_name: "Cài Đặt"
