@@ -145,10 +145,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Chuyên gia lý giải việc Trump - Kim không đạt được thỏa thuận",
-      desc: "Giới phân tích cho rằng Washington đã quá vội vàng xúc tiến hội nghị thượng đỉnh lần hai với Triều Tiên.",
+      title: "Biểu tình áo vàng biến thành bạo động ở Paris, hơn 200 người bị bắt",
+      desc: "Người biểu tình đốt ngân hàng và đập phá các cửa hàng ở thủ đô của Pháp khi cuộc biểu tình của phe áo vàng bước vào tháng thứ tư.",
       url: "https://f46s2.app.goo.gl/u7mT",
-      icon: "https://i-vnexpress.vnecdn.net/2019/02/28/trumpkimfailed-5729-1551342159.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/03/17/ao-vang-1-4743-1552780193.jpg",
       weight: 1000,
       pkg_name: "baodientu.tintuc.android",
       action_name: "Cài Đặt"
