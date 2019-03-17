@@ -10,22 +10,13 @@
       action_name: "Cài Đặt Ngay"
     },
     {
-      title: "Silax HD Wallpapers",
+      title: "Ảnh nền cho Samsung Galaxy S10",
       desc: "Thỏa sức làm mới dế với hàng triệu ảnh nền chất lượng cao",
       url: "https://f46s2.app.goo.gl/Vcf5",
       icon: "https://2.bp.blogspot.com/-OnCRuYgEneA/WxVci_8fn_I/AAAAAAAAJps/o64x-Cex2_MJ8aSos0ehnXlbhG8rsxa8wCLcBGAs/s320/logo_new_fill.jpg",
       weight: 200,
       pkg_name: "com.andatsoft.app.silax",
       action_name: "Cài Đặt Ngay"
-    },
-    {
-      title: "Đọc báo nhiều có mệt không?. Giải trí với trò chơi Truy Tìm Pika!",
-      desc: "Trải nghiệm trò chơi giải trí mới. Bắt Pika để trở thành thợ săn Pika chuyên nghiệp nhé",
-      url: "https://f46s2.app.goo.gl/zFKt",
-      icon: "https://2.bp.blogspot.com/-mgjIe1TJHzM/W9BlXaL6sPI/AAAAAAAAK3Y/H9wi6IMtkd8imANc6c5yl3XlHW0B4xGrgCLcBGAs/s320/logo_fill.jpg",
-      weight: 1000,
-      pkg_name: "com.andatsoft.app.pika",
-      action_name: "Bắt Pika ngay"
     },
     {
       title: "Xin 1 vé về tuổi thơ với trò chơi tìm số trên Android",
@@ -73,7 +64,7 @@
       action_name: "Xem ngay"
     },
     {
-      title: "Tử vi trọn đời 12 con giáp",
+      title: "Đầu tuần xem ngày tốt, cả tuần đón bình an",
       desc: "Cùng xem tử vi trọn đời cho 12 con giáp",
       url: "https://f46s2.app.goo.gl/ivoE",
       icon: "https://3.bp.blogspot.com/-O0yHlIfFIPs/XC9ZwMeBbMI/AAAAAAAALaw/amsLoan029MT6lqnFzT9QeOfGgn0NRxyACLcBGAs/s1600/ic_con_giap_10.png",
