@@ -190,10 +190,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Xả súng trong quán bar ở Mỹ làm 12 người thiệt mạng",
-      desc: "Ít nhất 12 người thiệt mạng sau khi một tay súng quăng lựu đạn khói, bắn khoảng 30 phát đạn vào đám đông tại một quán bar ở California",
+      title: "Đang ngủ trong nhà, vợ chồng bị xe ben tông chết",
+      desc: "Chiếc xe ben chở cát đã tông sập căn nhà ở Bình Phước làm hai vợ chồng tử vong, bé gái 3 tuổi may mắn thoát nạn.",
       url: "https://f46s2.app.goo.gl/WVhB",
-      icon: "http://image.plo.vn/w653/Uploaded/2018/zsgkqzbtgazs/2018_10_02/hinh_feho.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/03/24/xe-ben-6708-1553412989.jpg",
       weight: 1000,
       pkg_name: "baodientu.tintuc.android",
       action_name: "Cài Đặt"
