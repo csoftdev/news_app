@@ -199,10 +199,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Rùng rợn quá trình gây án vụ sát hại nữ sinh giao gà",
-      desc: "Cô gái Nga bị cảnh sát bắt vì hành vi môi giới mại dâm, các thành viên trong đường dây đều là người nước ngoài.",
+      title: "Kinh hoàng xe bus tông hàng loạt xe chờ đèn đỏ",
+      desc: "Một vụ tai nạn xe bus nghiêm trọng xảy ra ở thủ đô Nur-Sultan (tên cũ là Astana) của Kazakhstan",
       url: "https://f46s2.app.goo.gl/9HNt",
-      icon: "https://image.plo.vn/w653/Uploaded/2019/cdhnwyqjw/2019_02_18/hiep-dam_czhw_thumb.jpg",
+      icon: "https://image.plo.vn/188x135/Uploaded/2019/ycivolcg/2019_03_28/tong-xe_vjif.jpg",
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
