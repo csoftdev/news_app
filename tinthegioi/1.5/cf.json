@@ -97,7 +97,7 @@
           url: "https://vietnamnet.vn/jsx/category/?c=the-gioi&",
           page_var: "p",
           page_type: "normal,1",
-          detail_url: "http://vietnamnet.vn/jsx/detail/?a={post.id}"
+          detail_url: "https://vietnamnet.vn/jsx/detail/?a={post.id}"
         }
       ]
     },
