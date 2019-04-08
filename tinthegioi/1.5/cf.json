@@ -74,12 +74,13 @@
       provider_cf: [
         {
           provider_id: "dantri",
-          pid: "dantri",
+          pid: "fpm",
           group_id: "dantri",
-          url: "http://api.chiennn.me/mobile/post?access_key=4297f44b13955235245b2497399d7a93&limit=20&&filter=[{\"column\":\"cate_id\",\"operator\":\"matches_any\",\"value\":\"133\"}]",
-          page_var: "page",
-          page_type: "normal,1",
-          detail_url: "http://api.chiennn.me/mobile/post/{post.id}?access_key=4297f44b13955235245b2497399d7a93"
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=4&cid=4&count=30&",
+          page_var: "lid",
+          page_type: "custom,0",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/relativev2?lid={post.id}"
         }
       ]
     },
@@ -93,10 +94,10 @@
           provider_id: "vnn",
           pid: "vnn",
           group_id: "vnn",
-          url: "http://vietnamnet.vn/jsx/category/?c=the-gioi&",
+          url: "https://vietnamnet.vn/jsx/category/?c=the-gioi&",
           page_var: "p",
           page_type: "normal,1",
-          detail_url: "http://vietnamnet-a.1api.vn/jsx/detail/?a={post.id}"
+          detail_url: "http://vietnamnet.vn/jsx/detail/?a={post.id}"
         }
       ]
     },
@@ -139,19 +140,20 @@
       ]
     },
     {
-      name: "Zing News",
+      name: "Việt Báo",
       type: 0,
       use_char_icon: true,
-      res_icon_name: "char_ZN",
+      res_icon_name: "char_VB",
       provider_cf: [
         {
-          provider_id: "zing",
-          pid: "dantri",
-          group_id: "zing",
-          url: "http://api.chiennn.me/mobile/post?access_key=4297f44b13955235245b2497399d7a93&limit=20&&filter=[{\"column\":\"cate_id\",\"operator\":\"matches_any\",\"value\":\"155\"}]",
-          page_var: "page",
-          page_type: "normal,1",
-          detail_url: "http://api.chiennn.me/mobile/post/{post.id}?access_key=4297f44b13955235245b2497399d7a93"
+          provider_id: "vb",
+          pid: "fpm",
+          group_id: "vb",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=70&cid=2&count=30&",
+          page_var: "lid",
+          page_type: "custom,0",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/relativev2?lid={post.id}"
         }
       ]
     }
