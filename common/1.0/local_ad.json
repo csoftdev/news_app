@@ -170,6 +170,14 @@
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
+    },
+    {
+      title: "Cười Rụng Răng 2018 - Phim Hài Mới Nhất 2018 - Phim Hay xem là Cười",
+      desc: "Cười Rụng Răng 2018 - Phim Hài Mới Nhất 2018 - Phim Hay xem là Cười",
+      url: "https://f46s2.app.goo.gl/8QDP",
+      icon: "https://img.youtube.com/vi/Xnqd6ki11Mk/mqdefault.jpg",
+      weight: 1000,
+      action_name: "Xem ngay"
     }
   ]
 }
