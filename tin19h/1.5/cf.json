@@ -217,74 +217,22 @@
       ]
     },
     {
-      name: "Cẩm nang",
-      type: 0,
+      name: "Thông báo",
+      type: 2000,
       use_char_icon: true,
-      res_icon_name: "cat_can_biet",
+      res_icon_name: "cat_ic_info",
       provider_cf: [
         {
-          provider_id: "5pl_cnang",
-          pid: "n24_home",
-          group_id: "cam_nang",
-          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=14&count=30",
-          page_var: "lid",
-          page_type: "custom",
+          provider_id: "baodientu.tintuc.android",
+          pid: "plo_home",
+          group_id: "trang_chu",
+          url: "",
+          page_var: "page",
+          page_type: "normal,1",
           detail_url: "",
-          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
-        }
-      ]
-    },
-    {
-      name: "Xe+",
-      type: 0,
-      use_char_icon: true,
-      res_icon_name: "cat_xe",
-      provider_cf: [
-        {
-          provider_id: "5pl_xe",
-          pid: "n24_home",
-          group_id: "xe",
-          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=15&count=30",
-          page_var: "lid",
-          page_type: "custom",
-          detail_url: "",
-          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
-        }
-      ]
-    },
-    {
-      name: "Tâm sự",
-      type: 0,
-      use_char_icon: true,
-      res_icon_name: "cat_tam_su",
-      provider_cf: [
-        {
-          provider_id: "5pl_tsu",
-          pid: "n24_home",
-          group_id: "tam_su",
-          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=9&count=30",
-          page_var: "lid",
-          page_type: "custom",
-          detail_url: "",
-          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
-        }
-      ]
-    },
-    {
-      name: "Cộng đồng",
-      type: 0,
-      use_char_icon: true,
-      res_icon_name: "cat_cong_dong",
-      provider_cf: [
-        {
-          provider_id: "5pl_cdong",
-          pid: "n24_home",
-          group_id: "cong_dong",
-          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=16&count=30",
-          page_var: "lid",
-          page_type: "custom",
-          detail_url: "",
-          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
+          detail_params: {
+            contentid: "post.id"
+          }
         }
       ]
     }
