@@ -109,10 +109,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Mục sư Mỹ lừa 25 triệu USD của hàng trăm người Việt ở Mỹ",
-      desc: "Nghi phạm sử dụng kênh YouTube và quảng cáo trên đài truyền hình, phát thanh tiếng Việt để lừa tiền người cao tuổi gốc Việt ở bang California",
+      title: "Ngư dân bị mũi cá kiếm đâm thấu phổi",
+      desc: "Trong lúc nô đùa trên thuyền đánh cá, người đàn ông ở Vũng Tàu bị bạn dùng mũi con cá kiếm đâm xuyên vào phổi.",
       url: "https://f46s2.app.goo.gl/kM93",
-      icon: "https://i-vnexpress.vnecdn.net/2019/04/01/DP-Lua-Dao-2-4360-1554113317.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/04/12/img-20190412-154352-001-2376-1-8959-5003-1555069244.png",
       weight: 1000,
       pkg_name: "baodientu.tintuc.android",
       action_name: "Cài Đặt"
