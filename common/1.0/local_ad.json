@@ -154,10 +154,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Kinh hoàng xe bus tông hàng loạt xe chờ đèn đỏ",
-      desc: "Một vụ tai nạn xe bus nghiêm trọng xảy ra ở thủ đô Nur-Sultan (tên cũ là Astana) của Kazakhstan",
+      title: "Người đàn ông dâm ô bé gái 11 tuổi trong ngõ vắng ở Hà Nội",
+      desc: "Sau khi uống bia một mình, Phúc lừa hai bé gái vào ngõ vắng sau đó sờ soạng bé gái 11 tuổi để thoả mãn ham muốn.",
       url: "https://f46s2.app.goo.gl/9HNt",
-      icon: "https://image.plo.vn/188x135/Uploaded/2019/ycivolcg/2019_03_28/tong-xe_vjif.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/04/15/xa-m-ha-i-1593-1555158210-6295-1555324404.jpg",
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
