@@ -178,6 +178,14 @@
       icon: "https://image.thanhnien.vn/665/uploaded/hoangquynh/2019_04_22/quachthilan1-doclap_whll.jpg",
       weight: 1000,
       action_name: "Đọc ngay"
+    },
+    {
+      title: "Tử hình kẻ giết, hiếp dâm một phụ nữ bị bắt gặp đi cùng đàn ông",
+      desc: "Tòa phúc thẩm tuyên y án tử hình đối với Nguyễn Văn Thu - kẻ sát hại, hiếp dâm, cướp tài sản một phụ nữ mà Thu bắt gặp đi cùng một người đàn ông.",
+      url: "https://f46s2.app.goo.gl/yGii",
+      icon: "https://image.thanhnien.vn/660/uploaded/quyentn/bicaothu1_skid.jpg",
+      weight: 1000,
+      action_name: "Đọc ngay"
     }
   ]
 }
