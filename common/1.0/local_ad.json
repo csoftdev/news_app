@@ -136,10 +136,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Đường dây chạy vào đại học danh giá của Mỹ hoạt động như thế nào?",
-      desc: "Kẻ cầm đầu đường dây dùng tiền của các phụ huynh chuyển cho dưới danh nghĩa từ thiện để đi hối lộ và gian lận kết quả bài thi.",
+      title: "Tai nạn liên hoàn trên cao tốc Mỹ, nhiều người chết",
+      desc: "Vụ tai nạn liên hoàn trên một cao tốc bang Colorado, Mỹ thiêu rụi 12 xe hơi và 3 xe đầu kéo, gây thương vong lớn.",
       url: "https://f46s2.app.goo.gl/PWoz",
-      icon: "https://i-vnexpress.vnecdn.net/2019/03/14/10900964-6800929-image-a-22-15-6128-2892-1552556941.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/04/26/127374486961941imagea871556253-7033-6166-1556277026_140x84.jpg",
       weight: 1000,
       pkg_name: "com.tintuc.thegioi",
       action_name: "Cài Đặt"
@@ -177,6 +177,7 @@
       url: "https://f46s2.app.goo.gl/yGii",
       icon: "https://image.thanhnien.vn/665/uploaded/hoangquynh/2019_04_22/quachthilan1-doclap_whll.jpg",
       weight: 1000,
+      pkg_name: "tintuc.tonghop.online",
       action_name: "Đọc ngay"
     },
     {
@@ -185,6 +186,7 @@
       url: "https://f46s2.app.goo.gl/yGii",
       icon: "https://image.thanhnien.vn/660/uploaded/quyentn/bicaothu1_skid.jpg",
       weight: 1000,
+      pkg_name: "tintuc.tonghop.online",
       action_name: "Đọc ngay"
     }
   ]
