@@ -136,10 +136,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Tai nạn liên hoàn trên cao tốc Mỹ, nhiều người chết",
-      desc: "Vụ tai nạn liên hoàn trên một cao tốc bang Colorado, Mỹ thiêu rụi 12 xe hơi và 3 xe đầu kéo, gây thương vong lớn.",
+      title: "Tương lai Venezuela sau cuộc đảo chính thất bại của phe đối lập",
+      desc: "Cuộc đảo chính là nỗ lực thất bại của phe đối lập để lật đổ Maduro, nhưng tình hình vẫn có thể diễn biến phức tạp.",
       url: "https://f46s2.app.goo.gl/PWoz",
-      icon: "https://i-vnexpress.vnecdn.net/2019/04/26/127374486961941imagea871556253-7033-6166-1556277026_140x84.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/05/02/HTHBQQTLQAI6TJTNVAWT6PMW2U-5123-1556770858.jpg",
       weight: 1000,
       pkg_name: "com.tintuc.thegioi",
       action_name: "Cài Đặt"
@@ -170,24 +170,6 @@
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
-    },
-    {
-      title: "Quách Thị Lan đoạt HCV 400m rào châu Á",
-      desc: "Á quân ASIAD 2018 Quách Thị Lan xuất sắc đoạt HCV nội dung 400m rào tại giải vô địch điền kinh châu Á",
-      url: "https://f46s2.app.goo.gl/yGii",
-      icon: "https://image.thanhnien.vn/665/uploaded/hoangquynh/2019_04_22/quachthilan1-doclap_whll.jpg",
-      weight: 1000,
-      pkg_name: "tintuc.tonghop.online",
-      action_name: "Đọc ngay"
-    },
-    {
-      title: "Tử hình kẻ giết, hiếp dâm một phụ nữ bị bắt gặp đi cùng đàn ông",
-      desc: "Tòa phúc thẩm tuyên y án tử hình đối với Nguyễn Văn Thu - kẻ sát hại, hiếp dâm, cướp tài sản một phụ nữ mà Thu bắt gặp đi cùng một người đàn ông.",
-      url: "https://f46s2.app.goo.gl/yGii",
-      icon: "https://image.thanhnien.vn/660/uploaded/quyentn/bicaothu1_skid.jpg",
-      weight: 1000,
-      pkg_name: "tintuc.tonghop.online",
-      action_name: "Đọc ngay"
     }
   ]
 }
