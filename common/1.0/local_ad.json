@@ -145,30 +145,12 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Người xâm phạm thân thể bé gái trong thang máy là cựu Viện phó VKS",
-      desc: "Ông Linh từ Đà Nẵng vào thăm người thân ở chung cư quận 4, TP HCM, có hành vi khống chế, hôn bé gái trong thang máy.",
+      title: "Nông dân đào được hũ tiền cổ 36 kg",
+      desc: "Đồng tiền có đường kính hơn 2 cm, ở giữa có lỗ vuông, xung quanh có bốn chữ Hán, nhưng đã bị hoen gỉ nhiều.",
       url: "https://f46s2.app.goo.gl/WVhB",
-      icon: "https://i-vnexpress.vnecdn.net/2019/04/03/dam-o-thang-may-7259-155421261-2401-6935-1554277383.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/05/02/58578371-2686018328107539-3230-3138-4741-1556765403.jpg",
       weight: 1000,
       pkg_name: "baodientu.tintuc.android",
-      action_name: "Cài Đặt"
-    },
-    {
-      title: "Người đàn ông dâm ô bé gái 11 tuổi trong ngõ vắng ở Hà Nội",
-      desc: "Sau khi uống bia một mình, Phúc lừa hai bé gái vào ngõ vắng sau đó sờ soạng bé gái 11 tuổi để thoả mãn ham muốn.",
-      url: "https://f46s2.app.goo.gl/9HNt",
-      icon: "https://i-vnexpress.vnecdn.net/2019/04/15/xa-m-ha-i-1593-1555158210-6295-1555324404.jpg",
-      weight: 1000,
-      pkg_name: "tintuc.pl.tonghop",
-      action_name: "Cài Đặt"
-    },
-    {
-      title: "Diễn biến vụ xả súng khiến 49 người chết ở nhà thờ Hồi giáo New Zealand",
-      desc: "Tarrant mang theo nhiều vũ khí, xả súng bừa bãi ở nhà thờ Al Noor rồi di chuyển tới trung tâm Hồi giáo gần đó để tiếp tục thảm sát.",
-      url: "https://f46s2.app.goo.gl/oivW",
-      icon: "https://i-vnexpress.vnecdn.net/2019/03/16/AP-19074077837033-640x400-4058-1552711126.jpg",
-      weight: 1000,
-      pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
     }
   ]
