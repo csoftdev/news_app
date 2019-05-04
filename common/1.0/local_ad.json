@@ -152,6 +152,15 @@
       weight: 1000,
       pkg_name: "baodientu.tintuc.android",
       action_name: "Cài Đặt"
+    },
+    {
+      title: "Sự kiện thể thao, bóng đá nổi bật hôm nay",
+      desc: "Thông tin thể thao, bóng đá tổng hợp chọn lọc từ nhiều nguồn.",
+      url: "https://f46s2.app.goo.gl/wqii",
+      icon: "https://i-thethao.vnecdn.net/2019/05/04/top-1556926917-8722-1556926922_180x108.jpg",
+      weight: 1000,
+      pkg_name: "tinbongda.ngoaihang24h",
+      action_name: "Cài Đặt"
     }
   ]
 }
