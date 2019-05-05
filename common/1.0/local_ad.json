@@ -91,10 +91,10 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Tỷ phú kim cương Bỉ tử vong khi phẫu thuật làm lớn cậu nhỏ",
-      desc: "Những biến chứng cùng cơn đau tim trong quá trình phẫu thuật làm tăng kích thước dương vật được cho là đã khiến ông Ehud Arye Laniado tử vong.",
+      title: "Cảnh sát Mỹ bị tông bay xuống hồ",
+      desc: "Sau cú đâm trực diện, chiếc SUV xoay 180 độ và hất viên cảnh sát cùng môtô xuống bể nước bên đường ở Los Angeles, Mỹ.",
       url: "https://f46s2.app.goo.gl/nKwP",
-      icon: "https://i-vnexpress.vnecdn.net/2019/03/07/Laniado-9501-1551929606.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/05/04/ezgif3c562b6eaa41b-1556961729-7941-1556962173_140x84.gif",
       weight: 1000,
       pkg_name: "com.tintuc.thegioi",
       action_name: "Cài Đặt"
