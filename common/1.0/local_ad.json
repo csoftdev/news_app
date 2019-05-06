@@ -161,6 +161,15 @@
       weight: 1000,
       pkg_name: "tinbongda.ngoaihang24h",
       action_name: "Cài Đặt"
+    },
+    {
+      title: "Cầu thủ Bình Dương bị chấn động não, lún thái dương",
+      desc: "Nguyễn Hùng Thiện Đức đã được cho về nhà, nhưng chưa thể quay lại tập luyện sau va chạm ở trận đấu Hà Nội hôm 5/5.",
+      url: "https://f46s2.app.goo.gl/wqii",
+      icon: "https://i-thethao.vnecdn.net/2019/05/06/1-1557109393-3547-1557109403_180x108.jpg",
+      weight: 1000,
+      pkg_name: "tinbongda.ngoaihang24h",
+      action_name: "Cài Đặt"
     }
   ]
 }
