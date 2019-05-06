@@ -154,10 +154,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Sự kiện thể thao, bóng đá nổi bật hôm nay",
+      title: "Klopp văng tục khi nhắc đến bàn thắng của học trò",
       desc: "Thông tin thể thao, bóng đá tổng hợp chọn lọc từ nhiều nguồn.",
       url: "https://f46s2.app.goo.gl/wqii",
-      icon: "https://i-thethao.vnecdn.net/2019/05/04/top-1556926917-8722-1556926922_180x108.jpg",
+      icon: "https://i-thethao.vnecdn.net/2019/05/06/untitled-1557133315-4912-1557133911_180x108.png",
       weight: 1000,
       pkg_name: "tinbongda.ngoaihang24h",
       action_name: "Cài Đặt"
