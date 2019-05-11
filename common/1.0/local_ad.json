@@ -179,6 +179,15 @@
       weight: 1000,
       pkg_name: "tintuc.tonghop.online",
       action_name: "Cài Đặt"
+    },
+    {
+      title: "[Video] Xôn xao chồng giết vợ, bỏ lò nướng đốt xác vì bị chửi",
+      desc: "Làng quê xôn xao vì chồng giết vợ, bỏ lò nướng đốt xác vì bị chửi",
+      url: "https://f46s2.app.goo.gl/yGii",
+      icon: "https://image.thanhnien.vn/150x100/uploaded/tienptc/2019_05_11/giet-vo-phi-tang-trong-lo-nuong-1105201900014021still003-15575601352011368584389_kdws.jpg",
+      weight: 1000,
+      pkg_name: "tintuc.tonghop.online",
+      action_name: "Cài Đặt"
     }
   ]
 }
