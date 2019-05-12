@@ -196,17 +196,17 @@
           provider_id: "vietnam",
           pid: "n24_home_tt247",
           group_id: "vietnam",
-          url: "http://app.thethao247.vn/api/newscat/id/1/page/{pgpage}",
+          url: "https://app.thethao247.vn/api/newscat/id/1/page/{pgpage}",
           param_funcs: {
             
           },
           page_var: "page",
           page_type: "normal,1",
-          detail_url: "http://app.thethao247.vn/api/detail/id/{post.id}",
+          detail_url: "https://app.thethao247.vn/api/detail/id/{post.id}",
           detail_params: {
             
           },
-          related_url: "http://app.thethao247.vn/api/relate/id/{post.id}"
+          related_url: "https://app.thethao247.vn/api/relate/id/{post.id}"
         }
       ]
     },
