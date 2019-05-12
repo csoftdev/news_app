@@ -7,19 +7,14 @@
       res_icon_name: "cat_home",
       provider_cf: [
         {
-          provider_id: "trang_chu",
-          pid: "n24_home",
+          provider_id: "5pl_home",
+          pid: "pl_home",
           group_id: "trang_chu",
-          url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/279,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
-          param_funcs: {
-            
-          },
-          page_var: "page",
-          page_type: "normal,1",
-          detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
-          detail_params: {
-            
-          }
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=14&cid=999&count=30&lid=0",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=14&cid=999&count=5&lid={post.id}"
         }
       ]
     },
@@ -30,7 +25,7 @@
       res_icon_name: "cat_phim",
       provider_cf: [
         {
-          provider_id: "video",
+          provider_id: "hl",
           pid: "n24_home_24h",
           group_id: "video",
           url: "https://api.appbongda24h.vn/v3/android/topic/57?tab=0&app_version=1.0.18&",
@@ -78,19 +73,14 @@
       res_icon_name: "",
       provider_cf: [
         {
-          provider_id: "chau_au",
-          pid: "n24_home",
-          group_id: "chau_au",
-          url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/184,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
-          param_funcs: {
-            
-          },
-          page_var: "page",
-          page_type: "normal,1",
-          detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
-          detail_params: {
-            
-          }
+          provider_id: "5pl_ca",
+          pid: "pl_home",
+          group_id: "5pl_ca",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=14&cid=5&count=30&lid=0",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=14&cid=5&count=5&lid={post.id}"
         }
       ]
     },
@@ -101,19 +91,14 @@
       res_icon_name: "",
       provider_cf: [
         {
-          provider_id: "anh",
-          pid: "n24_home",
-          group_id: "anh",
-          url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/172,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
-          param_funcs: {
-            
-          },
-          page_var: "page",
-          page_type: "normal,1",
-          detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
-          detail_params: {
-            
-          }
+          provider_id: "5pl_anh",
+          pid: "pl_home",
+          group_id: "5pl_anh",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=14&cid=3&count=30&lid=0",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=14&cid=3&count=5&lid={post.id}"
         }
       ]
     },
@@ -124,19 +109,14 @@
       res_icon_name: "",
       provider_cf: [
         {
-          provider_id: "tbn",
-          pid: "n24_home",
-          group_id: "tbn",
-          url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/180,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
-          param_funcs: {
-            
-          },
-          page_var: "page",
-          page_type: "normal,1",
-          detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
-          detail_params: {
-            
-          }
+          provider_id: "5pl_tbn",
+          pid: "pl_home",
+          group_id: "5pl_tbn",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=14&cid=4&count=30&lid=0",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=14&cid=4&count=5&lid={post.id}"
         }
       ]
     },
@@ -147,66 +127,14 @@
       res_icon_name: "",
       provider_cf: [
         {
-          provider_id: "duc",
-          pid: "n24_home",
-          group_id: "duc",
-          url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/193,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
-          param_funcs: {
-            
-          },
-          page_var: "page",
-          page_type: "normal,1",
-          detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
-          detail_params: {
-            
-          }
-        }
-      ]
-    },
-    {
-      name: "Pháp",
-      type: 0,
-      use_char_icon: true,
-      res_icon_name: "",
-      provider_cf: [
-        {
-          provider_id: "phap",
-          pid: "n24_home",
-          group_id: "phap",
-          url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/197,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
-          param_funcs: {
-            
-          },
-          page_var: "page",
-          page_type: "normal,1",
-          detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
-          detail_params: {
-            
-          }
-        }
-      ]
-    },
-    {
-      name: "Việt Nam",
-      type: 0,
-      use_char_icon: true,
-      res_icon_name: "",
-      provider_cf: [
-        {
-          provider_id: "vietnam",
-          pid: "n24_home_tt247",
-          group_id: "vietnam",
-          url: "https://app.thethao247.vn/api/newscat/id/1/page/{pgpage}",
-          param_funcs: {
-            
-          },
-          page_var: "page",
-          page_type: "normal,1",
-          detail_url: "https://app.thethao247.vn/api/detail/id/{post.id}",
-          detail_params: {
-            
-          },
-          related_url: "https://app.thethao247.vn/api/relate/id/{post.id}"
+          provider_id: "5pl_duc",
+          pid: "pl_home",
+          group_id: "5pl_duc",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=9&cid=5&count=30&lid=0",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=9&cid=5&count=5&lid={post.id}"
         }
       ]
     },
@@ -217,19 +145,50 @@
       res_icon_name: "",
       provider_cf: [
         {
-          provider_id: "italia",
-          pid: "n24_home",
-          group_id: "italia",
-          url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/176,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
-          param_funcs: {
-            
-          },
-          page_var: "page",
-          page_type: "normal,1",
-          detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
-          detail_params: {
-            
-          }
+          provider_id: "5pl_ita",
+          pid: "pl_home",
+          group_id: "5pl_ita",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=9&cid=4&count=30&lid=0",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=9&cid=4&count=5&lid={post.id}"
+        }
+      ]
+    },
+    {
+      name: "Champion league",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "",
+      provider_cf: [
+        {
+          provider_id: "5pl_cp",
+          pid: "pl_home",
+          group_id: "5pl_cp",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=9&cid=7&count=30&lid=0",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=9&cid=7&count=5&lid={post.id}"
+        }
+      ]
+    },
+    {
+      name: "Việt Nam",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "",
+      provider_cf: [
+        {
+          provider_id: "5pl_vn",
+          pid: "pl_home",
+          group_id: "5pl_vn",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=80&cid=1&count=30&lid=0",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=80&cid=1&count=5&lid={post.id}"
         }
       ]
     },
