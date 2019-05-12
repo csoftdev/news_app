@@ -1,5 +1,5 @@
 {
-  fpl_home: {
+  pl_home: {
     post_list: "$.linfos",
     post: {
       id: "lid",
