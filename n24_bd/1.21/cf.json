@@ -199,19 +199,14 @@
       res_icon_name: "cat_the_thao",
       provider_cf: [
         {
-          provider_id: "hau_truong",
-          pid: "n24_home",
-          group_id: "hau_truong",
-          url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/GetArticleListByCatId/188,{pgpage},10,358240054339874,bongda24h,Android,1_5,0,7979765eb3cb393fdcd06a09f651a1a1",
-          param_funcs: {
-            
-          },
-          page_var: "page",
-          page_type: "normal,1",
-          detail_url: "http://apps.bongda24h.vn/webservices/Bongda24h_vs2.svc/getArticle/{post.id},358240054339874,bongda24h,Android,1_5,0,d3002fce8bb6a7ff9b7def1d63c30b1f",
-          detail_params: {
-            
-          }
+          provider_id: "5pl_hautruong",
+          pid: "pl_home",
+          group_id: "5pl_hautruong",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=14&cid=8&count=30&lid=0",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=14&cid=8&count=5&lid={post.id}"
         }
       ]
     },
