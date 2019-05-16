@@ -181,10 +181,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "[Video] Xôn xao chồng giết vợ, bỏ lò nướng đốt xác vì bị chửi",
-      desc: "Làng quê xôn xao vì chồng giết vợ, bỏ lò nướng đốt xác vì bị chửi",
+      title: "Rợn người phát hiện hai thi thể bị đổ bêtông ở Bình Dương",
+      desc: "Hai nạn nhân được phát hiện trong khối bêtông tại căn nhà ở huyện Bàu Bàng khoảng 30-35 tuổi, cao 1,6-1,7 m",
       url: "https://f46s2.app.goo.gl/yGii",
-      icon: "https://image.thanhnien.vn/150x100/uploaded/tienptc/2019_05_11/giet-vo-phi-tang-trong-lo-nuong-1105201900014021still003-15575601352011368584389_kdws.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/05/16/xac-chet-2-7102-1558006242.jpg",
       weight: 1000,
       pkg_name: "tintuc.tonghop.online",
       action_name: "Cài Đặt"
