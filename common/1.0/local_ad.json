@@ -172,10 +172,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Hàng trăm sinh viên Úc sơ tán vì... sầu riêng",
-      desc: "Hàng trăm người tại thư viện ở thủ đô Canberra của Úc đã phải sơ tán vì mùi sầu riêng gây lầm tưởng là mùi khí gas bị rò rỉ",
+      title: "Nạn nhân trong thùng bêtông ở Bình Dương bị kích điện trước khi siết cổ chết",
+      desc: "Các nữ nghi can khai nhận do xảy ra mâu thuẫn trong sinh hoạt 'tu luyện' nên đã giết người, phi tang xác.",
       url: "https://f46s2.app.goo.gl/yGii",
-      icon: "https://image.thanhnien.vn/660/uploaded/baovinh/2019_05_11/uc_hooo.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/05/19/binh-nhua-2923-1558224495.jpg",
       weight: 1000,
       pkg_name: "tintuc.tonghop.online",
       action_name: "Cài Đặt"
