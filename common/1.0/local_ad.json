@@ -154,10 +154,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Klopp văng tục khi nhắc đến bàn thắng của học trò",
-      desc: "Thông tin thể thao, bóng đá tổng hợp chọn lọc từ nhiều nguồn.",
+      title: "Neymar bị cáo buộc hiếp dâm",
+      desc: "Một phụ nữ Brazil tố cáo siêu sao đồng hương về hành vi sai trái xảy ra hồi giữa tháng 5/2019.",
       url: "https://f46s2.app.goo.gl/wqii",
-      icon: "https://i-thethao.vnecdn.net/2019/05/06/untitled-1557133315-4912-1557133911_180x108.png",
+      icon: "https://i-thethao.vnecdn.net/2019/06/02/1549197972-277456-noticia-norm-1909-9618-1559462432.png",
       weight: 1000,
       pkg_name: "tinbongda.ngoaihang24h",
       action_name: "Cài Đặt"
@@ -181,10 +181,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Xe chở 43 công dân Trung Quốc bị lật ở Nga, hai người chết",
-      desc: "Hai người thiệt mạng và nhiều người bị thương khi một xe buýt du lịch Trung Quốc gặp nạn, được cho là do sức khỏe tài xế không tốt.",
+      title: "Vì sao người nghèo Nhật sống ở nhà riêng, người giàu sống ở chung cư",
+      desc: "Các chung cư ở Nhật Bản đều nằm trong thành phố với rất nhiều tiện ích, giá một căn chung cư thường đắt hơn nhà riêng ngoại ô.",
       url: "https://f46s2.app.goo.gl/yGii",
-      icon: "https://i-vnexpress.vnecdn.net/2019/05/28/Screen-Shot-2019-05-28-at-20-2-1746-5187-1559050117.jpg",
+      icon: "https://i-giadinh.vnecdn.net/2019/06/02/20190206041803315-1559442315-2956-1559442670.png",
       weight: 1000,
       pkg_name: "tintuc.tonghop.online",
       action_name: "Cài Đặt"
