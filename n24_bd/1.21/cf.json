@@ -19,50 +19,20 @@
       ]
     },
     {
-      name: "HighLight",
-      type: 0,
-      use_char_icon: true,
-      res_icon_name: "cat_phim",
-      provider_cf: [
-        {
-          provider_id: "hl",
-          pid: "n24_home_24h",
-          group_id: "video",
-          url: "https://api.appbongda24h.vn/v3/android/topic/57?tab=0&app_version=1.0.18&",
-          param_funcs: {
-            device_id: "getAndroidId"
-          },
-          page_var: "conditions",
-          page_type: "custom",
-          cus_page_func: "ebase64",
-          detail_url: "https://api.appbongda24h.vn/v3/android/article/{post.id}?app_version=1.0.18&get_part=-1",
-          detail_params: {
-            device_id: "getAndroidId"
-          }
-        }
-      ]
-    },
-    {
-      name: "Video",
+      name: "24H",
       type: 0,
       use_char_icon: true,
       res_icon_name: "cat_video",
       provider_cf: [
         {
-          provider_id: "video",
-          pid: "n24_home_24h",
-          group_id: "video",
-          url: "https://api.appbongda24h.vn/v3/android/topic/56?tab=0&app_version=1.0.18&",
-          param_funcs: {
-            device_id: "getAndroidId"
-          },
-          page_var: "conditions",
+          provider_id: "5pl_24h",
+          pid: "pl_home",
+          group_id: "n24h",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=3&cid=2&count=30&lid=0",
+          page_var: "lid",
           page_type: "custom",
-          cus_page_func: "ebase64",
-          detail_url: "https://api.appbongda24h.vn/v3/android/article/{post.id}?app_version=1.0.18&get_part=-1",
-          detail_params: {
-            device_id: "getAndroidId"
-          }
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=3&cid=2&count=5&lid={post.id}"
         }
       ]
     },
