@@ -163,19 +163,19 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Ông Park: 'Việt Nam không sợ Nhật Bản, Hàn Quốc thì sao phải ngại Thái Lan'",
-      desc: "HLV người Hàn Quốc, trong cuộc họp báo chiều 4/6, rất tự tin khi nói về trận đấu Thái Lan tại King's Cup 2019.",
+      title: "Thổ Nhĩ Kỳ quật ngã Pháp tại vòng loại Euro 2020",
+      desc: "Thổ Nhĩ Kỳ giành chiến thắng bất ngờ 2-0 trước những nhà đương kim vô địch World Cup, tối 8/6",
       url: "https://f46s2.app.goo.gl/wqii",
-      icon: "https://i-thethao.vnecdn.net/2019/06/04/61698988-1207264892768658-5873-8618-2052-1559640631.png",
+      icon: "https://i-thethao.vnecdn.net/2019/06/09/ka2-4119-1560034827.jpg",
       weight: 1000,
       pkg_name: "tinbongda.ngoaihang24h",
       action_name: "Cài Đặt"
     },
     {
-      title: "Nóng mạng xã hội: Clip 'hỗn chiến' giữa đường phố Sài Gòn, nằm gục vẫn bị đạp",
-      desc: "Một đoạn clip ghi lại cảnh ẩu đả kinh hoàng trên đường Lê Văn Sỹ (Q.3, TP.HCM) được chia sẻ trên mạng xã hội trong chiều nay",
+      title: "Cây sồi Trump và Macron cùng trồng ở Nhà Trắng đã chết",
+      desc: "Món quà Macron tặng Trump chỉ sống được hơn một năm sau khi bị cách ly kiểm dịch nhằm ngăn sự lây lan bệnh thực vật nước ngoài vào Mỹ.",
       url: "https://f46s2.app.goo.gl/yGii",
-      icon: "https://image.thanhnien.vn/660/uploaded/nhancnh/2019_06_04/untitled-3_gwin.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/06/09/trump-macron-7734-1560086085.jpg",
       weight: 1000,
       pkg_name: "tintuc.tonghop.online",
       action_name: "Cài Đặt"
