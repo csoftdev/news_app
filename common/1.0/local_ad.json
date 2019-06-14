@@ -154,10 +154,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Neymar bị cáo buộc hiếp dâm",
-      desc: "Một phụ nữ Brazil tố cáo siêu sao đồng hương về hành vi sai trái xảy ra hồi giữa tháng 5/2019.",
+      title: "Việt Nam vượt Thái Lan 20 bậc trên bảng điểm FIFA",
+      desc: "Thầy trò Park Hang-seo leo lên thứ 96, còn Thái Lan tụt hai bậc trong công bố của Liên đoàn bóng đá thế giới",
       url: "https://f46s2.app.goo.gl/wqii",
-      icon: "https://i-thethao.vnecdn.net/2019/06/02/1549197972-277456-noticia-norm-1909-9618-1559462432.png",
+      icon: "https://i-thethao.vnecdn.net/2019/06/14/vantoan-1559739073-3637-155973-2825-6504-1560503959.png",
       weight: 1000,
       pkg_name: "tinbongda.ngoaihang24h",
       action_name: "Cài Đặt"
