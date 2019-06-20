@@ -91,19 +91,19 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Vì sao chính quyền Hong Kong cứng rắn trước dự luật dẫn độ",
-      desc: "Nếu chính quyền rút dự luật dẫn độ, luật pháp Hong Kong có thể bị xem là không đáng tin cậy và biểu tình sẽ tiếp diễn trong tương lai.",
+      title: "Thuốc lá điện tử phát nổ làm vỡ hàm một thiếu niên ở Mỹ",
+      desc: "Bệnh nhân 17 tuổi nhập viện cấp cứu trong tình trạng tổn thương nặng ở miệng, mất nhiều răng và vỡ hàm dưới.",
       url: "https://f46s2.app.goo.gl/nKwP",
-      icon: "https://i-vnexpress.vnecdn.net/2019/06/13/5d00d87bba3a7360fe43f286-1920-4538-1621-1560402331.jpg",
+      icon: "https://i-suckhoe.vnecdn.net/2019/06/20/ahr0cdovl3d3dy5saxzlc2npzw5jzs-8727-9906-1561021673.png",
       weight: 1000,
       pkg_name: "com.tintuc.thegioi",
       action_name: "Cài Đặt"
     },
     {
-      title: "Mỹ rúng động vì vụ cướp thai nhi ngay trong bụng mẹ",
-      desc: "Hai mẹ con Clarisa dụ dỗ Ochoa đến nhà lấy đồ cho trẻ sơ sinh, giết cô rồi cướp đứa trẻ còn chưa chào đời.",
+      title: "Thiếu niên Mỹ sống sót sau khi bị dao đâm xuyên mặt",
+      desc: "Eli Gregg 15 tuổi ở Kansas (Mỹ) bị dao đâm xuyên mặt, gần chạm não, trong khi đang chơi cùng bạn bè ở bãi cỏ sau nhà.",
       url: "https://f46s2.app.goo.gl/u7mT",
-      icon: "https://i-vnexpress.vnecdn.net/2019/05/17/thai-phu-3526-1558050712.jpg",
+      icon: "https://i-suckhoe.vnecdn.net/2019/06/18/190617181223-01-eli-gregg-knif-7848-2883-1560849468.png",
       weight: 1000,
       pkg_name: "baodientu.tintuc.android",
       action_name: "Cài Đặt"
