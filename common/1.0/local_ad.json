@@ -206,6 +206,15 @@
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
+    },
+    {
+      title: "Saudi Arabia 'xúi' Anh thay Mỹ tấn công Iran",
+      desc: "Một quan chức cấp cao của Anh cho biết lãnh đạo tình báo của Saudi Arabia đã vận động Anh không kích các mục tiêu quân sự của Iran sau khi Tổng thống Mỹ Donald Trump hủy bỏ các cuộc tấn công.",
+      url: "https://f46s2.app.goo.gl/oivW",
+      icon: "https://image.plo.vn/w653/Uploaded/2019/fwy/2019_06_22/drone_khni.jpg",
+      weight: 1000,
+      pkg_name: "tintuc.pl.tonghop",
+      action_name: "Cài Đặt"
     }
   ]
 }
