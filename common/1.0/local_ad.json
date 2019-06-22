@@ -154,10 +154,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Hai thi thể trong thùng ở Bình Dương bị giết hơn một tháng trước",
-      desc: "Ngoài truy tìm người phụ nữ thuê nhà bí ẩn, cảnh sát cũng trích xuất camera xung quanh để xác định thời gian hai thùng chứa thi thể được chở đến.",
+      title: "Iran tuyên bố sẽ đáp trả mọi mối đe dọa từ Mỹ",
+      desc: "Iran khẳng định không bao giờ để lãnh thổ bị xâm phạm và sẽ đáp trả nếu bị Mỹ tấn công",
       url: "https://f46s2.app.goo.gl/WVhB",
-      icon: "https://i-vnexpress.vnecdn.net/2019/05/17/kham-nghiem-2-5508-1558088932.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/06/22/irgc-2-4683-1554734564-7891-1561192044.jpg",
       weight: 1000,
       pkg_name: "baodientu.tintuc.android",
       action_name: "Cài Đặt"
