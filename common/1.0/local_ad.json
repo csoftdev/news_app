@@ -208,10 +208,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Saudi Arabia 'xúi' Anh thay Mỹ tấn công Iran",
-      desc: "Một quan chức cấp cao của Anh cho biết lãnh đạo tình báo của Saudi Arabia đã vận động Anh không kích các mục tiêu quân sự của Iran sau khi Tổng thống Mỹ Donald Trump hủy bỏ các cuộc tấn công.",
+      title: "Ở tù xong lên mạng đọc tin mới biết mình bị oan",
+      desc: "Theo quyết định giám đốc thẩm, thời điểm hai ông buôn bán pháo nổ (ngày 19-11-2015) thì không phải chịu trách nhiệm hình sự, chỉ bị xử phạt hành chính.",
       url: "https://f46s2.app.goo.gl/oivW",
-      icon: "https://image.plo.vn/w653/Uploaded/2019/fwy/2019_06_22/drone_khni.jpg",
+      icon: "https://image.plo.vn/w653/Uploaded/2019/cqjwqcdwp/2019_07_01/6-tu-oan_mhyq.jpg",
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
