@@ -208,10 +208,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Ở tù xong lên mạng đọc tin mới biết mình bị oan",
-      desc: "Theo quyết định giám đốc thẩm, thời điểm hai ông buôn bán pháo nổ (ngày 19-11-2015) thì không phải chịu trách nhiệm hình sự, chỉ bị xử phạt hành chính.",
+      title: "Thông tin mới vụ 200 người ngộ độc sau tiệc cưới",
+      desc: "Liên quan hai vụ ngộ độc trên địa bàn tỉnh, Sở Y tế tỉnh Đắk Lắk đã có chỉ đạo lập đoàn thanh tra và tạm dừng hoạt động của hai cơ sở dịch vụ tiệc cưới.",
       url: "https://f46s2.app.goo.gl/oivW",
-      icon: "https://image.plo.vn/w653/Uploaded/2019/cqjwqcdwp/2019_07_01/6-tu-oan_mhyq.jpg",
+      icon: "https://image.plo.vn/w653/Uploaded/2019/drkxrdbkxq/2019_07_15/ngo-doc1_scns_thumb.jpg",
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
