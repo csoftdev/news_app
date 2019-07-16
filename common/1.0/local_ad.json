@@ -145,10 +145,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Philippines dọa cắt quan hệ ngoại giao với Trung Quốc vì vụ đâm tàu cá",
-      desc: "Sau khi tàu cá Gemvir-1 của Philippines bị một tàu Trung Quốc đâm chìm trên Biển Đông vào đêm 9/6",
+      title: "Tàu chở dầu UAE mất tích ở eo biển Hormuz",
+      desc: "Một tàu chở dầu di chuyển qua dải nước nhỏ nằm ở cửa Vịnh Ba Tư đã ngừng phát tín hiệu vị trí của nó cách đây ba ngày khi nó trôi dạt vào vùng biển Iran.",
       url: "https://f46s2.app.goo.gl/yGii",
-      icon: "https://i-vnexpress.vnecdn.net/2019/06/15/philippines-1-6407-1560592962.jpg",
+      icon: "https://image.plo.vn/w653/Uploaded/2019/dbexqaekxq/2019_07_16/tauchodau_wcjx.jpg",
       weight: 1000,
       pkg_name: "com.tintuc.thegioi",
       action_name: "Cài Đặt"
@@ -190,10 +190,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "[Video] Tai nạn kinh hoàng: Xe tải đâm xe máy đang đợi qua đường, 1 người tử vong",
-      desc: "Vụ tai nạn kinh hoàng xảy ra khi môt xe tải lao thẳng vào con lươn, đâm trực diện 2 người điều khiển xe máy đang dừng đợi để qua đường.",
+      title: "Người Thái Lan đột nhiên 'khoái' ăn cá tra Việt Nam",
+      desc: "Xuất khẩu cá tra sang thị trường Asean bất ngờ tăng mạnh, Thái Lan là thị trường tiêu thụ lớn nhất khu vực.",
       url: "https://f46s2.app.goo.gl/yGii",
-      icon: "https://image.thanhnien.vn/660/uploaded/khanhhd/2019_07_15/20190715_075702_otza.jpg",
+      icon: "https://image.plo.vn/w653/Uploaded/2019/ycivopcg/2019_07_16/che-bien-ca-tra-xuat-khau1_zocs.jpg",
       weight: 1000,
       pkg_name: "tintuc.tonghop.online",
       action_name: "Cài Đặt"
@@ -208,10 +208,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Thông tin mới vụ 200 người ngộ độc sau tiệc cưới",
-      desc: "Liên quan hai vụ ngộ độc trên địa bàn tỉnh, Sở Y tế tỉnh Đắk Lắk đã có chỉ đạo lập đoàn thanh tra và tạm dừng hoạt động của hai cơ sở dịch vụ tiệc cưới.",
+      title: "Nhật Kim Anh bị trộm đột nhập lấy đi hơn 5 tỉ đồng",
+      desc: "Mới đây, thông tin căn biệt thự tọa lạc tại huyện Bình Chánh (TP.HCM) của ca sĩ Nhật Kim Anh bị trộm đột nhập",
       url: "https://f46s2.app.goo.gl/oivW",
-      icon: "https://image.plo.vn/w653/Uploaded/2019/drkxrdbkxq/2019_07_15/ngo-doc1_scns_thumb.jpg",
+      icon: "https://image.thanhnien.vn/660/uploaded/thanhlongn/2019_07_16/66720387_489663665061395_4459048373990719488_n_ejbm.jpg",
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
