@@ -172,10 +172,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "FIFA buộc CLB Hải Phòng đền bù hơn 200.000 USD cho Stevens",
-      desc: "Liên đoàn bóng đá thế giới cho rằng đội bóng của Việt Nam vi phạm hợp đồng, và phải bồi thường cho cựu tiền đạo Errol Stevens.",
+      title: "Việt Nam chung bảng Thái Lan ở vòng loại World Cup 2022",
+      desc: "Bên cạnh kình địch ở khu vực Đông Nam Á, Việt Nam cùng bảng G với UAE, Malaysia và Indonesia - theo kết quả bốc thăm chiều 17/7.",
       url: "https://f46s2.app.goo.gl/wqii",
-      icon: "https://i-thethao.vnecdn.net/2019/07/04/dong6091-jpg-1562230084-2070-1562230185.png",
+      icon: "https://i-thethao.vnecdn.net/2019/07/17/cahill-wc-vn-2022-1528-1563357728.jpg",
       weight: 1000,
       pkg_name: "tinbongda.ngoaihang24h",
       action_name: "Cài Đặt"
