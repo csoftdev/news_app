@@ -109,11 +109,11 @@
           provider_id: "congan",
           pid: "n24_home",
           group_id: "congan",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=46&cid=4&count=30&",
+          url: "https://api.5play.mobi/news/v2.0/articles?latest=0&sid=46&cid=4&count=30&",
           page_var: "lid",
           page_type: "custom,0",
           detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/relativev2?lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v2.0/relativev2?lid={post.id}"
         }
       ]
     },
@@ -127,11 +127,11 @@
           provider_id: "dspl",
           pid: "n24_home",
           group_id: "dspl",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=52&cid=2&count=30&",
+          url: "https://api.5play.mobi/news/v2.0/articles?latest=0&sid=52&cid=2&count=30&",
           page_var: "lid",
           page_type: "custom,0",
           detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/relativev2?lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v2.0/relativev2?lid={post.id}"
         }
       ]
     },
@@ -182,11 +182,11 @@
           provider_id: "dt",
           pid: "n24_home",
           group_id: "dt",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=4&cid=12&count=30&",
+          url: "https://api.5play.mobi/news/v2.0/articles?latest=0&sid=4&cid=12&count=30&",
           page_var: "lid",
           page_type: "custom,0",
           detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/relativev2?lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v2.0/relativev2?lid={post.id}"
         }
       ]
     },
@@ -200,11 +200,11 @@
           provider_id: "antd",
           pid: "n24_home",
           group_id: "antd",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=79&cid=4&count=30&",
+          url: "https://api.5play.mobi/news/v2.0/articles?latest=0&sid=79&cid=4&count=30&",
           page_var: "lid",
           page_type: "custom,0",
           detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/relativev2?lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v2.0/relativev2?lid={post.id}"
         }
       ]
     }
