@@ -76,11 +76,11 @@
           provider_id: "dantri",
           pid: "fpm",
           group_id: "dantri",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=4&cid=4&count=30&",
+          url: "https://api.5play.mobi/news/v2.0/articles?latest=0&sid=4&cid=4&count=30&",
           page_var: "lid",
           page_type: "custom,0",
           detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/relativev2?lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v2.0/relativev2?lid={post.id}"
         }
       ]
     },
@@ -111,11 +111,11 @@
           provider_id: "laodong",
           pid: "fpm",
           group_id: "laodong",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=26&cid=3&count=30&",
+          url: "https://api.5play.mobi/news/v2.0/articles?latest=0&sid=26&cid=3&count=30&",
           page_var: "lid",
           page_type: "custom",
           detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/relativev2?lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v2.0/relativev2?lid={post.id}"
         }
       ]
     },
@@ -149,11 +149,11 @@
           provider_id: "vb",
           pid: "fpm",
           group_id: "vb",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=70&cid=2&count=30&",
+          url: "https://api.5play.mobi/news/v2.0/articles?latest=0&sid=70&cid=2&count=30&",
           page_var: "lid",
           page_type: "custom,0",
           detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/relativev2?lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v2.0/relativev2?lid={post.id}"
         }
       ]
     }
