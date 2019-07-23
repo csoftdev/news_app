@@ -154,10 +154,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "2 năm tù cho kẻ hiếp dâm nữ chủ quán cà phê ở Vĩnh Long",
-      desc: "Nam thanh niên 23 tuổi lợi dụng lúc quán cà phê vắng người, xông vào hiếp dâm nữ chủ quán 42 tuổi.",
+      title: "Hàn Quốc 'bắn cảnh cáo' máy bay Nga",
+      desc: "Đây là lần đầu tiên một máy bay quân sự của Nga xâm phạm không phận Hàn Quốc.",
       url: "https://f46s2.app.goo.gl/WVhB",
-      icon: "https://image.thanhnien.vn/500/uploaded/tancu/2019_07_02/hiep00000000-15620517397761740022076_piij.jpg",
+      icon: "https://image.plo.vn/w653/Uploaded/2019/abxbflu/2019_07_23/may-bay_pehd.jpg",
       weight: 1000,
       pkg_name: "baodientu.tintuc.android",
       action_name: "Cài Đặt"
@@ -208,10 +208,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Nhật Kim Anh bị trộm đột nhập lấy đi hơn 5 tỉ đồng",
-      desc: "Mới đây, thông tin căn biệt thự tọa lạc tại huyện Bình Chánh (TP.HCM) của ca sĩ Nhật Kim Anh bị trộm đột nhập",
+      title: "Khoảnh khắc kinh hoàng vụ tai nạn giao thông làm 5 người chết",
+      desc: "Theo nhân chứng, do bên đường có một xe CSGT đậu nên một số xe máy đi ra làn giữa",
       url: "https://f46s2.app.goo.gl/oivW",
-      icon: "https://image.thanhnien.vn/660/uploaded/thanhlongn/2019_07_16/66720387_489663665061395_4459048373990719488_n_ejbm.jpg",
+      icon: "https://image.plo.vn/w653/Uploaded/2019/huoabhu/2019_07_23/nguoi-than.jpg",
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
