@@ -109,10 +109,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Thiếu niên Mỹ sống sót sau khi bị dao đâm xuyên mặt",
-      desc: "Eli Gregg 15 tuổi ở Kansas (Mỹ) bị dao đâm xuyên mặt, gần chạm não, trong khi đang chơi cùng bạn bè ở bãi cỏ sau nhà.",
+      title: "Ăn tỏi mọc mầm có an toàn?",
+      desc: "Trước đây, tỏi mọc mầm được cho là thực phẩm hỏng và thường bị loại bỏ. ",
       url: "https://f46s2.app.goo.gl/u7mT",
-      icon: "https://i-suckhoe.vnecdn.net/2019/06/18/190617181223-01-eli-gregg-knif-7848-2883-1560849468.png",
+      icon: "https://image.plo.vn/w653/Uploaded/2019/drkxrdbkxq/2019_07_30/toi-moc-mam.jpg",
       weight: 1000,
       pkg_name: "baodientu.tintuc.android",
       action_name: "Cài Đặt"
