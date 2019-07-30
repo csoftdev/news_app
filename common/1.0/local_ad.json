@@ -190,10 +190,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Ngư dân Philippines kể lại giây phút được tàu Việt Nam cứu trên Biển Đông",
-      desc: "Sau khi tàu cá Gemvir-1 của Philippines bị một tàu Trung Quốc đâm chìm trên Biển Đông vào đêm 9/6",
+      title: "Tác dụng của 'lu chống ngập' ở Nhật Bản",
+      desc: "'Lu' chính là những hộp thẩm thấu, nhưng đặt ngầm dưới lòng đất và lại có các lỗ thủng.",
       url: "https://f46s2.app.goo.gl/yGii",
-      icon: "https://i-vnexpress.vnecdn.net/2019/06/15/philippines-1-6407-1560592962.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/07/29/hinh1-jpg-1564386276-2589-1564386865.png",
       weight: 1000,
       pkg_name: "tintuc.tonghop.online",
       action_name: "Cài Đặt"
