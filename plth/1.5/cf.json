@@ -1,4 +1,5 @@
 {
+  amIdDe: "ca-app-pub-6159372033198367/1486278853",
   nav_items: [
     {
       name: "f_search",
@@ -32,11 +33,11 @@
           provider_id: "5pl_pl",
           pid: "n24_home",
           group_id: "phap_luat",
-          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=5&count=30",
+          url: "https://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=5&count=30",
           page_var: "lid",
           page_type: "custom",
           detail_url: "",
-          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
         }
       ]
     },
