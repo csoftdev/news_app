@@ -154,10 +154,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Làn sóng giận dữ Trump gây ra ở Đan Mạch",
-      desc: "Sự ngạc nhiên trước mong muốn mua Greenland của Trump biến thành giận dữ khi ông bất ngờ huỷ chuyến thăm do Nữ hoàng Đan Mạch mời.",
+      title: "Cậu bé 13 tự tử vì không làm xong bài tập về nhà",
+      desc: "Kiệt sức vì bài tập về nhà, cậu bé 13 tuổi ở Jalan Paya Terubong (Malaysia) tìm đến cái chết.",
       url: "https://f46s2.app.goo.gl/yGii",
-      icon: "https://i-vnexpress.vnecdn.net/2019/08/22/mettefrederiksen1808-3720-1566-4711-2075-1566448404.jpg",
+      icon: "https://i-giadinh.vnecdn.net/2019/08/26/homework-pixabay-1-1566821278-6369-1566821743.png",
       weight: 1000,
       pkg_name: "com.tintuc.thegioi",
       action_name: "Cài Đặt"
@@ -190,19 +190,19 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Tác dụng của 'lu chống ngập' ở Nhật Bản",
-      desc: "'Lu' chính là những hộp thẩm thấu, nhưng đặt ngầm dưới lòng đất và lại có các lỗ thủng.",
+      title: "Quan chức Mỹ cáo buộc Macron làm 'bẽ mặt' Trump",
+      desc: "Các trợ lý Nhà Trắng cho rằng hội nghị G7 năm nay tập trung nhiều vào biến đổi khí hậu nhằm nhấn mạnh khác biệt giữa Trump và Macron.",
       url: "https://f46s2.app.goo.gl/yGii",
-      icon: "https://i-vnexpress.vnecdn.net/2019/07/29/hinh1-jpg-1564386276-2589-1564386865.png",
+      icon: "https://i-vnexpress.vnecdn.net/2019/08/26/trump-macron-1-6903-1566811420.jpg",
       weight: 1000,
       pkg_name: "tintuc.tonghop.online",
       action_name: "Cài Đặt"
     },
     {
-      title: "Nỗ lực Trump thu hút nữ cử tri Mỹ",
-      desc: "Nhiều phụ nữ Mỹ đang phân vân giữa việc ủng hộ hay quay lưng với Trump và nhiệm vụ của ông là phải thu phục những người này.",
+      title: "[Video] Cô gái đi xe điện bị cuốn vào gầm ôtô tải",
+      desc: "Thiếu nữ 20 tuổi điều khiển xe điện bị đâm ngã khi cắt ngang đầu ôtô tải tại ngã tư ở Trung Quốc, sáng 21/8.",
       url: "https://f46s2.app.goo.gl/yGii",
-      icon: "https://i-vnexpress.vnecdn.net/2019/08/23/AP-18072693133432-8568-1566545687.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/08/26/ezgif3e3ee4bda3949-1566790650-7933-1566793476_140x84.gif",
       weight: 1000,
       pkg_name: "tintuc.tonghop.online",
       action_name: "Cài Đặt"
