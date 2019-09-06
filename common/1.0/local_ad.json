@@ -208,10 +208,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Hai người Lào bị bắt khi chuyển 2 kg ma túy đá vào Kon Tum",
-      desc: "Chạy xe máy chuyển hàng đá qua cột mốc ngã ba Đông Dương về phía Việt Nam chừng 500 m, hai người đàn ông bị bộ đội, công an bắt. ",
+      title: "Co giật, sùi bọt mép sau uống thuốc viêm xoang mua trên mạng",
+      desc: "Người nhà bệnh nhân cho biết bệnh nhân tự mua thuốc trị viêm xoang rao trên mạng về uống, sau đó lên cơn co giật, sùi bọt mép, mất ý thức...",
       url: "https://f46s2.app.goo.gl/oivW",
-      icon: "https://i-vnexpress.vnecdn.net/2019/07/03/Ma-tuy-nga-ba-Dong-Duong-1-8554-1562160505.jpg",
+      icon: "https://image.plo.vn/w653/Uploaded/2019/obbunvj/2019_09_06/hinh-khoa_uzbl_thumb.jpg",
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
