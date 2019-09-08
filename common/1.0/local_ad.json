@@ -181,10 +181,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "HLV Park khẩu chiến với Thái Lan",
-      desc: "Chứng kiến HLV Akira Nishino la hét với Bùi Tiến Dũng, Park Hang-seo và các trợ lý xông tới phản ứng ở vòng loại World Cup 2022.",
+      title: "Việt Nam thắng Trung Quốc 2-0",
+      desc: "Dưới sự dẫn dắt của HLV Park Hang-seo, U22 Việt Nam đánh bại đội chủ nhà U22 Trung Quốc ở trận giao hữu tối 8/9.",
       url: "https://f46s2.app.goo.gl/wqii",
-      icon: "https://i-vnexpress.vnecdn.net/2019/09/06/anh-thay-4_1200x0.jpg",
+      icon: "https://i-thethao.vnecdn.net/2019/09/08/Untitled-8989-1567947567.jpg",
       weight: 1000,
       pkg_name: "tinbongda.ngoaihang24h",
       action_name: "Cài Đặt"
