@@ -40,6 +40,7 @@
       name: "Video",
       type: 0,
       use_char_icon: true,
+      enabled: false,
       res_icon_name: "cat_video",
       provider_cf: [
         {
