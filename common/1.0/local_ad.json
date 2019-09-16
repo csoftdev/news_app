@@ -190,10 +190,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Quan chức Mỹ cáo buộc Macron làm 'bẽ mặt' Trump",
-      desc: "Các trợ lý Nhà Trắng cho rằng hội nghị G7 năm nay tập trung nhiều vào biến đổi khí hậu nhằm nhấn mạnh khác biệt giữa Trump và Macron.",
+      title: "'Cơn đau tim' tại nhà máy lọc dầu Arab Saudi",
+      desc: "Giá dầu tăng và Trump dọa hành động quân sự với thủ phạm sau khi hai nhà máy lọc dầu quan trọng của Arab Saudi bị tấn công.",
       url: "https://f46s2.app.goo.gl/yGii",
-      icon: "https://i-vnexpress.vnecdn.net/2019/08/26/trump-macron-1-6903-1566811420.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/09/15/s3-reutersmedia-net-7241-1568512783.jpg",
       weight: 1000,
       pkg_name: "tintuc.tonghop.online",
       action_name: "Cài Đặt"
