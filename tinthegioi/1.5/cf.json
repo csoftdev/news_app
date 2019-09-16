@@ -18,7 +18,8 @@
           detail_url: "http://h2ksolution.com/api/get_noi_dung_tin_new?arcid={post.id}",
           related_url: "http://h2ksolution.com/api/get_related_arc?arcid={post.id}",
           headers:{
-            "User-Agent":	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36"
+          }
         }
       ]
     },
