@@ -217,10 +217,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Kẻ nghiện ma túy chém gục hai người",
-      desc: "Lê Anh Việt (36 tuổi) cầm dao xông vào nhà nạn nhân, chém hai người rồi về đi ngủ.",
+      title: "Đâm dao tại đồn cảnh sát Paris, 4 cảnh sát chết",
+      desc: "Nghi phạm bị bắn chết sau khi đâm 4 cảnh sát tử vong tại đồn cảnh sát ở trung tâm Paris hôm nay.",
       url: "https://f46s2.app.goo.gl/oivW",
-      icon: "https://i-vnexpress.vnecdn.net/2019/09/23/nghi-can-viet-9987-1569231804.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/10/03/dam-dao-6260-1570108421.jpg",
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
