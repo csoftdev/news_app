@@ -163,10 +163,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Cuộc sống như nô lệ của người nhập cư lậu vào Anh",
-      desc: "Muhammad Waseem bị kết án chung thân trong phiên tòa hôm nay vì sát hại em gái Qandeel Baloch để 'bảo vệ danh dự gia đình'",
+      title: "Căn nhà 5 m2 tại Bắc Kinh giá gần 200.000 USD",
+      desc: "Căn nhà chỉ rộng 5,6 m2 vừa được bán đấu giá 1,28 triệu nhân dân tệ, tương đương 182.000 USD trong 'cơn khát' hộ khẩu tại Bắc Kinh",
       url: "https://f46s2.app.goo.gl/WVhB",
-      icon: "https://i-vnexpress.vnecdn.net/2019/09/27/92840992-178e6e87-268b-460b-b4-3970-8597-1569573849.jpg",
+      icon: "https://i-kinhdoanh.vnecdn.net/2019/11/17/nhasieunho660-4134-1573943568.jpg",
       weight: 1000,
       pkg_name: "baodientu.tintuc.android",
       action_name: "Cài Đặt"
@@ -208,19 +208,19 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "[VIDEO] Xe tải thoát nạn trong vụ lở đất kinh hoàng",
-      desc: "Một chiếc xe tải đã may mắn không bị chôn vùi trong vụ lở đất kinh hoàng ở miền Nam Trung Quốc",
+      title: "[VIDEO] Tài xế run sợ khi xe phân khối lớn vụt qua bên sườn",
+      desc: "Đang lái xe ở làn giữa, tài xế hốt hoảng đánh lái sang trái, khi chiếc môtô lao qua như đạn bắn, lách vào khoảng trống giữa hai ôtô",
       url: "https://f46s2.app.goo.gl/oivW",
-      icon: "https://image.plo.vn/Uploaded/quangduy/2019_11_06/sat-lo-dat-thumb_DNTJ.gif",
+      icon: "https://i-vnexpress.vnecdn.net/2019/11/17/tai-xe-giat-minh-khi-xe-phan-k-7671-4924-1573951719_720x480.jpg",
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
     },
     {
-      title: "Thảm kịch 39 thi thể trong container ở Anh",
-      desc: "1h05 sáng 23/10, cơ quan cứu thương hạt Essex, đông bắc London, nhận cuộc gọi trình báo về phát hiện ghê rợn bên trong xe container.",
+      title: "Bắt cán bộ xã hội dâm ô nhiều bé gái",
+      desc: "Công an quận Bình Thạnh bắt khẩn cấp Nguyễn Tiến Dũng, nhân viên Trung tâm hỗ trợ xã hội, làm rõ cáo buộc dâm ô 6 bé gái",
       url: "https://f46s2.app.goo.gl/oivW",
-      icon: "https://i-vnexpress.vnecdn.net/2019/10/26/watergladelooryextra241019-1-9299-1572064290.jpg",
+      icon: "https://i-vnexpress.vnecdn.net/2019/11/17/Du-ng-da-m-o-6771-1573987969.jpg",
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
