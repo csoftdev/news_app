@@ -195,6 +195,7 @@
       name: "ANTD",
       type: 0,
       use_char_icon: true,
+      enabled: false,
       res_icon_name: "",
       provider_cf: [
         {
@@ -202,6 +203,24 @@
           pid: "n24_home",
           group_id: "antd",
           url: "https://api.5play.mobi/news/v2.0/articles?latest=0&sid=79&cid=4&count=30&",
+          page_var: "lid",
+          page_type: "custom,0",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v2.0/relativev2?lid={post.id}"
+        }
+      ]
+    },
+    {
+      name: "Người Đưa Tin",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "",
+      provider_cf: [
+        {
+          provider_id: "ndt",
+          pid: "n24_home",
+          group_id: "ndt",
+          url: "https://api.5play.mobi/news/v2.0/articles?latest=0&sid=60&cid=6&count=30&",
           page_var: "lid",
           page_type: "custom,0",
           detail_url: "",
