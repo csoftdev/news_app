@@ -51,22 +51,13 @@
       provider_cf: [
         {
           provider_id: "thanhnien",
-          pid: "thanhnien",
+          pid: "fpm",
           group_id: "thanhnien",
-          url: "https://mcms.thanhnien.vn/services_v2/getListSection",
-          url_method: "post",
-          param_funcs: {
-            boundary: "randUUID",
-            section_id: "111324"
-          },
-          page_var: "page_index",
-          page_type: "normal,1",
-          detail_url: "https://mcms.thanhnien.vn/services_v2/getStory",
-          detail_url_method: "post",
-          detail_params: {
-            boundary: "randUUID",
-            story_id: "post.id"
-          }
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=5&count=30&",
+          page_var: "lid",
+          page_type: "custom,0",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=5&count=5&lid={post.id}"
         }
       ]
     },
@@ -144,20 +135,38 @@
       ]
     },
     {
-      name: "Việt Báo",
+      name: "Người Đưa Tin",
       type: 0,
       use_char_icon: true,
-      res_icon_name: "char_VB",
+      res_icon_name: "char_NDT",
       provider_cf: [
         {
           provider_id: "vb",
           pid: "fpm",
           group_id: "vb",
-          url: "https://api.5play.mobi/news/v2.0/articles?latest=0&sid=70&cid=2&count=30&",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=60&cid=4&count=30",
           page_var: "lid",
-          page_type: "custom,0",
+          page_type: "custom",
           detail_url: "",
-          related_url: "https://api.5play.mobi/news/v2.0/relativev2?lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=60&cid=4&count=5&lid={post.id}"
+        }
+      ]
+    },
+    {
+      name: "VTC News",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "char_V",
+      provider_cf: [
+        {
+          provider_id: "vtc",
+          pid: "fpm",
+          group_id: "vtc",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=24&cid=3&count=30",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=24&cid=3&count=5&lid={post.id}"
         }
       ]
     }
