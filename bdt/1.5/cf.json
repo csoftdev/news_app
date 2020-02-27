@@ -10,11 +10,11 @@
           provider_id: "5pl_tt",
           pid: "n24_home",
           group_id: "trang_chu",
-          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=30",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=999&count=30",
           page_var: "lid",
           page_type: "custom",
           detail_url: "",
-          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
         }
       ]
     },
@@ -28,11 +28,11 @@
           provider_id: "5pl_ts",
           pid: "n24_home",
           group_id: "thoi_su",
-          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=1&count=30",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=1&count=30",
           page_var: "lid",
           page_type: "custom",
           detail_url: "",
-          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=1&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=1&count=5&lid={post.id}"
         }
       ]
     },
@@ -47,11 +47,11 @@
           provider_id: "5pl_vd",
           pid: "n24_home",
           group_id: "video",
-          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=12&count=30",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=12&count=30",
           page_var: "lid",
           page_type: "custom",
           detail_url: "",
-          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
         }
       ]
     },
@@ -65,11 +65,11 @@
           provider_id: "5pl_kt",
           pid: "n24_home",
           group_id: "kinh_te",
-          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=4&count=30",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=4&count=30",
           page_var: "lid",
           page_type: "custom",
           detail_url: "",
-          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
         }
       ]
     },
@@ -83,11 +83,11 @@
           provider_id: "5pl_pl",
           pid: "n24_home",
           group_id: "phap_luat",
-          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=5&count=30",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=5&count=30",
           page_var: "lid",
           page_type: "custom",
           detail_url: "",
-          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
         }
       ]
     },
@@ -101,11 +101,11 @@
           provider_id: "5pl_cn",
           pid: "n24_home",
           group_id: "cong_nghe",
-          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=6&count=30",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=6&count=30",
           page_var: "lid",
           page_type: "custom",
           detail_url: "",
-          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
         }
       ]
     },
@@ -119,11 +119,11 @@
           provider_id: "5pl_game",
           pid: "n24_home",
           group_id: "game",
-          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=7&count=30",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=7&count=30",
           page_var: "lid",
           page_type: "custom",
           detail_url: "",
-          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
         }
       ]
     },
@@ -137,11 +137,11 @@
           provider_id: "5pl_tthao",
           pid: "n24_home",
           group_id: "the_thao",
-          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=3&count=30",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=3&count=30",
           page_var: "lid",
           page_type: "custom",
           detail_url: "",
-          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
         }
       ]
     },
@@ -155,11 +155,11 @@
           provider_id: "5pl_gduc",
           pid: "n24_home",
           group_id: "giao_duc",
-          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=8&count=30",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=8&count=30",
           page_var: "lid",
           page_type: "custom",
           detail_url: "",
-          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
         }
       ]
     },
@@ -173,11 +173,11 @@
           provider_id: "5pl_skhoe",
           pid: "n24_home",
           group_id: "suc_khoe",
-          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=10&count=30",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=10&count=30",
           page_var: "lid",
           page_type: "custom",
           detail_url: "",
-          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
         }
       ]
     },
@@ -191,11 +191,11 @@
           provider_id: "5pl_gtri",
           pid: "n24_home",
           group_id: "giai_tri",
-          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=2&count=30",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=2&count=30",
           page_var: "lid",
           page_type: "custom",
           detail_url: "",
-          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
         }
       ]
     },
@@ -209,11 +209,11 @@
           provider_id: "5pl_kpha",
           pid: "n24_home",
           group_id: "kham_pha",
-          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=13&count=30",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=13&count=30",
           page_var: "lid",
           page_type: "custom",
           detail_url: "",
-          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
         }
       ]
     },
@@ -227,11 +227,11 @@
           provider_id: "5pl_cnang",
           pid: "n24_home",
           group_id: "cam_nang",
-          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=14&count=30",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=14&count=30",
           page_var: "lid",
           page_type: "custom",
           detail_url: "",
-          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
         }
       ]
     },
@@ -245,11 +245,11 @@
           provider_id: "5pl_xe",
           pid: "n24_home",
           group_id: "xe",
-          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=15&count=30",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=15&count=30",
           page_var: "lid",
           page_type: "custom",
           detail_url: "",
-          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
         }
       ]
     },
@@ -263,11 +263,11 @@
           provider_id: "5pl_tsu",
           pid: "n24_home",
           group_id: "tam_su",
-          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=9&count=30",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=9&count=30",
           page_var: "lid",
           page_type: "custom",
           detail_url: "",
-          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
         }
       ]
     },
@@ -281,11 +281,11 @@
           provider_id: "5pl_cdong",
           pid: "n24_home",
           group_id: "cong_dong",
-          url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=16&count=30",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=16&count=30",
           page_var: "lid",
           page_type: "custom",
           detail_url: "",
-          related_url: "http://api.5play.mobi/news/v2.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=999&cid=999&count=5&lid={post.id}"
         }
       ]
     }
