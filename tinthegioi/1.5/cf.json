@@ -122,12 +122,12 @@
       provider_cf: [
         {
           provider_id: "trithuc",
-          pid: "trithuc",
+          pid: "trithuc_new",
           group_id: "trithuc",
-          url: "https://trithucvn.net/api/get_category_posts/?category_id=10&count=24&",
+          url: "https://visiontimesvn.com/api/get_category_posts/?category_id=10&count=22&format=json&",
           page_var: "paged",
           page_type: "normal,1",
-          detail_url: "https://trithucvn.net/api/get_post/?",
+          detail_url: "https://visiontimesvn.com/api/get_post/?",
           detail_params: {
             post_id: "post.id"
           }
