@@ -97,20 +97,20 @@
       ]
     },
     {
-      name: "Lao Động",
+      name: "Người Lao Động",
       type: 0,
       use_char_icon: true,
-      res_icon_name: "char_LD",
+      res_icon_name: "char_NLD",
       provider_cf: [
         {
           provider_id: "laodong",
           pid: "fpm",
           group_id: "laodong",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=26&cid=3&count=30&",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=28&cid=2&count=30&",
           page_var: "lid",
           page_type: "custom",
           detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=26&cid=3&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=28&cid=2&count=5&lid={post.id}"
         }
       ]
     },
@@ -153,24 +153,6 @@
       ]
     },
     {
-      name: "VTC News",
-      type: 0,
-      use_char_icon: true,
-      res_icon_name: "char_V",
-      provider_cf: [
-        {
-          provider_id: "vtc",
-          pid: "fpm",
-          group_id: "vtc",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=24&cid=3&count=30",
-          page_var: "lid",
-          page_type: "custom",
-          detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=24&cid=3&count=5&lid={post.id}"
-        }
-      ]
-    },
-    {
       name: "ANTD",
       type: 0,
       use_char_icon: true,
@@ -185,6 +167,60 @@
           page_type: "custom",
           detail_url: "",
           related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=190&cid=3&count=5&lid={post.id}"
+        }
+      ]
+    },
+    {
+      name: "Giao Thông",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "char_GT",
+      provider_cf: [
+        {
+          provider_id: "giaothong",
+          pid: "fpm",
+          group_id: "giaothong",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=7&cid=9&count=30",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=77&cid=9&count=5&lid={post.id}"
+        }
+      ]
+    },
+    {
+      name: "Du Lịch",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "char_DLVN",
+      provider_cf: [
+        {
+          provider_id: "dlvn",
+          pid: "fpm",
+          group_id: "dlvn",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=50&cid=3&count=30",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=50&cid=3&count=5&lid={post.id}"
+        }
+      ]
+    },
+    {
+      name: "Đất Việt",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "char_BDV",
+      provider_cf: [
+        {
+          provider_id: "bdv",
+          pid: "fpm",
+          group_id: "bdv",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=73&cid=9&count=30",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=73&cid=9&count=5&lid={post.id}"
         }
       ]
     }
