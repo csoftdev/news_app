@@ -195,18 +195,18 @@
       name: "ANTD",
       type: 0,
       use_char_icon: true,
-      enabled: false,
+      enabled: true,
       res_icon_name: "",
       provider_cf: [
         {
           provider_id: "antd",
           pid: "n24_home",
           group_id: "antd",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=79&cid=4&count=30&",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=190&cid=4&count=30&",
           page_var: "lid",
           page_type: "custom,0",
           detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=79&cid=4&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=190&cid=4&count=5&lid={post.id}"
         }
       ]
     },
@@ -220,11 +220,65 @@
           provider_id: "ndt",
           pid: "n24_home",
           group_id: "ndt",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=60&cid=6&count=30&",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=60&cid=4&count=30&",
           page_var: "lid",
           page_type: "custom,0",
           detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=60&cid=6&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=60&cid=4&count=5&lid={post.id}"
+        }
+      ]
+    },
+    {
+      name: "Báo Công Lý",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "",
+      provider_cf: [
+        {
+          provider_id: "bcl",
+          pid: "n24_home",
+          group_id: "bcl",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=47&cid=4&count=30&",
+          page_var: "lid",
+          page_type: "custom,0",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=47&cid=4&count=5&lid={post.id}"
+        }
+      ]
+    },
+    {
+      name: "Báo Giao Thông",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "",
+      provider_cf: [
+        {
+          provider_id: "bgt",
+          pid: "n24_home",
+          group_id: "bgt",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=77&cid=5&count=30&",
+          page_var: "lid",
+          page_type: "custom,0",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=77&cid=5&count=5&lid={post.id}"
+        }
+      ]
+    },
+    {
+      name: "Tuổi Trẻ Thủ Đô",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "",
+      provider_cf: [
+        {
+          provider_id: "tttd",
+          pid: "n24_home",
+          group_id: "tttd",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=185&cid=7&count=30&",
+          page_var: "lid",
+          page_type: "custom,0",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=185&cid=7&count=5&lid={post.id}"
         }
       ]
     }
