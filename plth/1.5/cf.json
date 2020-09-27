@@ -110,11 +110,11 @@
           provider_id: "congan",
           pid: "n24_home",
           group_id: "congan",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=46&cid=4&count=30&",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=191&cid=2&count=30&",
           page_var: "lid",
           page_type: "custom,0",
           detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=46&cid=4&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=191&cid=2&count=5&lid={post.id}"
         }
       ]
     },
@@ -195,7 +195,6 @@
       name: "ANTD",
       type: 0,
       use_char_icon: true,
-      enabled: true,
       res_icon_name: "",
       provider_cf: [
         {
@@ -232,7 +231,7 @@
       name: "Báo Công Lý",
       type: 0,
       use_char_icon: true,
-      res_icon_name: "",
+      res_icon_name: "char_C",
       provider_cf: [
         {
           provider_id: "bcl",
@@ -250,7 +249,7 @@
       name: "Báo Giao Thông",
       type: 0,
       use_char_icon: true,
-      res_icon_name: "",
+      res_icon_name: "char_G",
       provider_cf: [
         {
           provider_id: "bgt",
