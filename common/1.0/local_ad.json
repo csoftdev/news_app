@@ -144,6 +144,15 @@
       pkg_name: "tintuc.kinhdoanh.bds",
       action_name: "Cài Đặt"
     },
+     {
+      title: "Mỗi năm dư hơn 1 tỷ đồng nên đầu tư gì?",
+      desc: "Mỗi năm dư hơn một tỷ đồng, trước giờ gửi tiết kiệm nhưng nay lãi suất xuống thấp, tôi có thể rút ra đầu tư vào kênh nào để sinh lời tốt hơn?",
+      url: "https://f46s2.app.goo.gl/q3kb",
+      icon: "https://i1-kinhdoanh.vnecdn.net/2020/10/17/tiennghekinhdoanhdekiemtien3-1-6402-9418-1602900214.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=zlVmhyPZW8bwfxaGU4aH9w",
+      weight: 1000,
+      pkg_name: "tintuc.kinhdoanh.bds",
+      action_name: "Cài Đặt"
+    },
     {
       title: "Ấn Độ bắt 4 nghi phạm cưỡng hiếp, sát hại nữ bác sĩ",
       desc: "4 nghi phạm bị bắt thừa nhận đã cưỡng hiếp tập thể, sau đó thiêu sống nữ bác sĩ thú y Priyanka Reddy",
