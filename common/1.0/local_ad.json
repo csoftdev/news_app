@@ -100,19 +100,19 @@
       action_name: "Cài đặt"
     },
     {
-      title: "Thủ tướng Israel hầu tòa",
-      desc: "Thủ tướng Israel Benjamin Netanyahu hôm nay có mặt tại tòa án quận Jerusalem khi phiên tòa xét xử các cáo buộc tham nhũng...",
+      title: "Bản đồ Covid-19 trên Thế giới",
+      desc: "Covid-19 xuất hiện ở hơn 210 quốc gia, vùng lãnh thổ, khiến gần 41 triệu người nhiễm, hơn 1,1 triệu người chết",
       url: "https://f46s2.app.goo.gl/nKwP",
-      icon: "https://i1-vnexpress.vnecdn.net/2020/05/24/200524-netanyahutrial-ha-2cc2c-1292-6233-1590334396.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=Yhd3YSMs1atKOIzBDHk_5g",
+      icon: "https://i1-vnexpress.vnecdn.net/2020/03/06/3-1583455863-2359-1583455930.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Iblk_DmcI8fdnTPoOvXPAA",
       weight: 1000,
       pkg_name: "com.tintuc.thegioi",
       action_name: "Cài Đặt"
     },
     {
-      title: "Báo Mỹ đánh giá Việt Nam chống Covid-19 tốt nhất thế giới",
-      desc: "Việt Nam là quốc gia đứng đầu trong 30 nước và vùng lãnh thổ được báo Politico của Mỹ xếp hạng về năng lực chống Covid-19",
+      title: "Nhà tiên tri Mỹ đoán Trump tái đắc cử",
+      desc: "Pat Robertson, nhà truyền giáo trên truyền hình, cho biết Chúa nhắn nhủ ông rằng Trump sẽ tái đắc cử vào tháng 11, trước khi tận thế xảy ra.",
       url: "https://f46s2.app.goo.gl/u7mT",
-      icon: "https://i1-vnexpress.vnecdn.net/2020/05/24/5-3517-1590322887.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=qrzMuKjx5RtqY02hxhJZFA",
+      icon: "https://i1-vnexpress.vnecdn.net/2020/10/21/homophobic-old-muppet-1200x675-5334-8967-1603263432.jpg?w=300&h=180&q=100&dpr=1&fit=crop&s=I2KHr5x0-qEfE8J7mrNbrA",
       weight: 1000,
       pkg_name: "baodientu.tintuc.android",
       action_name: "Cài Đặt"
@@ -136,7 +136,7 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Thông tin bất động sản, phân tích thị trường cuối năm 2018",
+      title: "Thông tin bất động sản, phân tích thị trường cuối năm 2020",
       desc: "Tải ngay ứng dụng Đọc tin Bất Động Sản tổng hợp, các bài viết về bất động sản từ chuyên gia trong ngành",
       url: "https://f46s2.app.goo.gl/q3kb",
       icon: "https://4.bp.blogspot.com/-GNy3OhAzOW0/WunaDrAqlsI/AAAAAAAAJaU/f6ftYzqbhE04KgpZo0pn4X6odCFd8CzigCLcBGAs/s320/logo_fill.jpg",
@@ -172,19 +172,19 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Fox Sports: 'Việt Nam thi đấu ổn định hơn Thái Lan'",
-      desc: "Hãng tin thể thao hàng đầu thế giới Fox Sports đánh giá cao màn trình diễn của Việt Nam ở trận ra quân vòng loại World Cup 2022.",
+      title: "Arsenal loại Ozil có thể vì Trung Quốc",
+      desc: "Mesut Ozil có vẻ như bị HLV Mikel Arteta loại khỏi danh sách thi đấu ở Ngoại hạng Anh và Europa League vì liên quan đến lợi ích thương mại của Arsenal ở Trung Quốc.",
       url: "https://f46s2.app.goo.gl/wqii",
-      icon: "https://i-vnexpress.vnecdn.net/2019/09/05/Van-Toan-2359-1567693854.jpg",
+      icon: "https://i1-thethao.vnecdn.net/2020/10/22/a48102fba5817b0da9e137a45d54d4-3948-6233-1603347744.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=ahO3hv2P1pAmmU3D0QzSxA",
       weight: 1000,
       pkg_name: "tinbongda.ngoaihang24h",
       action_name: "Cài Đặt"
     },
     {
-      title: "Lịch đấu và Bảng điểm bóng đá SEA Games 30",
-      desc: "Lịch đấu và Bảng điểm bóng đá SEA Games 30",
+      title: "Ronaldo xuống tóc để điều trị Covid-19",
+      desc: "Cristiano Ronaldo gần như cạo trọc trong khi cách ly tại nhà để điều trị Covid-19.",
       url: "https://f46s2.app.goo.gl/wqii",
-      icon: "https://i-vnexpress.vnecdn.net/2019/12/02/lich-dau-va-bang-diem-mon-bong-da-nam-sea-games-30-1575253937_1200x0.jpg",
+      icon: "https://i1-thethao.vnecdn.net/2020/10/22/rona2-2916-1603340628.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=u2zEG683pj773MJps8wCEQ",
       weight: 1000,
       pkg_name: "tinbongda.ngoaihang24h",
       action_name: "Cài Đặt"
@@ -208,10 +208,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Nhà được bố mẹ chồng cho, khi ly hôn có phải chia đôi?",
-      desc: "Tài sản mà mỗi người có trước khi kết hôn, tài sản được thừa kế riêng, được tặng cho riêng trong thời kỳ hôn nhân là tài sản riêng của vợ, chồng.",
+      title: "Dượng hiếp dâm cháu rồi dọa không cho đi học",
+      desc: "Hào dọa nạn nhân sẽ không cho đi học nếu cháu kể với người khác chuyện bị hiếp dâm.",
       url: "https://f46s2.app.goo.gl/oivW",
-      icon: "https://image.plo.vn/w653/Uploaded/2020/obbkhun/2020_05_18/20191129160722-4d0d_fprp.jpg",
+      icon: "https://image.plo.vn/w653/Uploaded/2020/ianokt/2020_09_21/bi-cao-le-minh-hao_bnit_thumb.jpg",
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
