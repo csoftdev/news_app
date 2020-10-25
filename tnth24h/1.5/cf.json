@@ -1,406 +1,200 @@
 {
   nav_items: [
-  {
-      name: "f_search",
-      type: 0,
-      use_char_icon: true,
-	  res_icon_name: "",
-      provider_cf: [
-        {
-		  provider_id:"f_search",
-		  pid:"f_search",
-		  group_id:"f_search",
-          url: "https://mcms.thanhnien.vn/services_v2/searchPosts",
-		  url_method:"post",
-		  param_funcs: {
-            boundary: "randUUID",
-            keyword: "pb_keyword"
-          },
-		  page_var: "page_index",
-		  page_type: "normal,1",
-		  detail_url: "https://mcms.thanhnien.vn/services_v2/getStory",
-		  detail_url_method:"post",
-		  detail_params: {
-            boundary: "randUUID",
-			story_id: "post.id"
-          }
-        }
-      ]
-    },
     {
       name: "Trang chủ",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_home",
+      res_icon_name: "cat_home",
       provider_cf: [
         {
-		  provider_id:"tn_home",
-		  pid:"tn_home",
-		  group_id:"trang_chu",
-          url: "https://mcms.thanhnien.vn/services_v2/getListHome",
-		  url_method:"post",
-		  param_funcs: {
-            boundary: "randUUID",
-            "": ""
-          },
-		  page_type:"fixed",
-		  detail_url: "https://mcms.thanhnien.vn/services_v2/getStory",
-		  detail_url_method:"post",
-		  detail_params: {
-            boundary: "randUUID",
-			story_id: "post.id"
-          }
+          provider_id: "5pl_tt",
+          pid: "n24_home",
+          group_id: "trang_chu",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=999&count=30",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=999&count=5&lid={post.id}"
         }
       ]
     },
-	{
+    {
       name: "Thời sự",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_thoi_su",
+      res_icon_name: "cat_thoi_su",
       provider_cf: [
         {
-		  provider_id:"tn_thoi_su",
-		  pid:"tn_home",
-		  group_id:"thoi_su",
-          url: "https://mcms.thanhnien.vn/services_v2/getListSection",
-		  url_method:"post",
-		  param_funcs: {
-            boundary: "randUUID",
-			section_id: "110919"
-          },
-          page_var: "page_index",
-		  page_type: "normal,1",
-		  detail_url: "https://mcms.thanhnien.vn/services_v2/getStory",
-		  detail_url_method:"post",
-		  detail_params: {
-            boundary: "randUUID",
-			story_id: "post.id"
-          }
+          provider_id: "5pl_ts",
+          pid: "n24_home",
+          group_id: "thoi_su",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=1&count=30",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=1&count=5&lid={post.id}"
         }
       ]
     },
-	{
-      name: "Công nghệ",
-      type: 0,
-      use_char_icon: true,
-	  res_icon_name: "cat_so_hoa",
-      provider_cf: [
-        {
-		  provider_id:"tn_cong_nghe",
-		  pid:"tn_home",
-		  group_id:"cong_nghe",
-          url: "https://mcms.thanhnien.vn/services_v2/getListSection",
-		  url_method:"post",
-		  param_funcs: {
-            boundary: "randUUID",
-			section_id: "111322"
-          },
-          page_var: "page_index",
-		  page_type: "normal,1",
-		  detail_url: "https://mcms.thanhnien.vn/services_v2/getStory",
-		  detail_url_method:"post",
-		  detail_params: {
-            boundary: "randUUID",
-			story_id: "post.id"
-          }
-        }
-      ]
-    },
-	{
-      name: "Đời sống",
-      type: 0,
-      use_char_icon: true,
-	  res_icon_name: "cat_gia_dinh",
-      provider_cf: [
-        {
-		  provider_id:"tn_doi_song",
-		  pid:"tn_home",
-		  group_id:"doi_song",
-          url: "https://mcms.thanhnien.vn/services_v2/getListSection",
-		  url_method:"post",
-		  param_funcs: {
-            boundary: "randUUID",
-			section_id: "110931"
-          },
-          page_var: "page_index",
-		  page_type: "normal,1",
-		  detail_url: "https://mcms.thanhnien.vn/services_v2/getStory",
-		  detail_url_method:"post",
-		  detail_params: {
-            boundary: "randUUID",
-			story_id: "post.id"
-          }
-        }
-      ]
-    },
-	{
-      name: "Giáo dục",
-      type: 0,
-      use_char_icon: true,
-	  res_icon_name: "cat_giao_duc",
-      provider_cf: [
-        {
-		  provider_id:"tn_giao_duc",
-		  pid:"tn_home",
-		  group_id:"giao_duc",
-          url: "https://mcms.thanhnien.vn/services_v2/getListSection",
-		  url_method:"post",
-		  param_funcs: {
-            boundary: "randUUID",
-			section_id: "110936"
-          },
-          page_var: "page_index",
-		  page_type: "normal,1",
-		  detail_url: "https://mcms.thanhnien.vn/services_v2/getStory",
-		  detail_url_method:"post",
-		  detail_params: {
-            boundary: "randUUID",
-			story_id: "post.id"
-          }
-        }
-      ]
-    },
-	{
-      name: "Kinh doanh",
-      type: 0,
-      use_char_icon: true,
-	  res_icon_name: "cat_kinh_doanh",
-      provider_cf: [
-        {
-		  provider_id:"tn_kinh_doanh",
-		  pid:"tn_home",
-		  group_id:"kinh_doanh",
-          url: "https://mcms.thanhnien.vn/services_v2/getListSection",
-		  url_method:"post",
-		  param_funcs: {
-            boundary: "randUUID",
-			section_id: "110942"
-          },
-          page_var: "page_index",
-		  page_type: "normal,1",
-		  detail_url: "https://mcms.thanhnien.vn/services_v2/getStory",
-		  detail_url_method:"post",
-		  detail_params: {
-            boundary: "randUUID",
-			story_id: "post.id"
-          }
-        }
-      ]
-    },
-	{
-      name: "Sức khỏe",
-      type: 0,
-      use_char_icon: true,
-	  res_icon_name: "cat_suc_khoe",
-      provider_cf: [
-        {
-		  provider_id:"tn_suc_khoe",
-		  pid:"tn_home",
-		  group_id:"suc_khoe",
-          url: "https://mcms.thanhnien.vn/services_v2/getListSection",
-		  url_method:"post",
-		  param_funcs: {
-            boundary: "randUUID",
-			section_id: "110947"
-          },
-          page_var: "page_index",
-		  page_type: "normal,1",
-		  detail_url: "https://mcms.thanhnien.vn/services_v2/getStory",
-		  detail_url_method:"post",
-		  detail_params: {
-            boundary: "randUUID",
-			story_id: "post.id"
-          }
-        }
-      ]
-    },
-	{
+    {
       name: "Thế giới",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_the_gioi",
+      res_icon_name: "cat_the_gioi",
       provider_cf: [
         {
-		  provider_id:"tn_the_gioi",
-		  pid:"tn_home",
-		  group_id:"the_gioi",
-          url: "https://mcms.thanhnien.vn/services_v2/getListSection",
-		  url_method:"post",
-		  param_funcs: {
-            boundary: "randUUID",
-			section_id: "111324"
-          },
-          page_var: "page_index",
-		  page_type: "normal,1",
-		  detail_url: "https://mcms.thanhnien.vn/services_v2/getStory",
-		  detail_url_method:"post",
-		  detail_params: {
-            boundary: "randUUID",
-			story_id: "post.id"
-          }
+          provider_id: "5pl_tg",
+          pid: "n24_home",
+          group_id: "thegioi",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=3&count=30",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=3&count=5&lid={post.id}"
         }
       ]
     },
-	{
-      name: "Giới trẻ",
+    {
+      name: "Kinh doanh",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_tam_su",
+      res_icon_name: "cat_kinh_doanh",
       provider_cf: [
         {
-		  provider_id:"tn_gioi_tre",
-		  pid:"tn_home",
-		  group_id:"gioi_tre",
-          url: "https://mcms.thanhnien.vn/services_v2/getListSection",
-		  url_method:"post",
-		  param_funcs: {
-            boundary: "randUUID",
-			section_id: "111325"
-          },
-          page_var: "page_index",
-		  page_type: "normal,1",
-		  detail_url: "https://mcms.thanhnien.vn/services_v2/getStory",
-		  detail_url_method:"post",
-		  detail_params: {
-            boundary: "randUUID",
-			story_id: "post.id"
-          }
+          provider_id: "5pl_kt",
+          pid: "n24_home",
+          group_id: "kinh_te",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=6&count=30",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=6&count=5&lid={post.id}"
         }
       ]
     },
-	{
-      name: "Tôi viết",
+    {
+      name: "Công nghệ",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_can_biet",
+      res_icon_name: "cat_khoa_hoc",
       provider_cf: [
         {
-		  provider_id:"tn_toi_viet",
-		  pid:"tn_home",
-		  group_id:"toi_viet",
-          url: "https://mcms.thanhnien.vn/services_v2/getListSection",
-		  url_method:"post",
-		  param_funcs: {
-            boundary: "randUUID",
-			section_id: "56645"
-          },
-          page_var: "page_index",
-		  page_type: "normal,1",
-		  detail_url: "https://mcms.thanhnien.vn/services_v2/getStory",
-		  detail_url_method:"post",
-		  detail_params: {
-            boundary: "randUUID",
-			story_id: "post.id"
-          }
+          provider_id: "5pl_cn",
+          pid: "n24_home",
+          group_id: "cong_nghe",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=9&count=30",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=9&count=5&lid={post.id}"
         }
       ]
     },
-	{
-      name: "Văn hóa",
+    {
+      name: "Game",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_giai_tri",
+      res_icon_name: "cat_so_hoa",
       provider_cf: [
         {
-		  provider_id:"tn_van_hoa",
-		  pid:"tn_home",
-		  group_id:"van_hoa",
-          url: "https://mcms.thanhnien.vn/services_v2/getListSection",
-		  url_method:"post",
-		  param_funcs: {
-            boundary: "randUUID",
-			section_id: "110960"
-          },
-          page_var: "page_index",
-		  page_type: "normal,1",
-		  detail_url: "https://mcms.thanhnien.vn/services_v2/getStory",
-		  detail_url_method:"post",
-		  detail_params: {
-            boundary: "randUUID",
-			story_id: "post.id"
-          }
+          provider_id: "5pl_game",
+          pid: "n24_home",
+          group_id: "game",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=10&count=30",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=10&count=5&lid={post.id}"
         }
       ]
     },
-	{
+    {
       name: "Thể thao",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_the_thao",
+      res_icon_name: "cat_the_thao",
       provider_cf: [
         {
-		  provider_id:"tn_the_thao",
-		  pid:"tn_home",
-		  group_id:"the_thao",
-          url: "https://mcms.thanhnien.vn/services_v2/getListSection",
-		  url_method:"post",
-		  param_funcs: {
-            boundary: "randUUID",
-			section_id: "111421"
-          },
-          page_var: "page_index",
-		  page_type: "normal,1",
-		  detail_url: "https://mcms.thanhnien.vn/services_v2/getStory",
-		  detail_url_method:"post",
-		  detail_params: {
-            boundary: "randUUID",
-			story_id: "post.id"
-          }
+          provider_id: "5pl_tthao",
+          pid: "n24_home",
+          group_id: "the_thao",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=12&count=30",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=12&count=5&lid={post.id}"
         }
       ]
     },
-	{
-      name: "Xe",
+    {
+      name: "Giáo dục",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_xe",
+      res_icon_name: "cat_giao_duc",
       provider_cf: [
         {
-		  provider_id:"tn_xe",
-		  pid:"tn_home",
-		  group_id:"xe",
-          url: "https://mcms.thanhnien.vn/services_v2/getListSection",
-		  url_method:"post",
-		  param_funcs: {
-            boundary: "randUUID",
-			section_id: "115588"
-          },
-          page_var: "page_index",
-		  page_type: "normal,1",
-		  detail_url: "https://mcms.thanhnien.vn/services_v2/getStory",
-		  detail_url_method:"post",
-		  detail_params: {
-            boundary: "randUUID",
-			story_id: "post.id"
-          }
+          provider_id: "5pl_gduc",
+          pid: "n24_home",
+          group_id: "giao_duc",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=8&count=30",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=8&count=5&lid={post.id}"
         }
       ]
     },
-	{
-      name: "Video",
+    {
+      name: "Sức khỏe",
       type: 0,
       use_char_icon: true,
-	  res_icon_name: "cat_video",
+      res_icon_name: "cat_suc_khoe",
       provider_cf: [
         {
-		  provider_id:"tn_video",
-		  pid:"tn_home",
-		  group_id:"video",
-          url: "https://mcms.thanhnien.vn/services_v2/getListSection",
-		  url_method:"post",
-		  param_funcs: {
-            boundary: "randUUID",
-			section_id: "111328"
-          },
-          page_var: "page_index",
-		  page_type: "normal,1",
-		  detail_url: "https://mcms.thanhnien.vn/services_v2/getStory",
-		  detail_url_method:"post",
-		  detail_params: {
-            boundary: "randUUID",
-			story_id: "post.id"
-          }
+          provider_id: "5pl_skhoe",
+          pid: "n24_home",
+          group_id: "suc_khoe",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=11&count=30",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=11&count=5&lid={post.id}"
+        }
+      ]
+    },
+    {
+      name: "Xe+",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "cat_xe",
+      provider_cf: [
+        {
+          provider_id: "5pl_xe",
+          pid: "n24_home",
+          group_id: "xe",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=13&count=30",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=13&count=5&lid={post.id}"
+        }
+      ]
+    },
+    {
+      name: "Cộng đồng",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "cat_cong_dong",
+      provider_cf: [
+        {
+          provider_id: "5pl_cdong",
+          pid: "n24_home",
+          group_id: "cong_dong",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=5&count=30",
+          page_var: "lid",
+          page_type: "custom",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=5&count=5&lid={post.id}"
         }
       ]
     }
