@@ -175,11 +175,11 @@
           provider_id: "5pl_vn",
           pid: "pl_home",
           group_id: "5pl_vn",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=80&cid=3&count=30&lid=0",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=14&cid=3&count=30&lid=0",
           page_var: "lid",
           page_type: "custom",
           detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=80&cid=3&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=14&cid=3&count=5&lid={post.id}"
         }
       ]
     },
