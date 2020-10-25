@@ -208,10 +208,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Bà nội bị tạm giữ hình sự điều tra hành vi sát hại cháu gái",
-      desc: "Điều tra bước đầu, bà nội thừa nhận đã sát hại cháu gái đang học lớp 6 rồi định đi ra Hà Nội.",
+      title: "[Đời Sống] Xem tử vi của bạn ngày hôm nay",
+      desc: "Xem tử vi hàng ngày năm 2020, tử vi vui 12 con giáp tại chuyên mục đời sống!",
       url: "https://f46s2.app.goo.gl/yGii",
-      icon: "https://image.plo.vn/w653/Uploaded/2019/jgirgs/2019_11_06/ba-noi-sat-hai-chau_zzkt.png",
+      icon: "https://image.thanhnien.vn/1080/uploaded/thanhhang/2020_09_19/tuvivui_mrzm_upep.jpg",
       weight: 1000,
       pkg_name: "tintuc.tonghop.online",
       action_name: "Cài Đặt"
