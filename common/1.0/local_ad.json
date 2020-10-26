@@ -10,7 +10,7 @@
       action_name: "Cài Đặt Ngay"
     },
     {
-      title: "Ảnh nền cho Samsung Galaxy S10",
+      title: "Ảnh nền Iphone 12 cho điện thoại Samsung, Huawei, Oppo",
       desc: "Thỏa sức làm mới dế với hàng triệu ảnh nền chất lượng cao",
       url: "https://f46s2.app.goo.gl/Vcf5",
       icon: "https://2.bp.blogspot.com/-OnCRuYgEneA/WxVci_8fn_I/AAAAAAAAJps/o64x-Cex2_MJ8aSos0ehnXlbhG8rsxa8wCLcBGAs/s320/logo_new_fill.jpg",
@@ -226,10 +226,10 @@
       action_name: "Cài Đặt"
     },
     {
-      title: "Mập mờ quan hệ giữa con trai ông Biden và quân đội Trung Quốc",
-      desc: "Trang RedState tiết lộ mối liên hệ của ông Hunter Biden trong thương vụ tập đoàn nhà nước Trung Quốc mua lại công ty sản xuất công nghệ tàng hình cho máy bay chiến đấu Mỹ.",
+      title: "Tổng Giám đốc công ty bất động sản Phát An Gia bị bắt",
+      desc: "Ông Cường bị bắt để điều tra về tội lừa đảo sau khi vẽ dự án ma rồi bán cho nhiều khách hàng.",
       url: "https://f46s2.app.goo.gl/oivW",
-      icon: "https://image.plo.vn/w653/Uploaded/2020/fwy/2020_10_25/image_anjs_thumb.jpg",
+      icon: "https://image.plo.vn/w653/Uploaded/2020/wpdhnwcjw/2020_10_26/bat-giam-doc-phat-an-gia_turi.jpg",
       weight: 1000,
       pkg_name: "tintuc.pl.tonghop",
       action_name: "Cài Đặt"
