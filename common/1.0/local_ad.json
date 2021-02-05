@@ -32,206 +32,80 @@
       desc: "Bạn còn nhớ trò chơi tìm số từ 100 đến 1 chứ?. Rủ thêm bạn cùng chơi nhé",
       url: "https://f46s2.app.goo.gl/FCqD",
       icon: "https://2.bp.blogspot.com/-Kvfg5scNawQ/W97iz1gsG4I/AAAAAAAAK68/Uh3pI3ELev4hd1q0LoR4Ov9mlRBL_598gCLcBGAs/s320/ic_logo_fill.png",
-      weight: 1000,
+      weight: 200,
       pkg_name: "com.andatsoft.app.oto",
       action_name: "Chơi ngay"
     },
     {
-      title: "Tử vi 2020 mới nhất cho 12 con giáp, xem giờ tốt, hướng xuất hành năm Canh Tý",
-      desc: "Xem tử vi 2020 với nhiều tính năng hấp dẫn",
+      title: "Tử vi 2021 mới nhất cho 12 con giáp, xem giờ tốt, hướng xuất hành năm Tân Sửu",
+      desc: "Xem tử vi 2021 với nhiều tính năng hấp dẫn",
       url: "https://f46s2.app.goo.gl/ivoE",
       icon: "https://1.bp.blogspot.com/-MnMIA8xiaZY/XCUA3QnAMzI/AAAAAAAALTg/wRPl7cqpPm0eRJaupihuKihYFDbkjSUXQCLcBGAs/s320/logo_display_fill.jpg",
-      weight: 1500,
+      weight: 500,
       pkg_name: "com.andatsoft.app.vi.amlich",
       action_name: "Xem ngay"
     },
     {
-      title: "Xin Xăm Quan Thánh 2020, hóa giải âu lo về gia đạo, tình duyên, sự nghiệp",
+      title: "Xin Xăm Quan Thánh 2021, hóa giải âu lo về gia đạo, tình duyên, sự nghiệp",
       desc: "Xin keo và gieo quẻ để nhận xăm từ Quan Thánh, hóa giải âu lo về gia đạo, tình duyên, sự nghiệp",
       url: "https://f46s2.app.goo.gl/ivoE",
       icon: "https://1.bp.blogspot.com/-MnMIA8xiaZY/XCUA3QnAMzI/AAAAAAAALTg/wRPl7cqpPm0eRJaupihuKihYFDbkjSUXQCLcBGAs/s320/logo_display_fill.jpg",
-      weight: 1500,
+      weight: 500,
       pkg_name: "com.andatsoft.app.vi.amlich",
       action_name: "Xin Xăm"
     },
     {
-      title: "Luận bàn chuyện tình duyên năm Canh Tý",
-      desc: "Tải Lịch Bình An để xem tử vi năm 2020",
+      title: "Luận bàn chuyện tình duyên năm Tân Sửu",
+      desc: "Tải Lịch Bình An để xem tử vi năm 2021",
       url: "https://f46s2.app.goo.gl/ivoE",
       icon: "https://1.bp.blogspot.com/-MnMIA8xiaZY/XCUA3QnAMzI/AAAAAAAALTg/wRPl7cqpPm0eRJaupihuKihYFDbkjSUXQCLcBGAs/s320/logo_display_fill.jpg",
-      weight: 1500,
+      weight: 500,
       pkg_name: "com.andatsoft.app.vi.amlich",
       action_name: "Xem ngay"
     },
     {
-      title: "3 con giáp nào sẽ giàu có nhất trong năm Canh Tý?",
-      desc: "Cùng xem các con giáp phát đạt nhất trong năm Canh Tý 2020 nào",
+      title: "3 con giáp nào sẽ giàu có nhất trong năm Tân Sửu?",
+      desc: "Cùng xem các con giáp phát đạt nhất trong năm Tân Sửu 2021 nào",
       url: "https://f46s2.app.goo.gl/ivoE",
       icon: "https://3.bp.blogspot.com/-O0yHlIfFIPs/XC9ZwMeBbMI/AAAAAAAALaw/amsLoan029MT6lqnFzT9QeOfGgn0NRxyACLcBGAs/s1600/ic_con_giap_10.png",
-      weight: 1500,
+      weight: 500,
       pkg_name: "com.andatsoft.app.vi.amlich",
       action_name: "Xem ngay"
     },
     {
-      title: "Đầu tuần xem ngày tốt, cả tuần đón bình an",
-      desc: "Cùng xem tử vi trọn đời cho 12 con giáp",
-      url: "https://f46s2.app.goo.gl/ivoE",
-      icon: "https://3.bp.blogspot.com/-O0yHlIfFIPs/XC9ZwMeBbMI/AAAAAAAALaw/amsLoan029MT6lqnFzT9QeOfGgn0NRxyACLcBGAs/s1600/ic_con_giap_10.png",
-      weight: 1500,
-      pkg_name: "com.andatsoft.app.vi.amlich",
-      action_name: "Xem ngay"
-    },
-    {
-      title: "Tử vi hôm nay. Gieo quẻ để tiên đoán Vận Mệnh, Tài Lộc & Gia Đạo",
-      desc: "Ứng dụng bói bài tây này sẽ hé lộ, dự đoán những điều xảy ra với bạn hằng ngày",
-      url: "https://f46s2.app.goo.gl/SKjK",
-      icon: "https://1.bp.blogspot.com/-Zoo5JGel5mM/W6OEMO1HUMI/AAAAAAAAKqc/zK_28J8gP98IR_e5QimGN3m1U2yHGdqxgCLcBGAs/s320/logo.png",
-      weight: 1000,
-      pkg_name: "xemboi.tuvi.phongthuy",
-      action_name: "Cài đặt"
-    },
-    {
-      title: "Tin An ninh & Hình Sự, Pháp Luật Tổng Hợp - An Ninh 24H",
-      desc: "Video clip An ninh được tổng hợp từ nhiều nguồn. Tin tức Pháp Luật & Đời Sống",
-      url: "https://f46s2.app.goo.gl/AN5w",
-      icon: "https://2.bp.blogspot.com/-02CeY6342M8/W1Xj4J0_6iI/AAAAAAAAKFw/39wawSGklBYncPjz94sM8l_SifIIlTfEQCLcBGAs/s320/logo_f.jpg",
-      weight: 1000,
-      pkg_name: "com.phapluat.anninh.online",
-      action_name: "Cài đặt"
-    },
-    {
-      title: "Bản đồ Covid-19 trên Thế giới",
-      desc: "Covid-19 xuất hiện ở hơn 210 quốc gia, vùng lãnh thổ, khiến gần 41 triệu người nhiễm, hơn 1,1 triệu người chết",
-      url: "https://f46s2.app.goo.gl/nKwP",
-      icon: "https://i1-vnexpress.vnecdn.net/2020/03/06/3-1583455863-2359-1583455930.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=Iblk_DmcI8fdnTPoOvXPAA",
-      weight: 1000,
-      pkg_name: "com.tintuc.thegioi",
-      action_name: "Cài Đặt"
-    },
-    {
-      title: "Nhà tiên tri Mỹ đoán Trump tái đắc cử",
-      desc: "Pat Robertson, nhà truyền giáo trên truyền hình, cho biết Chúa nhắn nhủ ông rằng Trump sẽ tái đắc cử vào tháng 11, trước khi tận thế xảy ra.",
-      url: "https://f46s2.app.goo.gl/u7mT",
-      icon: "https://i1-vnexpress.vnecdn.net/2020/10/21/homophobic-old-muppet-1200x675-5334-8967-1603263432.jpg?w=300&h=180&q=100&dpr=1&fit=crop&s=I2KHr5x0-qEfE8J7mrNbrA",
-      weight: 1000,
-      pkg_name: "baodientu.tintuc.android",
-      action_name: "Cài Đặt"
-    },
-    {
-      title: "Vỡ hai đập ở Mỹ",
-      desc: "Mưa lớn khiến hai con đập ở Michigan bị vỡ, buộc chính quyền bang sơ tán 10.000 người khỏi trận lụt tồi tệ nhất 500 năm qua.",
-      url: "https://f46s2.app.goo.gl/kM93",
-      icon: "https://i1-vnexpress.vnecdn.net/2020/05/21/vo-dap-2-7895-1590029604.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=sA0xpAod1z8pce8rWDL2Kw",
-      weight: 1000,
-      pkg_name: "baodientu.tintuc.android",
-      action_name: "Cài Đặt"
-    },
-    {
-      title: "Xác cá voi 10 tấn trong rừng Amazon khiến chuyên gia bối rối",
-      desc: "Con cá voi lưng gù dài 11 mét được phát hiện đã chết trong rừng rậm Amazon, cách xa môi trường sống tự nhiên.",
-      url: "https://f46s2.app.goo.gl/phAb",
-      icon: "https://i-vnexpress.vnecdn.net/2019/02/25/VNEWhale-1551070197-4997-1551070282_220x132.jpg",
-      weight: 1000,
-      pkg_name: "tintuc.khoahoc.doisong",
-      action_name: "Cài Đặt"
-    },
-    {
-      title: "Thông tin bất động sản, phân tích thị trường cuối năm 2020",
-      desc: "Tải ngay ứng dụng Đọc tin Bất Động Sản tổng hợp, các bài viết về bất động sản từ chuyên gia trong ngành",
-      url: "https://f46s2.app.goo.gl/q3kb",
-      icon: "https://4.bp.blogspot.com/-GNy3OhAzOW0/WunaDrAqlsI/AAAAAAAAJaU/f6ftYzqbhE04KgpZo0pn4X6odCFd8CzigCLcBGAs/s320/logo_fill.jpg",
-      weight: 1000,
-      pkg_name: "tintuc.kinhdoanh.bds",
-      action_name: "Cài Đặt"
-    },
-     {
       title: "Mỗi năm dư hơn 1 tỷ đồng nên đầu tư gì?",
       desc: "Mỗi năm dư hơn một tỷ đồng, trước giờ gửi tiết kiệm nhưng nay lãi suất xuống thấp, tôi có thể rút ra đầu tư vào kênh nào để sinh lời tốt hơn?",
-      url: "https://f46s2.app.goo.gl/q3kb",
+      url: "https://f46s2.app.goo.gl/newzoth",
       icon: "https://i1-kinhdoanh.vnecdn.net/2020/10/17/tiennghekinhdoanhdekiemtien3-1-6402-9418-1602900214.jpg?w=220&h=132&q=100&dpr=1&fit=crop&s=zlVmhyPZW8bwfxaGU4aH9w",
       weight: 1000,
-      pkg_name: "tintuc.kinhdoanh.bds",
+      pkg_name: "com.andatsoft.app.newz",
       action_name: "Cài Đặt"
     },
     {
-      title: "Ấn Độ bắt 4 nghi phạm cưỡng hiếp, sát hại nữ bác sĩ",
-      desc: "4 nghi phạm bị bắt thừa nhận đã cưỡng hiếp tập thể, sau đó thiêu sống nữ bác sĩ thú y Priyanka Reddy",
-      url: "https://f46s2.app.goo.gl/PWoz",
-      icon: "https://i-vnexpress.vnecdn.net/2019/12/02/191130071405-01-india-rape-112-9517-2669-1575261927.jpg",
+      title: "[Video] Bốn người chết cháy trong nhà do đốt vàng mã",
+      desc: "Lửa từ đốt vàng mã cúng ông Công ông Táo lan vào nhà khiến đám cháy bùng phát làm bốn người trong ngôi nhà...",
+      url: "https://f46s2.app.goo.gl/newzoth",
+      icon: "https://i-vnexpress.vnecdn.net/2021/02/04/144048845119122836763499914651-3350-7126-1612441487_300x180.jpg",
       weight: 1000,
-      pkg_name: "com.tintuc.thegioi",
+      pkg_name: "com.andatsoft.app.newz",
       action_name: "Cài Đặt"
     },
     {
-      title: "Mỹ - Nam điều dưỡng cưỡng bức người khuyết tật",
-      desc: "Bernard Betts-King, 62 tuổi, lãnh án chung thân vì hiếp dâm hai nạn nhân bị khiếm khuyết tâm thần khiến họ có thai.",
-      url: "https://f46s2.app.goo.gl/yGii",
-      icon: "https://i-vnexpress.vnecdn.net/2019/11/03/3-5574-1572753800.jpg",
+      title: "Thảm kịch ở Mỹ: Mất ông, mất bố, nguy cơ mất cả mẹ vì COVID-19",
+      desc: "Một gia đình người da đen mất liên tiếp 2 thành viên vì COVID-19. Nguyên nhân thảm kịch theo lời người nhà là vì sự phân biệt chủng tộc.",
+      url: "https://f46s2.app.goo.gl/newzoth",
+      icon: "https://photo-cms-plo.zadn.vn/w800/Uploaded/2021/fwy/2020_05_21/5ec5649f20302726b163675e_mjva.jpg",
       weight: 1000,
-      pkg_name: "com.tintuc.thegioi",
+      pkg_name: "com.andatsoft.app.newz",
       action_name: "Cài Đặt"
     },
     {
-      title: "Pháp - Trực thăng cứu hộ rơi, ba người chết",
-      desc: "Trực thăng cứu hộ gặp nạn khi đang làm nhiệm vụ tại vùng lũ gần thành phố Marseille, khiến ba người trên máy bay thiệt mạng.",
-      url: "https://f46s2.app.goo.gl/WVhB",
-      icon: "https://i-vnexpress.vnecdn.net/2019/12/02/truc-thang-jpeg-5719-1575258929.jpg",
+      title: "Cập nhật tình hình Covid dịp tết",
+      desc: "Covid-19 đang diễn biến phức tạp, ảnh hưởng đến dịp lễ tết Tân Sửu",
+      url: "https://f46s2.app.goo.gl/newzoth",
+      icon: "https://photo-cms-plo.zadn.vn/170x113/Uploaded/2021/abxbflu/2020_05_21/covid-19-malaysia_arcm.png",
       weight: 1000,
-      pkg_name: "baodientu.tintuc.android",
-      action_name: "Cài Đặt"
-    },
-    {
-      title: "Arsenal loại Ozil có thể vì Trung Quốc",
-      desc: "Mesut Ozil có vẻ như bị HLV Mikel Arteta loại khỏi danh sách thi đấu ở Ngoại hạng Anh và Europa League vì liên quan đến lợi ích thương mại của Arsenal ở Trung Quốc.",
-      url: "https://f46s2.app.goo.gl/wqii",
-      icon: "https://i1-thethao.vnecdn.net/2020/10/22/a48102fba5817b0da9e137a45d54d4-3948-6233-1603347744.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=ahO3hv2P1pAmmU3D0QzSxA",
-      weight: 1000,
-      pkg_name: "tinbongda.ngoaihang24h",
-      action_name: "Cài Đặt"
-    },
-    {
-      title: "Ronaldo xuống tóc để điều trị Covid-19",
-      desc: "Cristiano Ronaldo gần như cạo trọc trong khi cách ly tại nhà để điều trị Covid-19.",
-      url: "https://f46s2.app.goo.gl/wqii",
-      icon: "https://i1-thethao.vnecdn.net/2020/10/22/rona2-2916-1603340628.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=u2zEG683pj773MJps8wCEQ",
-      weight: 1000,
-      pkg_name: "tinbongda.ngoaihang24h",
-      action_name: "Cài Đặt"
-    },
-    {
-      title: "Xe Hàn ra đời sau không có nghĩa kém chất lượng",
-      desc: "Người Việt biết đến xe Hàn từ những năm 90 với những huyền thoại như Kia CD hay Lanos, hiện có những xe vẫn chạy tốt.",
-      url: "https://f46s2.app.goo.gl/yGii",
-      icon: "https://i1-vnexpress.vnecdn.net/2020/10/23/cd-1603441095-1603441104-8057-1603441236.jpg?w=380&h=228&q=100&dpr=1&fit=crop&s=jpSHbKsFgoC0G2xAPnh7qw",
-      weight: 1000,
-      pkg_name: "tintuc.tonghop.online",
-      action_name: "Cài Đặt"
-    },
-    {
-      title: "[Đời Sống] Xem tử vi của bạn ngày hôm nay",
-      desc: "Xem tử vi hàng ngày năm 2020, tử vi vui 12 con giáp tại chuyên mục đời sống!",
-      url: "https://f46s2.app.goo.gl/yGii",
-      icon: "https://image.thanhnien.vn/1080/uploaded/thanhhang/2020_09_19/tuvivui_mrzm_upep.jpg",
-      weight: 1000,
-      pkg_name: "tintuc.tonghop.online",
-      action_name: "Cài Đặt"
-    },
-    {
-      title: "Dượng hiếp dâm cháu rồi dọa không cho đi học",
-      desc: "Hào dọa nạn nhân sẽ không cho đi học nếu cháu kể với người khác chuyện bị hiếp dâm.",
-      url: "https://f46s2.app.goo.gl/oivW",
-      icon: "https://image.plo.vn/w653/Uploaded/2020/ianokt/2020_09_21/bi-cao-le-minh-hao_bnit_thumb.jpg",
-      weight: 1000,
-      pkg_name: "tintuc.pl.tonghop",
-      action_name: "Cài Đặt"
-    },
-    {
-      title: "Tổng Giám đốc công ty bất động sản Phát An Gia bị bắt",
-      desc: "Ông Cường bị bắt để điều tra về tội lừa đảo sau khi vẽ dự án ma rồi bán cho nhiều khách hàng.",
-      url: "https://f46s2.app.goo.gl/oivW",
-      icon: "https://image.plo.vn/w653/Uploaded/2020/wpdhnwcjw/2020_10_26/bat-giam-doc-phat-an-gia_turi.jpg",
-      weight: 1000,
-      pkg_name: "tintuc.pl.tonghop",
+      pkg_name: "com.andatsoft.app.newz",
       action_name: "Cài Đặt"
     }
   ]
