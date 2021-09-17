@@ -290,6 +290,7 @@
         }
       ]
     },
+    {
       name: "Thông báo",
       type: 2000,
       use_char_icon: true,
