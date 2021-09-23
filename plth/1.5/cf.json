@@ -2,28 +2,6 @@
   amIdDe: "ca-app-pub-6159372033198367/1486278853",
   nav_items: [
     {
-      name: "f_search",
-      type: 0,
-      use_char_icon: true,
-      res_icon_name: "",
-      provider_cf: [
-        {
-          provider_id: "f_search",
-          pid: "plo_home",
-          group_id: "f_search",
-          url: "https://plo.vn/api/search.json?",
-          param_funcs: {
-            keyword: "pb_keyword"
-          },
-          page_type: "fixed",
-          detail_url: "https://plo.vn/api/media.json?",
-          detail_params: {
-            contentid: "post.id"
-          }
-        }
-      ]
-    },
-    {
       name: "Tổng hợp",
       type: 0,
       use_char_icon: true,
