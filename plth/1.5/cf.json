@@ -44,6 +44,7 @@
     {
       name: "Video",
       type: 0,
+      enabled: false,
       use_char_icon: true,
       res_icon_name: "cat_video",
       provider_cf: [
