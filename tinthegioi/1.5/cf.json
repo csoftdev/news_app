@@ -44,25 +44,25 @@
       ]
     },
     {
-      name: "Thanh Niên",
+      name: "24H",
       type: 0,
       use_char_icon: true,
-      res_icon_name: "char_TN",
+      res_icon_name: "char_24",
       provider_cf: [
         {
           provider_id: "thanhnien",
           pid: "fpm",
           group_id: "thanhnien",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=3&count=30&",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=3&cid=3&count=30&",
           page_var: "lid",
           page_type: "custom,0",
           detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=25&cid=3&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=3&cid=3&count=5&lid={post.id}"
         }
       ]
     },
     {
-      name: "Dân Trí",
+      name: "VTV",
       type: 0,
       use_char_icon: true,
       res_icon_name: "char_DT",
@@ -71,11 +71,11 @@
           provider_id: "dantri",
           pid: "fpm",
           group_id: "dantri",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=4&cid=3&count=30&",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=97&cid=19&count=30&",
           page_var: "lid",
           page_type: "custom,0",
           detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=4&cid=3&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=97&cid=19&count=5&lid={post.id}"
         }
       ]
     },
@@ -207,7 +207,7 @@
       ]
     },
     {
-      name: "Báo Đất Việt",
+      name: "Báo Tin Tức",
       type: 0,
       use_char_icon: true,
       res_icon_name: "char_DV",
@@ -216,11 +216,11 @@
           provider_id: "bdv",
           pid: "fpm",
           group_id: "bdv",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=73&cid=9&count=30",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=102&cid=2&count=30",
           page_var: "lid",
           page_type: "custom",
           detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=73&cid=9&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=102&cid=2&count=5&lid={post.id}"
         }
       ]
     },
