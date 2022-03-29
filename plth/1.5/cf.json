@@ -215,7 +215,7 @@
           provider_id: "bcl",
           pid: "n24_home",
           group_id: "bcl",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=97&cid=4&count=30&",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=97&cid=3&count=30&",
           page_var: "lid",
           page_type: "custom,0",
           detail_url: "",
