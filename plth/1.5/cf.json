@@ -119,6 +119,7 @@
     {
       name: "VietNamNet",
       type: 0,
+      enabled: false,
       use_char_icon: true,
       res_icon_name: "char_V",
       provider_cf: [
@@ -134,38 +135,38 @@
       ]
     },
     {
-      name: "Bnews",
+      name: "Gia Đình",
       type: 0,
       use_char_icon: true,
-      res_icon_name: "",
+      res_icon_name: "char_GD",
       provider_cf: [
         {
-          provider_id: "antd",
+          provider_id: "baogd",
           pid: "n24_home",
-          group_id: "antd",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=246&cid=4&count=30&",
+          group_id: "baogd",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=72&cid=7&count=30&",
           page_var: "lid",
           page_type: "custom,0",
           detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=246&cid=4&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=72&cid=7&count=5&lid={post.id}"
         }
       ]
     },
     {
-      name: "An Ninh Tiền Tệ",
+      name: "Dân Việt",
       type: 0,
       use_char_icon: true,
-      res_icon_name: "",
+      res_icon_name: "char_DV",
       provider_cf: [
         {
           provider_id: "dt",
           pid: "n24_home",
           group_id: "dt",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=93&cid=3&count=30&",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=75&cid=7&count=30&",
           page_var: "lid",
           page_type: "custom,0",
           detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=93&cid=3&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=75&cid=7&count=5&lid={post.id}"
         }
       ]
     },
@@ -206,7 +207,7 @@
       ]
     },
     {
-      name: "VTV",
+      name: "Công An",
       type: 0,
       use_char_icon: true,
       res_icon_name: "",
@@ -215,11 +216,11 @@
           provider_id: "bcl",
           pid: "n24_home",
           group_id: "bcl",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=97&cid=3&count=30&",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=191&cid=999&count=30&",
           page_var: "lid",
           page_type: "custom,0",
           detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=97&cid=3&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=191&cid=999&count=5&lid={post.id}"
         }
       ]
     },
@@ -242,20 +243,20 @@
       ]
     },
     {
-      name: "Bảo Vệ Pháp Luật",
+      name: "24H",
       type: 0,
       use_char_icon: true,
-      res_icon_name: "",
+      res_icon_name: "char_24H",
       provider_cf: [
         {
           provider_id: "tttd",
           pid: "n24_home",
           group_id: "tttd",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=165&cid=3&count=30&",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=3&cid=5&count=30&",
           page_var: "lid",
           page_type: "custom,0",
           detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=165&cid=3&count=5&lid={post.id}"
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=3&cid=5&count=5&lid={post.id}"
         }
       ]
     },
