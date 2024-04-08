@@ -44,6 +44,7 @@
       name: "Pháp Luật HCM",
       type: 0,
       use_char_icon: true,
+      enabled: false,
       res_icon_name: "char_P",
       provider_cf: [
         {
@@ -155,6 +156,7 @@
     {
       name: "Dân Việt",
       type: 0,
+      enabled: false,
       use_char_icon: true,
       res_icon_name: "char_DV",
       provider_cf: [
@@ -227,6 +229,7 @@
     {
       name: "Báo Giao Thông",
       type: 0,
+      enabled: false,
       use_char_icon: true,
       res_icon_name: "char_G",
       provider_cf: [
