@@ -1,0 +1,298 @@
+{
+  bds_home: {
+    post_list: "$.posts",
+    post: {
+      id: "id",
+      title: "title_plain",
+      desc: "excerpt",
+      source: "url",
+      thumbSmall: "attachments[0].url",
+      thumbMedium: "attachments[0].url",
+      thumbBig: "attachments[0].url",
+      dateFormat: "yyyy-MM-dd HH:mm:ss",
+      dateTimeZone: "GMT+7",
+      createdDate: "modified",
+      updatedDate: "",
+      detail: "content",
+      resolve_detail_data: "jRemoveTags_ul_style_form"
+    }
+  },
+  bds_phong_thuy: {
+    post_list: "$.posts",
+    post: {
+      id: "id",
+      title: "title_plain",
+      desc: "",
+      source: "url",
+      thumbSmall: "attachments[0].url",
+      thumbMedium: "attachments[0].url",
+      thumbBig: "attachments[0].url",
+      dateFormat: "yyyy-MM-dd HH:mm:ss",
+      dateTimeZone: "GMT+7",
+      createdDate: "modified",
+      updatedDate: "",
+      detail: "content",
+      resolve_detail_data: "jRemoveTags_ul_style_form"
+    }
+  },
+  ncdt: {
+    post_list: "$.SubjectDetail",
+    post: {
+      id: "SubjectDetailId",
+      title: "SubjectDetailTitle",
+      desc: "SubjectDetailLead",
+      source: "",
+      thumbSmall: "SubjectDetailImg",
+      thumbMedium: "SubjectDetailImg",
+      thumbBig: "SubjectDetailImg",
+      dateRegex: "(\\d{4}\/\\d{2}\/\\d{2})",
+      dateFormat: "yyyy/MM/dd",
+      dateTimeZone: "GMT+7",
+      createdDate: "SubjectDetailImg",
+      updatedDate: ""
+    },
+    detail: "$.SubjectDetailContent",
+    resolve_post: {
+      source: "$.SubjectDetailLink"
+    },
+    related_post_list: "$.SubjectDetailRelatedSubject",
+    related_post: {
+      id: "SubjectDetailId",
+      title: "SubjectDetailTitle",
+      desc: "SubjectDetailLead",
+      source: "SubjectDetailLink",
+      thumbSmall: "SubjectDetailImg",
+      thumbMedium: "SubjectDetailImg",
+      thumbBig: "SubjectDetailImg",
+      dateRegex: "(\\d{4}\/\\d{2}\/\\d{2})",
+      dateFormat: "yyyy/MM/dd",
+      dateTimeZone: "GMT+7",
+      createdDate: "SubjectDetailImg",
+      updatedDate: ""
+    }
+  },
+  baomoi: {
+    post_list: "$.data.linfos",
+    post: {
+      id: "lid",
+      title: "title",
+      desc: "desc",
+      source: "url",
+      thumbSmall: "cover",
+      thumbMedium: "cover",
+      thumbBig: "cover",
+      dateFormat: "L13",
+      createdDate: "posttime",
+      updatedDate: "",
+      detail: "content",
+      resolve_detail_data: "jRemoveTags_script,jReplaceTag_h2_span,jReplaceTag_h3_span, jReplaceTag_h1_span"
+    },
+    next_page: "$.data.linfos[-1:].lid",
+    related_post_list: "$.data.linfos",
+    related_post: {
+      id: "lid",
+      title: "title",
+      desc: "desc",
+      source: "url",
+      thumbSmall: "cover",
+      thumbMedium: "cover",
+      thumbBig: "cover",
+      dateFormat: "L13",
+      createdDate: "posttime",
+      updatedDate: "",
+      detail: "content",
+      resolve_detail_data: "jRemoveTags_script,jReplaceTag_h2_span,jReplaceTag_h3_span, jReplaceTag_h1_span"
+    }
+  },
+  n24_home: {
+    post_list: "$.linfos",
+    post: {
+      id: "lid",
+      title: "title",
+      desc: "desc",
+      source: "url",
+      thumbSmall: "cover",
+      thumbMedium: "cover",
+      thumbBig: "cover",
+      createdDate: "posttime",
+      dateFormat: "L13",
+      updatedDate: "",
+      detail: "content",
+      video_strs: "listMp4",
+      video_view_type: "a"
+    },
+    next_page: "$.linfos[-1:].lid",
+    resolve_detail_data: "jRemoveTags_script,jReplaceTag_h2_span,jReplaceTag_h3_span, jReplaceTag_h1_span",
+    in_video_content: {
+      div: "data-src"
+    },
+    related_post_list: "$.linfos",
+    related_post: {
+      id: "lid",
+      title: "title",
+      desc: "desc",
+      source: "url",
+      thumbSmall: "cover",
+      thumbMedium: "cover",
+      thumbBig: "cover",
+      createdDate: "posttime",
+      dateFormat: "L13",
+      updatedDate: "",
+      detail: "content",
+      video_strs: "listMp4",
+      video_view_type: "a"
+    }
+  },
+  vne_cate_bds: {
+    post_list: "$.data.1003181",
+    post: {
+      id: "article_id",
+      title: "title",
+      desc: "lead",
+      source: "share_url",
+      thumbSmall: "thumbnail_url",
+      thumbMedium: "thumbnail_url",
+      thumbBig: "thumbnail_url",
+      dateFormat: "L10",
+      createdDate: "publish_time",
+      updatedDate: "update_time"
+    },
+    detail: "$.data.content",
+    detail_image_list: "$.data.photos",
+    detail_image: {
+      id: "photo_id",
+      url: "thumbnail_url",
+      width: 0,
+      height: 0,
+      desc: "caption"
+    },
+    video_objs: "$.data.list_video",
+    detail_video: {
+      id: "video_id",
+      url: "url",
+      thumb: "thumbnail_url",
+      desc: "caption"
+    },
+    related_post_list: "$.data.list_reference_seemore",
+    related_post: {
+      id: "article_id",
+      title: "title",
+      desc: "lead",
+      source: "share_url",
+      thumbSmall: "thumbnail_url",
+      thumbMedium: "thumbnail_url",
+      thumbBig: "thumbnail_url",
+      dateFormat: "L10",
+      createdDate: "publish_time",
+      updatedDate: "update_time"
+    }
+  },
+  vne_cate_chungkhoan: {
+    post_list: "$.data.1003180",
+    post: {
+      id: "article_id",
+      title: "title",
+      desc: "lead",
+      source: "share_url",
+      thumbSmall: "thumbnail_url",
+      thumbMedium: "thumbnail_url",
+      thumbBig: "thumbnail_url",
+      dateFormat: "L10",
+      createdDate: "publish_time",
+      updatedDate: "update_time"
+    },
+    detail: "$.data.content",
+    detail_image_list: "$.data.photos",
+    detail_image: {
+      id: "photo_id",
+      url: "thumbnail_url",
+      width: 0,
+      height: 0,
+      desc: "caption"
+    },
+    video_objs: "$.data.list_video",
+    detail_video: {
+      id: "video_id",
+      url: "url",
+      thumb: "thumbnail_url",
+      desc: "caption"
+    },
+    related_post_list: "$.data.list_reference_seemore",
+    related_post: {
+      id: "article_id",
+      title: "title",
+      desc: "lead",
+      source: "share_url",
+      thumbSmall: "thumbnail_url",
+      thumbMedium: "thumbnail_url",
+      thumbBig: "thumbnail_url",
+      dateFormat: "L10",
+      createdDate: "publish_time",
+      updatedDate: "update_time"
+    }
+  },
+  vne_cate_startup: {
+    post_list: "$.data.1004063",
+    post: {
+      id: "article_id",
+      title: "title",
+      desc: "lead",
+      source: "share_url",
+      thumbSmall: "thumbnail_url",
+      thumbMedium: "thumbnail_url",
+      thumbBig: "thumbnail_url",
+      dateFormat: "L10",
+      createdDate: "publish_time",
+      updatedDate: "update_time"
+    },
+    detail: "$.data.content",
+    detail_image_list: "$.data.photos",
+    detail_image: {
+      id: "photo_id",
+      url: "thumbnail_url",
+      width: 0,
+      height: 0,
+      desc: "caption"
+    },
+    video_objs: "$.data.list_video",
+    detail_video: {
+      id: "video_id",
+      url: "url",
+      thumb: "thumbnail_url",
+      desc: "caption"
+    },
+    related_post_list: "$.data.list_reference_seemore",
+    related_post: {
+      id: "article_id",
+      title: "title",
+      desc: "lead",
+      source: "share_url",
+      thumbSmall: "thumbnail_url",
+      thumbMedium: "thumbnail_url",
+      thumbBig: "thumbnail_url",
+      dateFormat: "L10",
+      createdDate: "publish_time",
+      updatedDate: "update_time"
+    }
+  },
+  vnn: {
+    post_list: "$.articles",
+    post: {
+      id: "aid",
+      title: "title",
+      desc: "lead",
+      source: "link",
+      thumbSmall: "image",
+      thumbMedium: "image",
+      thumbBig: "image",
+      dateFormat: "dd/MM/yyyy",
+      dateTimeZone: "GMT+7",
+      createdDate: "publishtime",
+      updatedDate: "publishtime",
+      display_date: "publishtime"
+    },
+    resolve_global_data: "jRemove_retvar =",
+    resolve_detail_data: "stripHtml,jRemove_https://vnn-imgs-f.vgcloud.vn/logo.gif",
+    detail: "$.articles[0].detail"
+  }
+}

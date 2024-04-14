@@ -1,0 +1,193 @@
+{
+  amIdDe: "ca-app-pub-6159372033198367/9688968085",
+  nav_items: [
+    {
+      name: "Tin tức",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "cat_thoi_su",
+      provider_cf: [
+        {
+          provider_id: "ncdt_nen_doc",
+          pid: "n24_home",
+          group_id: "nen_doc",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=3&cid=7&count=30&",
+          page_var: "lid",
+          page_type: "custom,0",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=3&cid=7&count=5&lid={post.id}"
+        }
+      ]
+    },
+    {
+      name: "Chứng khoán",
+      type: 0,
+      enabled: true,
+      use_char_icon: true,
+      res_icon_name: "cat_kinh_doanh",
+      provider_cf: [
+        {
+          provider_id: "vne",
+          pid: "vne_cate_chungkhoan",
+          group_id: "vne",
+          url: "https://api3.vnexpress.net/api/article?type=get_rule_2&select=article_id,article_type,original_cate,site_id,title,lead,share_url,thumbnail_url,privacy,publish_time,list_object_type&cate_id=1003180&limit=10&app_id=c31b32&",
+          page_var: "offset",
+          page_type: "offset,10",
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
+            article_id: "post.id"
+          }
+        }
+      ]
+    },
+    {
+      name: "Đô Thị",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "cat_do_thi",
+      provider_cf: [
+        {
+          provider_id: "quyhoach",
+          pid: "n24_home",
+          group_id: "quyhoach",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&cid=9&sid=81&count=30&",
+          page_var: "lid",
+          page_type: "custom,0",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=81&cid=9&count=5&lid={post.id}"
+        }
+      ]
+    },
+    {
+      name: "Doanh Nghiệp",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "char_DN",
+      provider_cf: [
+        {
+          provider_id: "tbnh",
+          pid: "n24_home",
+          group_id: "tbnh",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=60&cid=21&count=30&",
+          page_var: "lid",
+          page_type: "custom,0",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=60&cid=21&count=5&lid={post.id}"
+        }
+      ]
+    },
+    {
+      name: "CAND",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "cat_can_biet",
+      provider_cf: [
+        {
+          provider_id: "doanhnhan",
+          pid: "n24_home",
+          group_id: "doanhnhan",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=46&cid=16&count=30&",
+          page_var: "lid",
+          page_type: "custom,0",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=46&cid=16&count=5&lid={post.id}"
+        }
+      ]
+    },
+    {
+      name: "NDT",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "cat_tam_su",
+      provider_cf: [
+        {
+          provider_id: "diendan",
+          pid: "n24_home",
+          group_id: "diendan",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=60&cid=20&count=30&",
+          page_var: "lid",
+          page_type: "custom,0",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=60&cid=20&count=5&lid={post.id}"
+        }
+      ]
+    },
+    {
+      name: "Tiền Phong",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "cat_tam_su",
+      provider_cf: [
+        {
+          provider_id: "tp",
+          pid: "n24_home",
+          group_id: "tp",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=22&cid=3&count=30&",
+          page_var: "lid",
+          page_type: "custom,0",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=22&cid=3&count=5&lid={post.id}"
+        }
+      ]
+    },
+    {
+      name: "NLD",
+      type: 0,
+      use_char_icon: true,
+      res_icon_name: "cat_tam_su",
+      provider_cf: [
+        {
+          provider_id: "nld",
+          pid: "n24_home",
+          group_id: "nld",
+          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=28&cid=5&count=30&",
+          page_var: "lid",
+          page_type: "custom,0",
+          detail_url: "",
+          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=28&cid=5&count=5&lid={post.id}"
+        }
+      ]
+    },
+    {
+      name: "VnExpress",
+      type: 0,
+      enabled: false,
+      use_char_icon: true,
+      res_icon_name: "char_VNE",
+      provider_cf: [
+        {
+          provider_id: "vne",
+          pid: "vne_cate_bds",
+          group_id: "vne",
+          url: "https://api3.vnexpress.net/api/article?type=get_rule_2&select=article_id,article_type,original_cate,site_id,title,lead,share_url,thumbnail_url,privacy,publish_time,list_object_type&cate_id=1003181&limit=10&app_id=c31b32&",
+          page_var: "offset",
+          page_type: "offset,10",
+          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
+          detail_params: {
+            article_id: "post.id"
+          }
+        }
+      ]
+    },
+    {
+      name: "Thông báo",
+      type: 2000,
+      use_char_icon: true,
+      res_icon_name: "cat_ic_info",
+      provider_cf: [
+        {
+          provider_id: "com.andatsoft.app.newz",
+          pid: "plo_home",
+          group_id: "trang_chu",
+          url: "",
+          page_var: "page",
+          page_type: "normal,1",
+          detail_url: "",
+          detail_params: {
+            contentid: "post.id"
+          }
+        }
+      ]
+    }
+  ]
+}
