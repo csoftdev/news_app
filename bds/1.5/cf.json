@@ -20,27 +20,6 @@
       ]
     },
     {
-      name: "Chứng khoán",
-      type: 0,
-      enabled: true,
-      use_char_icon: true,
-      res_icon_name: "cat_kinh_doanh",
-      provider_cf: [
-        {
-          provider_id: "vne",
-          pid: "vne_cate_chungkhoan",
-          group_id: "vne",
-          url: "https://api3.vnexpress.net/api/article?type=get_rule_2&select=article_id,article_type,original_cate,site_id,title,lead,share_url,thumbnail_url,privacy,publish_time,list_object_type&cate_id=1003180&limit=10&app_id=c31b32&",
-          page_var: "offset",
-          page_type: "offset,10",
-          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
-          detail_params: {
-            article_id: "post.id"
-          }
-        }
-      ]
-    },
-    {
       name: "Đô Thị",
       type: 0,
       use_char_icon: true,
@@ -80,7 +59,7 @@
       name: "CAND",
       type: 0,
       use_char_icon: true,
-      res_icon_name: "cat_can_biet",
+      res_icon_name: "char_CA",
       provider_cf: [
         {
           provider_id: "doanhnhan",
@@ -95,10 +74,10 @@
       ]
     },
     {
-      name: "NDT",
+      name: "Người Đưa Tin",
       type: 0,
       use_char_icon: true,
-      res_icon_name: "cat_tam_su",
+      res_icon_name: "char_NDT",
       provider_cf: [
         {
           provider_id: "diendan",
@@ -116,7 +95,7 @@
       name: "Tiền Phong",
       type: 0,
       use_char_icon: true,
-      res_icon_name: "cat_tam_su",
+      res_icon_name: "char_TN",
       provider_cf: [
         {
           provider_id: "tp",
@@ -131,10 +110,10 @@
       ]
     },
     {
-      name: "NLD",
+      name: "Người Lao Động",
       type: 0,
       use_char_icon: true,
-      res_icon_name: "cat_tam_su",
+      res_icon_name: "char_NLD",
       provider_cf: [
         {
           provider_id: "nld",
