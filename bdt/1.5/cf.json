@@ -113,6 +113,7 @@
     {
       name: "Game",
       type: 0,
+      enabled: false,
       use_char_icon: true,
       res_icon_name: "cat_so_hoa",
       provider_cf: [
