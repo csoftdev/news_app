@@ -95,7 +95,7 @@
       name: "Tiền Phong",
       type: 0,
       use_char_icon: true,
-      res_icon_name: "char_TN",
+      res_icon_name: "char_TP",
       provider_cf: [
         {
           provider_id: "tp",
