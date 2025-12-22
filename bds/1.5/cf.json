@@ -8,142 +8,16 @@
       res_icon_name: "cat_thoi_su",
       provider_cf: [
         {
-          provider_id: "ncdt_nen_doc",
-          pid: "n24_home",
-          group_id: "nen_doc",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=3&cid=7&count=30&",
-          page_var: "lid",
-          page_type: "custom,0",
-          detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=3&cid=7&count=5&lid={post.id}"
-        }
-      ]
-    },
-    {
-      name: "Đô Thị",
-      type: 0,
-      use_char_icon: true,
-      res_icon_name: "cat_do_thi",
-      provider_cf: [
-        {
-          provider_id: "quyhoach",
-          pid: "n24_home",
-          group_id: "quyhoach",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&cid=9&sid=81&count=30&",
-          page_var: "lid",
-          page_type: "custom,0",
-          detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=81&cid=9&count=5&lid={post.id}"
-        }
-      ]
-    },
-    {
-      name: "Doanh Nghiệp",
-      type: 0,
-      use_char_icon: true,
-      res_icon_name: "char_DN",
-      provider_cf: [
-        {
-          provider_id: "tbnh",
-          pid: "n24_home",
-          group_id: "tbnh",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=60&cid=21&count=30&",
-          page_var: "lid",
-          page_type: "custom,0",
-          detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=60&cid=21&count=5&lid={post.id}"
-        }
-      ]
-    },
-    {
-      name: "CAND",
-      type: 0,
-      use_char_icon: true,
-      res_icon_name: "char_CA",
-      provider_cf: [
-        {
-          provider_id: "doanhnhan",
-          pid: "n24_home",
-          group_id: "doanhnhan",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=46&cid=16&count=30&",
-          page_var: "lid",
-          page_type: "custom,0",
-          detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=46&cid=16&count=5&lid={post.id}"
-        }
-      ]
-    },
-    {
-      name: "Người Đưa Tin",
-      type: 0,
-      use_char_icon: true,
-      res_icon_name: "char_NDT",
-      provider_cf: [
-        {
-          provider_id: "diendan",
-          pid: "n24_home",
-          group_id: "diendan",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=60&cid=20&count=30&",
-          page_var: "lid",
-          page_type: "custom,0",
-          detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=60&cid=20&count=5&lid={post.id}"
-        }
-      ]
-    },
-    {
-      name: "Tiền Phong",
-      type: 0,
-      use_char_icon: true,
-      res_icon_name: "char_TP",
-      provider_cf: [
-        {
-          provider_id: "tp",
-          pid: "n24_home",
-          group_id: "tp",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=22&cid=3&count=30&",
-          page_var: "lid",
-          page_type: "custom,0",
-          detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=22&cid=3&count=5&lid={post.id}"
-        }
-      ]
-    },
-    {
-      name: "Người Lao Động",
-      type: 0,
-      use_char_icon: true,
-      res_icon_name: "char_NLD",
-      provider_cf: [
-        {
-          provider_id: "nld",
-          pid: "n24_home",
-          group_id: "nld",
-          url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=28&cid=5&count=30&",
-          page_var: "lid",
-          page_type: "custom,0",
-          detail_url: "",
-          related_url: "https://api.5play.mobi/news/v4.0/articles?latest=0&sid=28&cid=5&count=5&lid={post.id}"
-        }
-      ]
-    },
-    {
-      name: "VnExpress",
-      type: 0,
-      enabled: false,
-      use_char_icon: true,
-      res_icon_name: "char_VNE",
-      provider_cf: [
-        {
-          provider_id: "vne",
-          pid: "vne_cate_bds",
-          group_id: "vne",
-          url: "https://api3.vnexpress.net/api/article?type=get_rule_2&select=article_id,article_type,original_cate,site_id,title,lead,share_url,thumbnail_url,privacy,publish_time,list_object_type&cate_id=1003181&limit=10&app_id=c31b32&",
-          page_var: "offset",
-          page_type: "offset,10",
-          detail_url: "https://api3.vnexpress.net/api/article?type=get_full&app_id=c31b32&option=seemore",
-          detail_params: {
-            article_id: "post.id"
+          provider_id: "home",
+          pid: "h2kso",
+          group_id: "home",
+          url: "http://h2ksolution.com/api/get_arc_by_catid?catid=11&",
+          page_var: "page",
+          page_type: "normal,1",
+          detail_url: "http://h2ksolution.com/api/get_noi_dung_tin_new?arcid={post.id}",
+          related_url: "http://h2ksolution.com/api/get_related_arc?arcid={post.id}",
+          headers:{
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36"
           }
         }
       ]
@@ -170,3 +44,4 @@
     }
   ]
 }
+
