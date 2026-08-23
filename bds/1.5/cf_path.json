@@ -31,7 +31,7 @@
       dateTimeZone: "GMT+7"
     }
   },
-  vne_cate_bds: {
+  vne: {
     post_list: "$.data.1005628",
     post: {
       id: "article_id",
